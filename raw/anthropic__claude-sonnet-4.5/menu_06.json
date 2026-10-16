@@ -1,0 +1,856 @@
+{
+  "menu_id": "menu_06",
+  "restaurant_name_raw": "The Street Cambodia TK branch",
+  "restaurant_name_en": "The Street Cambodia TK branch",
+  "currency_notes": "All prices appear to be in KHR (riels) without explicit symbols.",
+  "items": [
+    {
+      "name_km": "អាម៉ូដិតេយៈណាប្រុយមួយ",
+      "name_en": "Amok Trey (small)",
+      "section_raw": "ស្រូវ",
+      "price_raw": "ថ. 20,000",
+      "price_value": 20000,
+      "currency": "KHR",
+      "size_or_unit": "small",
+      "tags": [
+        "fish"
+      ],
+      "multi_unit": false,
+      "confidence": 0.75,
+      "notes": "ថ. likely abbreviation for thousand riels"
+    },
+    {
+      "name_km": "អាម៉ូដិតេយៈណាប្រុយមួយ",
+      "name_en": "Amok Trey (large)",
+      "section_raw": "ស្រូវ",
+      "price_raw": "ថ. 40,000",
+      "price_value": 40000,
+      "currency": "KHR",
+      "size_or_unit": "large",
+      "tags": [
+        "fish"
+      ],
+      "multi_unit": false,
+      "confidence": 0.75,
+      "notes": "ថ. likely abbreviation for thousand riels"
+    },
+    {
+      "name_km": "គីដីណាញ",
+      "name_en": "Kuy Teav",
+      "section_raw": "ស្រូវ",
+      "price_raw": "ថ. 15,000",
+      "price_value": 15000,
+      "currency": "KHR",
+      "size_or_unit": "small",
+      "tags": [
+        "noodle",
+        "pork"
+      ],
+      "multi_unit": false,
+      "confidence": 0.7,
+      "notes": ""
+    },
+    {
+      "name_km": "គីដីណាញ",
+      "name_en": "Kuy Teav",
+      "section_raw": "ស្រូវ",
+      "price_raw": "ថ. 30,000",
+      "price_value": 30000,
+      "currency": "KHR",
+      "size_or_unit": "large",
+      "tags": [
+        "noodle",
+        "pork"
+      ],
+      "multi_unit": false,
+      "confidence": 0.7,
+      "notes": ""
+    },
+    {
+      "name_km": "បបូរគ្រឿង",
+      "name_en": "Bobor Kreung",
+      "section_raw": "ស្រូវ",
+      "price_raw": "ថ. 20,000",
+      "price_value": 20000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "rice",
+        "soup"
+      ],
+      "multi_unit": false,
+      "confidence": 0.7,
+      "notes": ""
+    },
+    {
+      "name_km": "បបូរគ្រឿង",
+      "name_en": "Bobor Kreung",
+      "section_raw": "ស្រូវ",
+      "price_raw": "ថ. 40,000",
+      "price_value": 40000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "rice",
+        "soup"
+      ],
+      "multi_unit": false,
+      "confidence": 0.7,
+      "notes": ""
+    },
+    {
+      "name_km": "កញ្ចប់",
+      "name_en": "Kanchat",
+      "section_raw": "ស្រូវ",
+      "price_raw": "ថ. 15,000",
+      "price_value": 15000,
+      "currency": "KHR",
+      "size_or_unit": "small",
+      "tags": [
+        "rice"
+      ],
+      "multi_unit": false,
+      "confidence": 0.65,
+      "notes": ""
+    },
+    {
+      "name_km": "កញ្ចប់",
+      "name_en": "Kanchat",
+      "section_raw": "ស្រូវ",
+      "price_raw": "ថ. 30,000",
+      "price_value": 30000,
+      "currency": "KHR",
+      "size_or_unit": "large",
+      "tags": [
+        "rice"
+      ],
+      "multi_unit": false,
+      "confidence": 0.65,
+      "notes": ""
+    },
+    {
+      "name_km": "កញ្ចប់សាច់ហ្វេះ",
+      "name_en": "Kanchat Sach Hek",
+      "section_raw": "ស្រូវ",
+      "price_raw": "ថ. 15,000",
+      "price_value": 15000,
+      "currency": "KHR",
+      "size_or_unit": "small",
+      "tags": [
+        "rice",
+        "pork"
+      ],
+      "multi_unit": false,
+      "confidence": 0.65,
+      "notes": ""
+    },
+    {
+      "name_km": "កញ្ចប់សាច់ហ្វេះ",
+      "name_en": "Kanchat Sach Hek",
+      "section_raw": "ស្រូវ",
+      "price_raw": "ថ. 30,000",
+      "price_value": 30000,
+      "currency": "KHR",
+      "size_or_unit": "large",
+      "tags": [
+        "rice",
+        "pork"
+      ],
+      "multi_unit": false,
+      "confidence": 0.65,
+      "notes": ""
+    },
+    {
+      "name_km": "កញ្ចប់បាយ",
+      "name_en": "Kanchat Bay",
+      "section_raw": "ស្រូវ",
+      "price_raw": "ថ. 15,000",
+      "price_value": 15000,
+      "currency": "KHR",
+      "size_or_unit": "small",
+      "tags": [
+        "rice"
+      ],
+      "multi_unit": false,
+      "confidence": 0.65,
+      "notes": ""
+    },
+    {
+      "name_km": "កញ្ចប់បាយ",
+      "name_en": "Kanchat Bay",
+      "section_raw": "ស្រូវ",
+      "price_raw": "ថ. 30,000",
+      "price_value": 30000,
+      "currency": "KHR",
+      "size_or_unit": "large",
+      "tags": [
+        "rice"
+      ],
+      "multi_unit": false,
+      "confidence": 0.65,
+      "notes": ""
+    },
+    {
+      "name_km": "អំបិលប្រុយស៊ុយ B-១០(ធំ, ចំនួន)",
+      "name_en": "Grilled Oysters B-10 (large, set)",
+      "section_raw": "ស្រូវ",
+      "price_raw": "ថ. 30,000",
+      "price_value": 30000,
+      "currency": "KHR",
+      "size_or_unit": "small",
+      "tags": [
+        "seafood"
+      ],
+      "multi_unit": false,
+      "confidence": 0.6,
+      "notes": ""
+    },
+    {
+      "name_km": "អំបិលប្រុយស៊ុយ B-១០(ធំ, ចំនួន)",
+      "name_en": "Grilled Oysters B-10 (large, set)",
+      "section_raw": "ស្រូវ",
+      "price_raw": "ថ. 60,000",
+      "price_value": 60000,
+      "currency": "KHR",
+      "size_or_unit": "large",
+      "tags": [
+        "seafood"
+      ],
+      "multi_unit": false,
+      "confidence": 0.6,
+      "notes": ""
+    },
+    {
+      "name_km": "អំបិលប្រុយស៊ុយ ៤ ចំនួន(ធំ, ចំនួន)",
+      "name_en": "Grilled Oysters 4 pieces (large, set)",
+      "section_raw": "ស្រូវ",
+      "price_raw": "ថ. 30,000",
+      "price_value": 30000,
+      "currency": "KHR",
+      "size_or_unit": "small",
+      "tags": [
+        "seafood"
+      ],
+      "multi_unit": false,
+      "confidence": 0.6,
+      "notes": ""
+    },
+    {
+      "name_km": "អំបិលប្រុយស៊ុយ ៤ ចំនួន(ធំ, ចំនួន)",
+      "name_en": "Grilled Oysters 4 pieces (large, set)",
+      "section_raw": "ស្រូវ",
+      "price_raw": "ថ. 60,000",
+      "price_value": 60000,
+      "currency": "KHR",
+      "size_or_unit": "large",
+      "tags": [
+        "seafood"
+      ],
+      "multi_unit": false,
+      "confidence": 0.6,
+      "notes": ""
+    },
+    {
+      "name_km": "Blue The Street",
+      "name_en": "Blue The Street",
+      "section_raw": "ស្រាក្រូច",
+      "price_raw": "14,000",
+      "price_value": 14000,
+      "currency": "KHR",
+      "size_or_unit": "glass",
+      "tags": [
+        "alcohol_other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.85,
+      "notes": ""
+    },
+    {
+      "name_km": "Mojito",
+      "name_en": "Mojito",
+      "section_raw": "ស្រាក្រូច",
+      "price_raw": "12,000",
+      "price_value": 12000,
+      "currency": "KHR",
+      "size_or_unit": "glass",
+      "tags": [
+        "alcohol_other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.85,
+      "notes": ""
+    },
+    {
+      "name_km": "White Margarita",
+      "name_en": "White Margarita",
+      "section_raw": "ស្រាក្រូច",
+      "price_raw": "12,000",
+      "price_value": 12000,
+      "currency": "KHR",
+      "size_or_unit": "glass",
+      "tags": [
+        "alcohol_other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.85,
+      "notes": ""
+    },
+    {
+      "name_km": "Blue Margarita",
+      "name_en": "Blue Margarita",
+      "section_raw": "ស្រាក្រូច",
+      "price_raw": "12,000",
+      "price_value": 12000,
+      "currency": "KHR",
+      "size_or_unit": "glass",
+      "tags": [
+        "alcohol_other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.85,
+      "notes": ""
+    },
+    {
+      "name_km": "Pink Margarita",
+      "name_en": "Pink Margarita",
+      "section_raw": "ស្រាក្រូច",
+      "price_raw": "12,000",
+      "price_value": 12000,
+      "currency": "KHR",
+      "size_or_unit": "glass",
+      "tags": [
+        "alcohol_other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.85,
+      "notes": ""
+    },
+    {
+      "name_km": "Long Island",
+      "name_en": "Long Island",
+      "section_raw": "ស្រាក្រូច",
+      "price_raw": "12,000",
+      "price_value": 12000,
+      "currency": "KHR",
+      "size_or_unit": "glass",
+      "tags": [
+        "alcohol_other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.85,
+      "notes": ""
+    },
+    {
+      "name_km": "Tiger Margarita",
+      "name_en": "Tiger Margarita",
+      "section_raw": "ស្រាក្រូច",
+      "price_raw": "20,000",
+      "price_value": 20000,
+      "currency": "KHR",
+      "size_or_unit": "glass",
+      "tags": [
+        "alcohol_other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": ""
+    },
+    {
+      "name_km": "Cruiser Margarita",
+      "name_en": "Cruiser Margarita",
+      "section_raw": "ស្រាក្រូច",
+      "price_raw": "24,000",
+      "price_value": 24000,
+      "currency": "KHR",
+      "size_or_unit": "glass",
+      "tags": [
+        "alcohol_other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": ""
+    },
+    {
+      "name_km": "Rainbow",
+      "name_en": "Rainbow",
+      "section_raw": "ស្រាក្រូច",
+      "price_raw": "14,000",
+      "price_value": 14000,
+      "currency": "KHR",
+      "size_or_unit": "glass",
+      "tags": [
+        "alcohol_other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": ""
+    },
+    {
+      "name_km": "Blue / Pink Petro",
+      "name_en": "Blue / Pink Petro",
+      "section_raw": "ស្រាក្រូច",
+      "price_raw": "24,000",
+      "price_value": 24000,
+      "currency": "KHR",
+      "size_or_unit": "glass",
+      "tags": [
+        "alcohol_other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": ""
+    },
+    {
+      "name_km": "Yellow / Green Petro",
+      "name_en": "Yellow / Green Petro",
+      "section_raw": "ស្រាក្រូច",
+      "price_raw": "24,000",
+      "price_value": 24000,
+      "currency": "KHR",
+      "size_or_unit": "glass",
+      "tags": [
+        "alcohol_other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": ""
+    },
+    {
+      "name_km": "The ផែន",
+      "name_en": "The RGB",
+      "section_raw": "ស្រាក្រូច",
+      "price_raw": "60,000",
+      "price_value": 60000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "alcohol_other"
+      ],
+      "multi_unit": true,
+      "confidence": 0.75,
+      "notes": ""
+    },
+    {
+      "name_km": "The Steet RGB",
+      "name_en": "The Street RGB",
+      "section_raw": "ស្រាក្រូច",
+      "price_raw": "12,000",
+      "price_value": 12000,
+      "currency": "KHR",
+      "size_or_unit": "glass",
+      "tags": [
+        "alcohol_other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": ""
+    },
+    {
+      "name_km": "Strawberry Smoothie",
+      "name_en": "Strawberry Smoothie",
+      "section_raw": "Smoothie",
+      "price_raw": "8,000",
+      "price_value": 8000,
+      "currency": "KHR",
+      "size_or_unit": "glass",
+      "tags": [
+        "other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "Melon Smoothie",
+      "name_en": "Melon Smoothie",
+      "section_raw": "Smoothie",
+      "price_raw": "8,000",
+      "price_value": 8000,
+      "currency": "KHR",
+      "size_or_unit": "glass",
+      "tags": [
+        "other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "Passion Smoothie",
+      "name_en": "Passion Smoothie",
+      "section_raw": "Smoothie",
+      "price_raw": "8,000",
+      "price_value": 8000,
+      "currency": "KHR",
+      "size_or_unit": "glass",
+      "tags": [
+        "other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "Blue Berry Smoothie",
+      "name_en": "Blue Berry Smoothie",
+      "section_raw": "Smoothie",
+      "price_raw": "8,000",
+      "price_value": 8000,
+      "currency": "KHR",
+      "size_or_unit": "glass",
+      "tags": [
+        "other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "Orange Smoothie",
+      "name_en": "Orange Smoothie",
+      "section_raw": "Smoothie",
+      "price_raw": "8,000",
+      "price_value": 8000,
+      "currency": "KHR",
+      "size_or_unit": "glass",
+      "tags": [
+        "other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "Kiwi Smoothie",
+      "name_en": "Kiwi Smoothie",
+      "section_raw": "Smoothie",
+      "price_raw": "8,000",
+      "price_value": 8000,
+      "currency": "KHR",
+      "size_or_unit": "glass",
+      "tags": [
+        "other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "Strawberry Soda",
+      "name_en": "Strawberry Soda",
+      "section_raw": "ក្រូចសូដា",
+      "price_raw": "6,000",
+      "price_value": 6000,
+      "currency": "KHR",
+      "size_or_unit": "glass",
+      "tags": [
+        "soft_drink"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "Melon Soda",
+      "name_en": "Melon Soda",
+      "section_raw": "ក្រូចសូដា",
+      "price_raw": "6,000",
+      "price_value": 6000,
+      "currency": "KHR",
+      "size_or_unit": "glass",
+      "tags": [
+        "soft_drink"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "Passion Soda",
+      "name_en": "Passion Soda",
+      "section_raw": "ក្រូចសូដា",
+      "price_raw": "6,000",
+      "price_value": 6000,
+      "currency": "KHR",
+      "size_or_unit": "glass",
+      "tags": [
+        "soft_drink"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "Blue Berry Soda",
+      "name_en": "Blue Berry Soda",
+      "section_raw": "ក្រូចសូដា",
+      "price_raw": "6,000",
+      "price_value": 6000,
+      "currency": "KHR",
+      "size_or_unit": "glass",
+      "tags": [
+        "soft_drink"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "Orange Soda",
+      "name_en": "Orange Soda",
+      "section_raw": "ក្រូចសូដា",
+      "price_raw": "6,000",
+      "price_value": 6000,
+      "currency": "KHR",
+      "size_or_unit": "glass",
+      "tags": [
+        "soft_drink"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "Kiwi Soda",
+      "name_en": "Kiwi Soda",
+      "section_raw": "ក្រូចសូដា",
+      "price_raw": "6,000",
+      "price_value": 6000,
+      "currency": "KHR",
+      "size_or_unit": "glass",
+      "tags": [
+        "soft_drink"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "ម៉ាស៊ីនក្រូចស្រស់ស្រាំង",
+      "name_en": "Fresh Juice Machine",
+      "section_raw": "ម៉ាស៊ីន",
+      "price_raw": "ថ. 7,000",
+      "price_value": 7000,
+      "currency": "KHR",
+      "size_or_unit": "small",
+      "tags": [
+        "other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.6,
+      "notes": ""
+    },
+    {
+      "name_km": "ម៉ាស៊ីនក្រូចស្រស់ស្រាំង",
+      "name_en": "Fresh Juice Machine",
+      "section_raw": "ម៉ាស៊ីន",
+      "price_raw": "ថ. 16,000",
+      "price_value": 16000,
+      "currency": "KHR",
+      "size_or_unit": "large",
+      "tags": [
+        "other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.6,
+      "notes": ""
+    },
+    {
+      "name_km": "កញ្ចប់ទឹក",
+      "name_en": "Kanchat Teuk",
+      "section_raw": "ម៉ាស៊ីន",
+      "price_raw": "ថ. 15,000",
+      "price_value": 15000,
+      "currency": "KHR",
+      "size_or_unit": "small",
+      "tags": [
+        "noodle"
+      ],
+      "multi_unit": false,
+      "confidence": 0.6,
+      "notes": ""
+    },
+    {
+      "name_km": "កញ្ចប់ទឹក",
+      "name_en": "Kanchat Teuk",
+      "section_raw": "ម៉ាស៊ីន",
+      "price_raw": "ថ. 30,000",
+      "price_value": 30000,
+      "currency": "KHR",
+      "size_or_unit": "large",
+      "tags": [
+        "noodle"
+      ],
+      "multi_unit": false,
+      "confidence": 0.6,
+      "notes": ""
+    },
+    {
+      "name_km": "ម៉ាក្រូច",
+      "name_en": "Makroch",
+      "section_raw": "ម៉ាស៊ីន",
+      "price_raw": "ថ. 15,000",
+      "price_value": 15000,
+      "currency": "KHR",
+      "size_or_unit": "small",
+      "tags": [
+        "noodle"
+      ],
+      "multi_unit": false,
+      "confidence": 0.6,
+      "notes": ""
+    },
+    {
+      "name_km": "ម៉ាក្រូច",
+      "name_en": "Makroch",
+      "section_raw": "ម៉ាស៊ីន",
+      "price_raw": "ថ. 30,000",
+      "price_value": 30000,
+      "currency": "KHR",
+      "size_or_unit": "large",
+      "tags": [
+        "noodle"
+      ],
+      "multi_unit": false,
+      "confidence": 0.6,
+      "notes": ""
+    },
+    {
+      "name_km": "ចាបណាបាយ",
+      "name_en": "Chab Na Bay",
+      "section_raw": "ម៉ាស៊ីន",
+      "price_raw": "ថ. 12,000",
+      "price_value": 12000,
+      "currency": "KHR",
+      "size_or_unit": "small",
+      "tags": [
+        "noodle"
+      ],
+      "multi_unit": false,
+      "confidence": 0.6,
+      "notes": ""
+    },
+    {
+      "name_km": "ចាបណាបាយ",
+      "name_en": "Chab Na Bay",
+      "section_raw": "ម៉ាស៊ីន",
+      "price_raw": "ថ. 24,000",
+      "price_value": 24000,
+      "currency": "KHR",
+      "size_or_unit": "large",
+      "tags": [
+        "noodle"
+      ],
+      "multi_unit": false,
+      "confidence": 0.6,
+      "notes": ""
+    },
+    {
+      "name_km": "ចាបណាបាយស្រូវ",
+      "name_en": "Chab Na Bay Srov",
+      "section_raw": "ម៉ាស៊ីន",
+      "price_raw": "ថ. 12,000",
+      "price_value": 12000,
+      "currency": "KHR",
+      "size_or_unit": "small",
+      "tags": [
+        "noodle"
+      ],
+      "multi_unit": false,
+      "confidence": 0.6,
+      "notes": ""
+    },
+    {
+      "name_km": "ចាបណាបាយស្រូវ",
+      "name_en": "Chab Na Bay Srov",
+      "section_raw": "ម៉ាស៊ីន",
+      "price_raw": "ថ. 24,000",
+      "price_value": 24000,
+      "currency": "KHR",
+      "size_or_unit": "large",
+      "tags": [
+        "noodle"
+      ],
+      "multi_unit": false,
+      "confidence": 0.6,
+      "notes": ""
+    },
+    {
+      "name_km": "ចាបណា",
+      "name_en": "Chab Na",
+      "section_raw": "ម៉ាស៊ីន",
+      "price_raw": "1,000",
+      "price_value": 1000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.7,
+      "notes": ""
+    },
+    {
+      "name_km": "ក្រូចទឹកដោះ",
+      "name_en": "Kroch Teuk Doh",
+      "section_raw": "ម៉ាស៊ីន",
+      "price_raw": "ថ. 3,000",
+      "price_value": 3000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.6,
+      "notes": ""
+    },
+    {
+      "name_km": "ម៉ាស៊ីនក្រូចស្រស់ស្រាំង ទឹកដោះ",
+      "name_en": "Fresh Juice Machine with Milk",
+      "section_raw": "ម៉ាស៊ីន",
+      "price_raw": "ថ. 15,000",
+      "price_value": 15000,
+      "currency": "KHR",
+      "size_or_unit": "small",
+      "tags": [
+        "other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.6,
+      "notes": ""
+    },
+    {
+      "name_km": "ម៉ាស៊ីនក្រូចស្រស់ស្រាំង ទឹកដោះ",
+      "name_en": "Fresh Juice Machine with Milk",
+      "section_raw": "ម៉ាស៊ីន",
+      "price_raw": "ថ. 30,000",
+      "price_value": 30000,
+      "currency": "KHR",
+      "size_or_unit": "large",
+      "tags": [
+        "other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.6,
+      "notes": ""
+    },
+    {
+      "name_km": "ក្រូចក្រូចក្រូច ទឹកដោះ",
+      "name_en": "Kroch Kroch Kroch with Milk",
+      "section_raw": "ម៉ាស៊ីន",
+      "price_raw": "ថ. 15,000",
+      "price_value": 15000,
+      "currency": "KHR",
+      "size_or_unit": "small",
+      "tags": [
+        "other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.55,
+      "notes": ""
+    }
+  ],
+  "_source_file": "Screenshot 2026-07-20 at 10.30.11 PM.png",
+  "_model": "anthropic/claude-sonnet-4.5"
+}

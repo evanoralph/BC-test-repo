@@ -1,0 +1,303 @@
+{
+  "menu_id": "menu_05",
+  "restaurant_name_raw": null,
+  "restaurant_name_en": null,
+  "notes": "Bilingual KHR menu; SEA FOOD (D) + DRINKS (F) with beers + dessert E-1. Spot-checked from image.",
+  "items": [
+    {
+      "name_km": "បាយឆាសាច់គោ",
+      "name_en": "Fried Rice (with Beef)",
+      "price_raw": "12,000៛",
+      "price_value": 12000,
+      "currency": "KHR",
+      "tags": ["rice", "beef"]
+    },
+    {
+      "name_km": "បាយឆាគ្រឿងសមុទ្រ",
+      "name_en": "Fried Rice (with Seafood)",
+      "price_raw": "12,000៛",
+      "price_value": 12000,
+      "currency": "KHR",
+      "tags": ["rice", "seafood"]
+    },
+    {
+      "name_km": "បាយស",
+      "name_en": "Rice",
+      "price_raw": "2,000៛",
+      "price_value": 2000,
+      "currency": "KHR",
+      "tags": ["rice"]
+    },
+    {
+      "name_km": "បាយស ១ឆ្នាំង",
+      "name_en": "Rice (one pot)",
+      "price_raw": "8,000៛",
+      "price_value": 8000,
+      "currency": "KHR",
+      "tags": ["rice"]
+    },
+    {
+      "name_km": "បង្គាចំហុយខ្ទឹមស",
+      "name_en": "Steamed shrimp with garlic",
+      "price_raw": "26,000៛",
+      "price_value": 26000,
+      "currency": "KHR",
+      "tags": ["seafood"]
+    },
+    {
+      "name_km": "បង្គាបំពងស្រួយ",
+      "name_en": "Crispy fried shrimp",
+      "price_raw": "26,000៛",
+      "price_value": 26000,
+      "currency": "KHR",
+      "tags": ["seafood"]
+    },
+    {
+      "name_km": "បង្គាឆាជូរហឹរ",
+      "name_en": "Fried shrimp sour chili",
+      "price_raw": "26,000៛",
+      "price_value": 26000,
+      "currency": "KHR",
+      "tags": ["seafood"]
+    },
+    {
+      "name_km": "បង្គាឆាសាំងហ្គាពួរ",
+      "name_en": "Singapore fried shrimp",
+      "price_raw": "26,000៛",
+      "price_value": 26000,
+      "currency": "KHR",
+      "tags": ["seafood"]
+    },
+    {
+      "name_km": "បង្គាអាំងអំបិលម្ទេស",
+      "name_en": "Roasted shrimp salt chili",
+      "price_raw": "26,000៛",
+      "price_value": 26000,
+      "currency": "KHR",
+      "tags": ["seafood"]
+    },
+    {
+      "name_km": "ភ្លាម្រះគ្រឿងសមុទ្រ",
+      "name_en": "Bitter melon with seafood",
+      "price_raw": "26,000៛",
+      "price_value": 26000,
+      "currency": "KHR",
+      "tags": ["seafood", "vegetable"]
+    },
+    {
+      "name_km": "ក្តាមបីរសជាតិ",
+      "name_en": "Three-taste crab",
+      "price_raw": "26,000៛",
+      "price_value": 26000,
+      "currency": "KHR",
+      "tags": ["seafood"]
+    },
+    {
+      "name_km": "ក្តាមអាំងអំបិលម្ទេស",
+      "name_en": "Roast crab salt chili",
+      "price_raw": "26,000៛",
+      "price_value": 26000,
+      "currency": "KHR",
+      "tags": ["seafood"]
+    },
+    {
+      "name_km": "ក្តាមចំហុយមីសួ",
+      "name_en": "Steamed crab with vermicelli",
+      "price_raw": "26,000៛",
+      "price_value": 26000,
+      "currency": "KHR",
+      "tags": ["seafood", "noodle"]
+    },
+    {
+      "name_km": "ក្តាមឆាម្រេច",
+      "name_en": "Fried crab with pepper",
+      "price_raw": "26,000៛",
+      "price_value": 26000,
+      "currency": "KHR",
+      "tags": ["seafood"]
+    },
+    {
+      "name_km": "មឹកឆាម្រេចខ្ចី",
+      "name_en": "Fried squid green pepper",
+      "price_raw": "26,000៛",
+      "price_value": 26000,
+      "currency": "KHR",
+      "tags": ["seafood"]
+    },
+    {
+      "name_km": "មឹកឆាបន្ទះដែក",
+      "name_en": "Iron-plate squid",
+      "price_raw": "26,000៛",
+      "price_value": 26000,
+      "currency": "KHR",
+      "tags": ["seafood"]
+    },
+    {
+      "name_km": "ក្តាមស្រុះ",
+      "name_en": "Steamed crab",
+      "price_raw": "26,000៛",
+      "price_value": 26000,
+      "currency": "KHR",
+      "tags": ["seafood"]
+    },
+    {
+      "name_km": "បង្គាស្រុះ",
+      "name_en": "Steamed shrimp",
+      "price_raw": "26,000៛",
+      "price_value": 26000,
+      "currency": "KHR",
+      "tags": ["seafood"]
+    },
+    {
+      "name_km": "ទឹកសុទ្ធដបតូច",
+      "name_en": "Fresh water small bottle",
+      "price_raw": "2,000៛",
+      "price_value": 2000,
+      "currency": "KHR",
+      "size_or_unit": "bottle",
+      "tags": ["water"]
+    },
+    {
+      "name_km": "ទឹកផ្លែឈើកំប៉ុង",
+      "name_en": "Fruit juice can",
+      "price_raw": "3,000៛",
+      "price_value": 3000,
+      "currency": "KHR",
+      "size_or_unit": "can",
+      "tags": ["soft_drink"]
+    },
+    {
+      "name_km": "កូកា ស្ទឹង កំប៉ុង",
+      "name_en": "Coke / Sting can",
+      "price_raw": "3,000៛",
+      "price_value": 3000,
+      "currency": "KHR",
+      "size_or_unit": "can",
+      "tags": ["soft_drink"]
+    },
+    {
+      "name_km": "បាកាសកំប៉ុង",
+      "name_en": "Bacchus can",
+      "price_raw": "4,000៛",
+      "price_value": 4000,
+      "currency": "KHR",
+      "size_or_unit": "can",
+      "tags": ["soft_drink"]
+    },
+    {
+      "name_km": "កូកាឡៃកំប៉ុង",
+      "name_en": "Coca Light can",
+      "price_raw": "6,000៛",
+      "price_value": 6000,
+      "currency": "KHR",
+      "size_or_unit": "can",
+      "tags": ["soft_drink"]
+    },
+    {
+      "name_km": "ទឹកសុទ្ធដបធំ",
+      "name_en": "Fresh water big bottle",
+      "price_raw": "8,000៛",
+      "price_value": 8000,
+      "currency": "KHR",
+      "size_or_unit": "bottle",
+      "tags": ["water"]
+    },
+    {
+      "name_km": "TIGER BEER ដបតូច",
+      "name_en": "Tiger Beer small bottle",
+      "price_raw": "8,000៛",
+      "price_value": 8000,
+      "currency": "KHR",
+      "size_or_unit": "bottle",
+      "tags": ["beer"]
+    },
+    {
+      "name_km": "ANGKOR BEER ដបតូច",
+      "name_en": "Angkor Beer small bottle",
+      "price_raw": "4,000៛",
+      "price_value": 4000,
+      "currency": "KHR",
+      "size_or_unit": "bottle",
+      "tags": ["beer"]
+    },
+    {
+      "name_km": "ANCHOR BEER ដបតូច",
+      "name_en": "Anchor Beer small bottle",
+      "price_raw": "4,000៛",
+      "price_value": 4000,
+      "currency": "KHR",
+      "size_or_unit": "bottle",
+      "tags": ["beer"]
+    },
+    {
+      "name_km": "HEINEKEN BEER ដបតូច",
+      "name_en": "Heineken Beer small bottle",
+      "price_raw": "10,000៛",
+      "price_value": 10000,
+      "currency": "KHR",
+      "size_or_unit": "bottle",
+      "tags": ["beer"]
+    },
+    {
+      "name_km": "GUINNESS BEER ដបតូច",
+      "name_en": "Guinness Beer small bottle",
+      "price_raw": "10,000៛",
+      "price_value": 10000,
+      "currency": "KHR",
+      "size_or_unit": "bottle",
+      "tags": ["beer"]
+    },
+    {
+      "name_km": "CORONA BEER ដបតូច",
+      "name_en": "Corona Beer small bottle",
+      "price_raw": "10,000៛",
+      "price_value": 10000,
+      "currency": "KHR",
+      "size_or_unit": "bottle",
+      "tags": ["beer"]
+    },
+    {
+      "name_km": "ABC BEER ដបតូច",
+      "name_en": "ABC Beer small bottle",
+      "price_raw": "10,000៛",
+      "price_value": 10000,
+      "currency": "KHR",
+      "size_or_unit": "bottle",
+      "tags": ["beer"]
+    },
+    {
+      "name_km": "SOMERSBY BEER",
+      "name_en": "Somersby Beer",
+      "price_raw": "10,000៛",
+      "price_value": 10000,
+      "currency": "KHR",
+      "tags": ["beer"]
+    },
+    {
+      "name_km": "BUDWEISER BEER ដបតូច",
+      "name_en": "Budweiser Beer small bottle",
+      "price_raw": "10,000៛",
+      "price_value": 10000,
+      "currency": "KHR",
+      "size_or_unit": "bottle",
+      "tags": ["beer"]
+    },
+    {
+      "name_km": "CAMBODIA BEER ដបតូច",
+      "name_en": "Cambodia Beer small bottle",
+      "price_raw": "4,000៛",
+      "price_value": 4000,
+      "currency": "KHR",
+      "size_or_unit": "bottle",
+      "tags": ["beer"]
+    },
+    {
+      "name_km": "បង្អែមខ្មែរបាយដំណើប",
+      "name_en": "Jackfruit with sticky rice",
+      "price_raw": "6,000៛",
+      "price_value": 6000,
+      "currency": "KHR",
+      "tags": ["dessert"]
+    }
+  ]
+}

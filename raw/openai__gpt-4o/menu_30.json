@@ -1,0 +1,262 @@
+{
+  "menu_id": "menu_30",
+  "restaurant_name_raw": "ភោជនីយដ្ឋាន ណារិនបាត់ដំបង",
+  "restaurant_name_en": "Reatry Battambong Restaurant",
+  "currency_notes": "Currency is unclear; both $ and ៛ are used.",
+  "items": [
+    {
+      "name_km": "សាច់មាន់, ត្រី, សាច់ជ្រូក, សាច់គោ",
+      "name_en": "Fried chicken - Fish - Pork - Beef With Ginger",
+      "section_raw": "",
+      "price_raw": "៤,៥០០៛",
+      "price_value": 4500,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "chicken",
+        "fish",
+        "pork",
+        "beef"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": ""
+    },
+    {
+      "name_km": "មឹកបំពង, ម្ទេសខ្ចី",
+      "name_en": "Fried Squid With light pepper",
+      "section_raw": "",
+      "price_raw": "៦,៥០០៛",
+      "price_value": 6500,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "seafood"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": ""
+    },
+    {
+      "name_km": "សាច់គោបំពង, បន្លែផ្សំ",
+      "name_en": "Stir fried beef/pork meat with vegetable",
+      "section_raw": "",
+      "price_raw": "៤.០០$",
+      "price_value": 4.0,
+      "currency": "USD",
+      "size_or_unit": null,
+      "tags": [
+        "beef",
+        "vegetable"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": ""
+    },
+    {
+      "name_km": "សាច់គោបំពង, បន្លែផ្សំ",
+      "name_en": "Stir fried beef/pork meat with vegetable",
+      "section_raw": "",
+      "price_raw": "៦.០០$",
+      "price_value": 6.0,
+      "currency": "USD",
+      "size_or_unit": null,
+      "tags": [
+        "beef",
+        "vegetable"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": ""
+    },
+    {
+      "name_km": "សាច់គោបំពង, សាច់ជ្រូក, សាច់មាន់",
+      "name_en": "Fried lok lak beef pork chicken fish",
+      "section_raw": "",
+      "price_raw": "៦.០០$",
+      "price_value": 6.0,
+      "currency": "USD",
+      "size_or_unit": null,
+      "tags": [
+        "beef",
+        "pork",
+        "chicken",
+        "fish"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": ""
+    },
+    {
+      "name_km": "សាច់គោបំពង, សាច់ជ្រូក, សាច់មាន់",
+      "name_en": "Fried lok lak beef pork chicken fish",
+      "section_raw": "",
+      "price_raw": "៨.០០$",
+      "price_value": 8.0,
+      "currency": "USD",
+      "size_or_unit": null,
+      "tags": [
+        "beef",
+        "pork",
+        "chicken",
+        "fish"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": ""
+    },
+    {
+      "name_km": "សាច់គោបំពង, សាច់ជ្រូក, សាច់មាន់",
+      "name_en": "Fried Beef pork chicken",
+      "section_raw": "",
+      "price_raw": "៤.៥០$",
+      "price_value": 4.5,
+      "currency": "USD",
+      "size_or_unit": null,
+      "tags": [
+        "beef",
+        "pork",
+        "chicken"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": ""
+    },
+    {
+      "name_km": "សាច់គោបំពង, សាច់ជ្រូក, សាច់មាន់",
+      "name_en": "Fried Beef pork chicken",
+      "section_raw": "",
+      "price_raw": "៦.០០$",
+      "price_value": 6.0,
+      "currency": "USD",
+      "size_or_unit": null,
+      "tags": [
+        "beef",
+        "pork",
+        "chicken"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": ""
+    },
+    {
+      "name_km": "សាច់ជ្រូកបំពង, ប៉េងប៉ោះ",
+      "name_en": "Beef pork fried tomatoes",
+      "section_raw": "",
+      "price_raw": "៥.០០$",
+      "price_value": 5.0,
+      "currency": "USD",
+      "size_or_unit": null,
+      "tags": [
+        "beef",
+        "pork",
+        "vegetable"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": ""
+    },
+    {
+      "name_km": "សាច់ជ្រូកបំពង, ប៉េងប៉ោះ",
+      "name_en": "Beef pork fried tomatoes",
+      "section_raw": "",
+      "price_raw": "៧.០០$",
+      "price_value": 7.0,
+      "currency": "USD",
+      "size_or_unit": null,
+      "tags": [
+        "beef",
+        "pork",
+        "vegetable"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": ""
+    },
+    {
+      "name_km": "សាច់ជ្រូកបំពង, ផ្កាខាត់ណា, ម្ទេស",
+      "name_en": "Beef pork fried cauliflower chili",
+      "section_raw": "",
+      "price_raw": "៤.០០$",
+      "price_value": 4.0,
+      "currency": "USD",
+      "size_or_unit": null,
+      "tags": [
+        "beef",
+        "pork",
+        "vegetable"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": ""
+    },
+    {
+      "name_km": "សាច់ជ្រូកបំពង, ផ្កាខាត់ណា, ម្ទេស",
+      "name_en": "Beef pork fried cauliflower chili",
+      "section_raw": "",
+      "price_raw": "៦.០០$",
+      "price_value": 6.0,
+      "currency": "USD",
+      "size_or_unit": null,
+      "tags": [
+        "beef",
+        "pork",
+        "vegetable"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": ""
+    },
+    {
+      "name_km": "គុយទាវបំពងសាច់គោ, សាច់ជ្រូក, បន្លែផ្សំ",
+      "name_en": "Imitations with vegetable",
+      "section_raw": "",
+      "price_raw": "៥.០០$",
+      "price_value": 5.0,
+      "currency": "USD",
+      "size_or_unit": null,
+      "tags": [
+        "beef",
+        "pork",
+        "vegetable"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": ""
+    },
+    {
+      "name_km": "គុយទាវបំពងសាច់គោ, សាច់ជ្រូក, បន្លែផ្សំ",
+      "name_en": "Imitations with vegetable",
+      "section_raw": "",
+      "price_raw": "៧.០០$",
+      "price_value": 7.0,
+      "currency": "USD",
+      "size_or_unit": null,
+      "tags": [
+        "beef",
+        "pork",
+        "vegetable"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": ""
+    },
+    {
+      "name_km": "បាយឆា, សាច់គោ",
+      "name_en": "Fried special vegetable",
+      "section_raw": "",
+      "price_raw": "៨.០០$",
+      "price_value": 8.0,
+      "currency": "USD",
+      "size_or_unit": null,
+      "tags": [
+        "vegetable"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": ""
+    }
+  ],
+  "_source_file": "Screenshot 2026-07-21 at 11.16.25 AM.png",
+  "_model": "openai/gpt-4o"
+}

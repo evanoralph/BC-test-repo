@@ -1,0 +1,151 @@
+{
+  "menu_id": "menu_01",
+  "restaurant_name_raw": "ហាងបាយ វិមានឯករាជ្យ (បាយដាច់យប់)",
+  "restaurant_name_en": "Vimean Ekareach Rice Restaurant (Late Night Rice)",
+  "currency_notes": "No prices are visible on this menu for any of the items.",
+  "items": [
+    {
+      "name_km": "បាយភ្លៅមាន់",
+      "name_en": "Rice with Chicken Thigh",
+      "section_raw": null,
+      "price_raw": null,
+      "price_value": null,
+      "currency": "unknown",
+      "size_or_unit": null,
+      "tags": [
+        "rice",
+        "chicken"
+      ],
+      "multi_unit": false,
+      "confidence": 0.7,
+      "notes": "Price is not listed on the menu."
+    },
+    {
+      "name_km": "បាយឆ្អឹងជំនីជ្រូក",
+      "name_en": "Rice with Pork Ribs",
+      "section_raw": null,
+      "price_raw": null,
+      "price_value": null,
+      "currency": "unknown",
+      "size_or_unit": null,
+      "tags": [
+        "rice",
+        "pork"
+      ],
+      "multi_unit": false,
+      "confidence": 0.7,
+      "notes": "Price is not listed on the menu."
+    },
+    {
+      "name_km": "បាយផាក់ឡូវ",
+      "name_en": "Rice with Phak Lov (Braised Pork/Egg)",
+      "section_raw": null,
+      "price_raw": null,
+      "price_value": null,
+      "currency": "unknown",
+      "size_or_unit": null,
+      "tags": [
+        "rice",
+        "pork",
+        "egg"
+      ],
+      "multi_unit": false,
+      "confidence": 0.7,
+      "notes": "Price is not listed on the menu."
+    },
+    {
+      "name_km": "បាយស្លាបមាន់",
+      "name_en": "Rice with Chicken Wings",
+      "section_raw": null,
+      "price_raw": null,
+      "price_value": null,
+      "currency": "unknown",
+      "size_or_unit": null,
+      "tags": [
+        "rice",
+        "chicken"
+      ],
+      "multi_unit": false,
+      "confidence": 0.7,
+      "notes": "Price is not listed on the menu."
+    },
+    {
+      "name_km": "បាយសាច់ជ្រូក",
+      "name_en": "Rice with Pork",
+      "section_raw": null,
+      "price_raw": null,
+      "price_value": null,
+      "currency": "unknown",
+      "size_or_unit": null,
+      "tags": [
+        "rice",
+        "pork"
+      ],
+      "multi_unit": false,
+      "confidence": 0.7,
+      "notes": "Price is not listed on the menu."
+    },
+    {
+      "name_km": "ពងទាក្រឡុក",
+      "name_en": "Shaken Duck Egg (Balut)",
+      "section_raw": null,
+      "price_raw": null,
+      "price_value": null,
+      "currency": "unknown",
+      "size_or_unit": null,
+      "tags": [
+        "egg"
+      ],
+      "multi_unit": false,
+      "confidence": 0.7,
+      "notes": "Price is not listed on the menu."
+    },
+    {
+      "name_km": "ពងទាចៀន",
+      "name_en": "Fried Duck Egg",
+      "section_raw": null,
+      "price_raw": null,
+      "price_value": null,
+      "currency": "unknown",
+      "size_or_unit": null,
+      "tags": [
+        "egg"
+      ],
+      "multi_unit": false,
+      "confidence": 0.7,
+      "notes": "Price is not listed on the menu."
+    },
+    {
+      "name_km": "ពងទាខ",
+      "name_en": "Braised Duck Egg",
+      "section_raw": null,
+      "price_raw": null,
+      "price_value": null,
+      "currency": "unknown",
+      "size_or_unit": null,
+      "tags": [
+        "egg"
+      ],
+      "multi_unit": false,
+      "confidence": 0.7,
+      "notes": "Price is not listed on the menu."
+    },
+    {
+      "name_km": "ទឹកអំពៅ",
+      "name_en": "Sugarcane Juice",
+      "section_raw": null,
+      "price_raw": null,
+      "price_value": null,
+      "currency": "unknown",
+      "size_or_unit": null,
+      "tags": [
+        "soft_drink"
+      ],
+      "multi_unit": false,
+      "confidence": 0.7,
+      "notes": "Price is not listed on the menu."
+    }
+  ],
+  "_source_file": "Screenshot 2026-07-20 at 10.23.50 PM.png",
+  "_model": "google/gemini-2.5-pro"
+}

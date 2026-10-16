@@ -1,0 +1,151 @@
+{
+  "menu_id": "menu_01",
+  "restaurant_name_raw": "ហាងបាយ រដ្ឋនគរភ្នំពេញ (ចាយដំបង់យប់)",
+  "restaurant_name_en": "Phnom Penh Capital Rice Shop (Chay Dombong Yob)",
+  "currency_notes": "No prices visible on this menu image.",
+  "items": [
+    {
+      "name_km": "ចាយក្រូចជីនីត្រុក",
+      "name_en": "Grilled Chicken with Rice",
+      "section_raw": null,
+      "price_raw": null,
+      "price_value": null,
+      "currency": "unknown",
+      "size_or_unit": null,
+      "tags": [
+        "chicken",
+        "rice"
+      ],
+      "multi_unit": false,
+      "confidence": 0.7,
+      "notes": "Item visible but no price shown on menu."
+    },
+    {
+      "name_km": "ចាយជ្រូក",
+      "name_en": "Pork with Rice",
+      "section_raw": null,
+      "price_raw": null,
+      "price_value": null,
+      "currency": "unknown",
+      "size_or_unit": null,
+      "tags": [
+        "pork",
+        "rice"
+      ],
+      "multi_unit": false,
+      "confidence": 0.7,
+      "notes": "Item visible but no price shown on menu."
+    },
+    {
+      "name_km": "ចាយសាច់គោ",
+      "name_en": "Beef with Rice",
+      "section_raw": null,
+      "price_raw": null,
+      "price_value": null,
+      "currency": "unknown",
+      "size_or_unit": null,
+      "tags": [
+        "beef",
+        "rice"
+      ],
+      "multi_unit": false,
+      "confidence": 0.7,
+      "notes": "Item visible but no price shown on menu."
+    },
+    {
+      "name_km": "ចាយសាច់ត្រី",
+      "name_en": "Fish with Rice",
+      "section_raw": null,
+      "price_raw": null,
+      "price_value": null,
+      "currency": "unknown",
+      "size_or_unit": null,
+      "tags": [
+        "fish",
+        "rice"
+      ],
+      "multi_unit": false,
+      "confidence": 0.7,
+      "notes": "Item visible but no price shown on menu."
+    },
+    {
+      "name_km": "ចាយត្រាំអង",
+      "name_en": "Rice with Side Dish",
+      "section_raw": null,
+      "price_raw": null,
+      "price_value": null,
+      "currency": "unknown",
+      "size_or_unit": null,
+      "tags": [
+        "rice",
+        "other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.6,
+      "notes": "Item visible but no price shown on menu."
+    },
+    {
+      "name_km": "ស្ងោរត្រីឆ្អឹក",
+      "name_en": "Fish Soup",
+      "section_raw": null,
+      "price_raw": null,
+      "price_value": null,
+      "currency": "unknown",
+      "size_or_unit": null,
+      "tags": [
+        "fish",
+        "soup"
+      ],
+      "multi_unit": false,
+      "confidence": 0.7,
+      "notes": "Item visible but no price shown on menu."
+    },
+    {
+      "name_km": "ពងមាន់",
+      "name_en": "Chicken Egg",
+      "section_raw": null,
+      "price_raw": null,
+      "price_value": null,
+      "currency": "unknown",
+      "size_or_unit": null,
+      "tags": [
+        "egg"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": "Item visible but no price shown on menu."
+    },
+    {
+      "name_km": "ពងទា",
+      "name_en": "Duck Egg",
+      "section_raw": null,
+      "price_raw": null,
+      "price_value": null,
+      "currency": "unknown",
+      "size_or_unit": null,
+      "tags": [
+        "egg"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": "Item visible but no price shown on menu."
+    },
+    {
+      "name_km": "ទឹកអំពៅ",
+      "name_en": "Sugar Cane Juice",
+      "section_raw": null,
+      "price_raw": null,
+      "price_value": null,
+      "currency": "unknown",
+      "size_or_unit": null,
+      "tags": [
+        "soft_drink"
+      ],
+      "multi_unit": false,
+      "confidence": 0.7,
+      "notes": "Item visible but no price shown on menu."
+    }
+  ],
+  "_source_file": "Screenshot 2026-07-20 at 10.23.50 PM.png",
+  "_model": "anthropic/claude-sonnet-4.5"
+}

@@ -1,0 +1,485 @@
+{
+  "menu_id": "menu_30",
+  "restaurant_name_raw": "ភោជនីយដ្ឋាន រាទីបាត់ដំបង",
+  "restaurant_name_en": "Reatry Battambong Restaurant",
+  "currency_notes": "Two price columns visible; currency symbols not clear in image.",
+  "items": [
+    {
+      "name_km": "សាច់មាន់ អាំង ស្រស់ សាច់គោ",
+      "name_en": "Fried chicken - Fish-Pork - Beef Pork Ginger",
+      "section_raw": "ម្ហូប ៦",
+      "price_raw": "៥,០០$",
+      "price_value": 5000,
+      "currency": "unknown",
+      "size_or_unit": null,
+      "tags": [
+        "chicken",
+        "fish",
+        "pork",
+        "beef"
+      ],
+      "multi_unit": false,
+      "confidence": 0.7,
+      "notes": "Price appears to be 5,00$ but unclear if USD or KHR with $ symbol"
+    },
+    {
+      "name_km": "សាច់មាន់ អាំង ស្រស់ សាច់គោ",
+      "name_en": "Fried chicken - Fish-Pork - Beef Pork Ginger",
+      "section_raw": "ម្ហូប ៦",
+      "price_raw": "៦,០០$",
+      "price_value": 6000,
+      "currency": "unknown",
+      "size_or_unit": null,
+      "tags": [
+        "chicken",
+        "fish",
+        "pork",
+        "beef"
+      ],
+      "multi_unit": false,
+      "confidence": 0.7,
+      "notes": "Second price column"
+    },
+    {
+      "name_km": "ត្រីចៀន",
+      "name_en": "Fried Squid with lime pepper",
+      "section_raw": "ម្ហូប ៦",
+      "price_raw": "៥,០០$",
+      "price_value": 5000,
+      "currency": "unknown",
+      "size_or_unit": null,
+      "tags": [
+        "seafood"
+      ],
+      "multi_unit": false,
+      "confidence": 0.7,
+      "notes": ""
+    },
+    {
+      "name_km": "ត្រីចៀន",
+      "name_en": "Fried Squid with lime pepper",
+      "section_raw": "ម្ហូប ៦",
+      "price_raw": "៧,០០$",
+      "price_value": 7000,
+      "currency": "unknown",
+      "size_or_unit": null,
+      "tags": [
+        "seafood"
+      ],
+      "multi_unit": false,
+      "confidence": 0.7,
+      "notes": "Second price column"
+    },
+    {
+      "name_km": "សាច់ជ្រូកឆាខ្ញី ឆាសាច់គោ",
+      "name_en": "Stir fried beef bell peas with vegetable",
+      "section_raw": "ម្ហូប ៦",
+      "price_raw": "៤,០០$",
+      "price_value": 4000,
+      "currency": "unknown",
+      "size_or_unit": null,
+      "tags": [
+        "pork",
+        "beef",
+        "vegetable"
+      ],
+      "multi_unit": false,
+      "confidence": 0.7,
+      "notes": ""
+    },
+    {
+      "name_km": "សាច់ជ្រូកឆាខ្ញី ឆាសាច់គោ",
+      "name_en": "Stir fried beef bell peas with vegetable",
+      "section_raw": "ម្ហូប ៦",
+      "price_raw": "៥,០០$",
+      "price_value": 5000,
+      "currency": "unknown",
+      "size_or_unit": null,
+      "tags": [
+        "pork",
+        "beef",
+        "vegetable"
+      ],
+      "multi_unit": false,
+      "confidence": 0.7,
+      "notes": "Second price column"
+    },
+    {
+      "name_km": "សាច់ជ្រូក ឆាសាច់គោ ឆាសាច់មាន់ ឆាសាច់ត្រី ឆាសាច់ត្រី ឆាសាច់ត្រី",
+      "name_en": "Fried lok lak beef pork chicken fish",
+      "section_raw": "ម្ហូប ៦",
+      "price_raw": "៦$",
+      "price_value": 6,
+      "currency": "unknown",
+      "size_or_unit": null,
+      "tags": [
+        "pork",
+        "beef",
+        "chicken",
+        "fish"
+      ],
+      "multi_unit": false,
+      "confidence": 0.6,
+      "notes": "Price unclear, possibly 6$"
+    },
+    {
+      "name_km": "សាច់ជ្រូក ឆាសាច់គោ ឆាសាច់មាន់ ឆាសាច់ត្រី ឆាសាច់ត្រី ឆាសាច់ត្រី",
+      "name_en": "Fried lok lak beef pork chicken fish",
+      "section_raw": "ម្ហូប ៦",
+      "price_raw": "៧$",
+      "price_value": 7,
+      "currency": "unknown",
+      "size_or_unit": null,
+      "tags": [
+        "pork",
+        "beef",
+        "chicken",
+        "fish"
+      ],
+      "multi_unit": false,
+      "confidence": 0.6,
+      "notes": "Second price column"
+    },
+    {
+      "name_km": "ឆាសាច់គោ ឆាសាច់មាន់",
+      "name_en": "Fried Beef pork chicken",
+      "section_raw": "ម្ហូប ៦",
+      "price_raw": "៥,០០$",
+      "price_value": 5000,
+      "currency": "unknown",
+      "size_or_unit": null,
+      "tags": [
+        "beef",
+        "pork",
+        "chicken"
+      ],
+      "multi_unit": false,
+      "confidence": 0.7,
+      "notes": ""
+    },
+    {
+      "name_km": "ឆាសាច់គោ ឆាសាច់មាន់",
+      "name_en": "Fried Beef pork chicken",
+      "section_raw": "ម្ហូប ៦",
+      "price_raw": "៦,០០$",
+      "price_value": 6000,
+      "currency": "unknown",
+      "size_or_unit": null,
+      "tags": [
+        "beef",
+        "pork",
+        "chicken"
+      ],
+      "multi_unit": false,
+      "confidence": 0.7,
+      "notes": "Second price column"
+    },
+    {
+      "name_km": "ឆាសាច់គោ",
+      "name_en": "",
+      "section_raw": "ម្ហូប ៦",
+      "price_raw": "៤,០០$",
+      "price_value": 4000,
+      "currency": "unknown",
+      "size_or_unit": null,
+      "tags": [
+        "beef"
+      ],
+      "multi_unit": false,
+      "confidence": 0.7,
+      "notes": ""
+    },
+    {
+      "name_km": "ឆាសាច់គោ",
+      "name_en": "",
+      "section_raw": "ម្ហូប ៦",
+      "price_raw": "៥,០០$",
+      "price_value": 5000,
+      "currency": "unknown",
+      "size_or_unit": null,
+      "tags": [
+        "beef"
+      ],
+      "multi_unit": false,
+      "confidence": 0.7,
+      "notes": "Second price column"
+    },
+    {
+      "name_km": "ឆាសាច់ជ្រូក ឆាសាច់គោ ឆា",
+      "name_en": "",
+      "section_raw": "ម្ហូប ៦",
+      "price_raw": "៥,០០$",
+      "price_value": 5000,
+      "currency": "unknown",
+      "size_or_unit": null,
+      "tags": [
+        "pork",
+        "beef"
+      ],
+      "multi_unit": false,
+      "confidence": 0.7,
+      "notes": ""
+    },
+    {
+      "name_km": "ឆាសាច់ជ្រូក ឆាសាច់គោ ឆា",
+      "name_en": "",
+      "section_raw": "ម្ហូប ៦",
+      "price_raw": "៧,០០$",
+      "price_value": 7000,
+      "currency": "unknown",
+      "size_or_unit": null,
+      "tags": [
+        "pork",
+        "beef"
+      ],
+      "multi_unit": false,
+      "confidence": 0.7,
+      "notes": "Second price column"
+    },
+    {
+      "name_km": "សាច់គោ ឆាសាច់ជ្រូក",
+      "name_en": "Beef pork fried tomatoes",
+      "section_raw": "ម្ហូប ៦",
+      "price_raw": "៥,០០$",
+      "price_value": 5000,
+      "currency": "unknown",
+      "size_or_unit": null,
+      "tags": [
+        "beef",
+        "pork",
+        "vegetable"
+      ],
+      "multi_unit": false,
+      "confidence": 0.7,
+      "notes": ""
+    },
+    {
+      "name_km": "សាច់គោ ឆាសាច់ជ្រូក",
+      "name_en": "Beef pork fried tomatoes",
+      "section_raw": "ម្ហូប ៦",
+      "price_raw": "៦,០០$",
+      "price_value": 6000,
+      "currency": "unknown",
+      "size_or_unit": null,
+      "tags": [
+        "beef",
+        "pork",
+        "vegetable"
+      ],
+      "multi_unit": false,
+      "confidence": 0.7,
+      "notes": "Second price column"
+    },
+    {
+      "name_km": "សាច់គោ ឆាសាច់ជ្រូក ឆាសាច់មាន់",
+      "name_en": "Beef pork fried cauliflower chili",
+      "section_raw": "ម្ហូប ៦",
+      "price_raw": "៦$",
+      "price_value": 6,
+      "currency": "unknown",
+      "size_or_unit": null,
+      "tags": [
+        "beef",
+        "pork",
+        "chicken",
+        "vegetable"
+      ],
+      "multi_unit": false,
+      "confidence": 0.6,
+      "notes": ""
+    },
+    {
+      "name_km": "សាច់គោ ឆាសាច់ជ្រូក ឆាសាច់មាន់",
+      "name_en": "Beef pork fried cauliflower chili",
+      "section_raw": "ម្ហូប ៦",
+      "price_raw": "៧$",
+      "price_value": 7,
+      "currency": "unknown",
+      "size_or_unit": null,
+      "tags": [
+        "beef",
+        "pork",
+        "chicken",
+        "vegetable"
+      ],
+      "multi_unit": false,
+      "confidence": 0.6,
+      "notes": "Second price column"
+    },
+    {
+      "name_km": "ឆាសាច់ជ្រូក ឆាសាច់គោ ឆាសាច់មាន់ ឆាសាច់ត្រី",
+      "name_en": "",
+      "section_raw": "ម្ហូប ៦",
+      "price_raw": "៤,០០$",
+      "price_value": 4000,
+      "currency": "unknown",
+      "size_or_unit": null,
+      "tags": [
+        "pork",
+        "beef",
+        "chicken",
+        "fish"
+      ],
+      "multi_unit": false,
+      "confidence": 0.7,
+      "notes": ""
+    },
+    {
+      "name_km": "ឆាសាច់ជ្រូក ឆាសាច់គោ ឆាសាច់មាន់ ឆាសាច់ត្រី",
+      "name_en": "",
+      "section_raw": "ម្ហូប ៦",
+      "price_raw": "៦,០០$",
+      "price_value": 6000,
+      "currency": "unknown",
+      "size_or_unit": null,
+      "tags": [
+        "pork",
+        "beef",
+        "chicken",
+        "fish"
+      ],
+      "multi_unit": false,
+      "confidence": 0.7,
+      "notes": "Second price column"
+    },
+    {
+      "name_km": "ឆាបន្លែរួម",
+      "name_en": "Intestines with vegetable",
+      "section_raw": "ម្ហូប ៦",
+      "price_raw": "៥,០០$",
+      "price_value": 5000,
+      "currency": "unknown",
+      "size_or_unit": null,
+      "tags": [
+        "vegetable",
+        "other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.7,
+      "notes": ""
+    },
+    {
+      "name_km": "ឆាបន្លែរួម",
+      "name_en": "Intestines with vegetable",
+      "section_raw": "ម្ហូប ៦",
+      "price_raw": "៧,០០$",
+      "price_value": 7000,
+      "currency": "unknown",
+      "size_or_unit": null,
+      "tags": [
+        "vegetable",
+        "other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.7,
+      "notes": "Second price column"
+    },
+    {
+      "name_km": "ឆាត្រកួន",
+      "name_en": "",
+      "section_raw": "ម្ហូប ៦",
+      "price_raw": "៥,០០$",
+      "price_value": 5000,
+      "currency": "unknown",
+      "size_or_unit": null,
+      "tags": [
+        "vegetable"
+      ],
+      "multi_unit": false,
+      "confidence": 0.7,
+      "notes": ""
+    },
+    {
+      "name_km": "ឆាត្រកួន",
+      "name_en": "",
+      "section_raw": "ម្ហូប ៦",
+      "price_raw": "៧,០០$",
+      "price_value": 7000,
+      "currency": "unknown",
+      "size_or_unit": null,
+      "tags": [
+        "vegetable"
+      ],
+      "multi_unit": false,
+      "confidence": 0.7,
+      "notes": "Second price column"
+    },
+    {
+      "name_km": "ឆាត្រកួន",
+      "name_en": "",
+      "section_raw": "ម្ហូប ៦",
+      "price_raw": "៥,០០$",
+      "price_value": 5000,
+      "currency": "unknown",
+      "size_or_unit": null,
+      "tags": [
+        "vegetable"
+      ],
+      "multi_unit": false,
+      "confidence": 0.7,
+      "notes": ""
+    },
+    {
+      "name_km": "ឆាត្រកួន",
+      "name_en": "",
+      "section_raw": "ម្ហូប ៦",
+      "price_raw": "៧,០០$",
+      "price_value": 7000,
+      "currency": "unknown",
+      "size_or_unit": null,
+      "tags": [
+        "vegetable"
+      ],
+      "multi_unit": false,
+      "confidence": 0.7,
+      "notes": "Second price column"
+    },
+    {
+      "name_km": "ឆាត្រកួនប្រហុក",
+      "name_en": "",
+      "section_raw": "ម្ហូប ៦",
+      "price_raw": "៥,០០$",
+      "price_value": 5000,
+      "currency": "unknown",
+      "size_or_unit": null,
+      "tags": [
+        "vegetable"
+      ],
+      "multi_unit": false,
+      "confidence": 0.7,
+      "notes": ""
+    },
+    {
+      "name_km": "ឆាត្រកួនប្រហុក",
+      "name_en": "",
+      "section_raw": "ម្ហូប ៦",
+      "price_raw": "៧,០០$",
+      "price_value": 7000,
+      "currency": "unknown",
+      "size_or_unit": null,
+      "tags": [
+        "vegetable"
+      ],
+      "multi_unit": false,
+      "confidence": 0.7,
+      "notes": "Second price column"
+    },
+    {
+      "name_km": "ឆាបន្លែរួម",
+      "name_en": "Fried special vegetable",
+      "section_raw": "ម្ហូប ៦",
+      "price_raw": "៦,០០$",
+      "price_value": 6000,
+      "currency": "unknown",
+      "size_or_unit": null,
+      "tags": [
+        "vegetable"
+      ],
+      "multi_unit": false,
+      "confidence": 0.7,
+      "notes": ""
+    }
+  ],
+  "_source_file": "Screenshot 2026-07-21 at 11.16.25 AM.png",
+  "_model": "anthropic/claude-sonnet-4.5"
+}

@@ -1,0 +1,80 @@
+{
+  "menu_id": "menu_01",
+  "restaurant_name_raw": "ហាងបាយ វិមានឯករាជ្យ",
+  "restaurant_name_en": "Independence Monument Restaurant",
+  "notes": "Photo promo board; dish names labeled, NO printed prices. Currency must be unknown.",
+  "items": [
+    {
+      "name_km": "បាយភ្លៅមាន់",
+      "name_en": "Chicken thigh rice",
+      "price_raw": null,
+      "price_value": null,
+      "currency": "unknown",
+      "tags": ["chicken", "rice"]
+    },
+    {
+      "name_km": "បាយឆ្អឹងជំនីជ្រូក",
+      "name_en": "Pork rib rice",
+      "price_raw": null,
+      "price_value": null,
+      "currency": "unknown",
+      "tags": ["pork", "rice"]
+    },
+    {
+      "name_km": "បាយដាក់ឡូ",
+      "name_en": "Pak lov rice",
+      "price_raw": null,
+      "price_value": null,
+      "currency": "unknown",
+      "tags": ["pork", "rice"]
+    },
+    {
+      "name_km": "បាយស្លាបមាន់",
+      "name_en": "Chicken wing rice",
+      "price_raw": null,
+      "price_value": null,
+      "currency": "unknown",
+      "tags": ["chicken", "rice"]
+    },
+    {
+      "name_km": "បាយសាច់ជ្រូក",
+      "name_en": "Pork rice",
+      "price_raw": null,
+      "price_value": null,
+      "currency": "unknown",
+      "tags": ["pork", "rice"]
+    },
+    {
+      "name_km": "ពងទាក្រឡុក",
+      "name_en": "Scrambled duck egg",
+      "price_raw": null,
+      "price_value": null,
+      "currency": "unknown",
+      "tags": ["egg"]
+    },
+    {
+      "name_km": "ពងទាចៀន",
+      "name_en": "Fried duck egg",
+      "price_raw": null,
+      "price_value": null,
+      "currency": "unknown",
+      "tags": ["egg"]
+    },
+    {
+      "name_km": "ពងទាស្ងោរ",
+      "name_en": "Boiled duck egg",
+      "price_raw": null,
+      "price_value": null,
+      "currency": "unknown",
+      "tags": ["egg"]
+    },
+    {
+      "name_km": "ទឹកអំពៅ",
+      "name_en": "Sugarcane juice",
+      "price_raw": null,
+      "price_value": null,
+      "currency": "unknown",
+      "tags": ["soft_drink"]
+    }
+  ]
+}

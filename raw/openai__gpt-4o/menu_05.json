@@ -1,0 +1,538 @@
+{
+  "menu_id": "menu_05",
+  "restaurant_name_raw": null,
+  "restaurant_name_en": null,
+  "currency_notes": "Prices are in KHR as indicated by ៛ symbol.",
+  "items": [
+    {
+      "name_km": "ឆាក្តៅសាច់គោ",
+      "name_en": "Fried Rice with Beef",
+      "section_raw": "ម្ហូបសមុទ្រ | SEA FOOD",
+      "price_raw": "12,000៛",
+      "price_value": 12000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "rice",
+        "beef"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "ឆាក្តៅសាច់មាន់",
+      "name_en": "Fried Rice with Chicken",
+      "section_raw": "ម្ហូបសមុទ្រ | SEA FOOD",
+      "price_raw": "12,000៛",
+      "price_value": 12000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "rice",
+        "chicken"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "ឆាសមុទ្រស្រស់",
+      "name_en": "Fried Fresh Seafood",
+      "section_raw": "ម្ហូបសមុទ្រ | SEA FOOD",
+      "price_raw": "26,000៛",
+      "price_value": 26000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "seafood"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "បាយស",
+      "name_en": "Rice",
+      "section_raw": "ម្ហូបសមុទ្រ | SEA FOOD",
+      "price_raw": "2,000៛",
+      "price_value": 2000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "rice"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "បាយស",
+      "name_en": "Rice",
+      "section_raw": "ម្ហូបសមុទ្រ | SEA FOOD",
+      "price_raw": "3,000៛",
+      "price_value": 3000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "rice"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "បង្គារស្រស់",
+      "name_en": "Squeezing Shrimp",
+      "section_raw": "ម្ហូបសមុទ្រ | SEA FOOD",
+      "price_raw": "26,000៛",
+      "price_value": 26000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "seafood"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "បង្គារស្រស់ (ជ្រលក់)",
+      "name_en": "Crispy Shrimp with Powder",
+      "section_raw": "ម្ហូបសមុទ្រ | SEA FOOD",
+      "price_raw": "26,000៛",
+      "price_value": 26000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "seafood"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "បង្គារស្រស់ជាមួយទឹកជ្រលក់",
+      "name_en": "Fried Shrimp with Sour Chilli Sauce",
+      "section_raw": "ម្ហូបសមុទ្រ | SEA FOOD",
+      "price_raw": "26,000៛",
+      "price_value": 26000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "seafood"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "បង្គារស្រស់ចៀន",
+      "name_en": "Squeezing Fried Shrimp",
+      "section_raw": "ម្ហូបសមុទ្រ | SEA FOOD",
+      "price_raw": "26,000៛",
+      "price_value": 26000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "seafood"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "បង្គារស្រស់ចៀនជាមួយទឹកជ្រលក់",
+      "name_en": "Roasted Shrimp with Chilli",
+      "section_raw": "ម្ហូបសមុទ្រ | SEA FOOD",
+      "price_raw": "26,000៛",
+      "price_value": 26000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "seafood"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "មឹក (ជ្រលក់) សមុទ្រ",
+      "name_en": "Bitter Melon with Seafood",
+      "section_raw": "ម្ហូបសមុទ្រ | SEA FOOD",
+      "price_raw": "26,000៛",
+      "price_value": 26000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "seafood",
+        "vegetable"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "ក្តាមស្រស់",
+      "name_en": "Fried Crab with 'Three Taste'",
+      "section_raw": "ម្ហូបសមុទ្រ | SEA FOOD",
+      "price_raw": "26,000៛",
+      "price_value": 26000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "seafood"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "ក្តាមស្រស់ចៀន",
+      "name_en": "Roast Crab with Salt & Chilli",
+      "section_raw": "ម្ហូបសមុទ្រ | SEA FOOD",
+      "price_raw": "26,000៛",
+      "price_value": 26000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "seafood"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "ក្តាមស្រស់ចៀនជាមួយទឹកជ្រលក់",
+      "name_en": "Steaming Crab with Tamarind",
+      "section_raw": "ម្ហូបសមុទ្រ | SEA FOOD",
+      "price_raw": "26,000៛",
+      "price_value": 26000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "seafood"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "ក្តាមស្រស់ចៀនជាមួយទឹកជ្រលក់",
+      "name_en": "Steamed Crab with Pepper",
+      "section_raw": "ម្ហូបសមុទ្រ | SEA FOOD",
+      "price_raw": "26,000៛",
+      "price_value": 26000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "seafood"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "ក្តាមស្រស់ចៀនជាមួយទឹកជ្រលក់",
+      "name_en": "Steamed Squid with Green Pepper",
+      "section_raw": "ម្ហូបសមុទ្រ | SEA FOOD",
+      "price_raw": "26,000៛",
+      "price_value": 26000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "seafood"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "ក្តាមស្រស់ចៀនជាមួយទឹកជ្រលក់",
+      "name_en": "Iron Squid",
+      "section_raw": "ម្ហូបសមុទ្រ | SEA FOOD",
+      "price_raw": "26,000៛",
+      "price_value": 26000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "seafood"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "ក្តាមស្រស់ចៀនជាមួយទឹកជ្រលក់",
+      "name_en": "Steaming Crab",
+      "section_raw": "ម្ហូបសមុទ្រ | SEA FOOD",
+      "price_raw": "26,000៛",
+      "price_value": 26000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "seafood"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "ក្តាមស្រស់ចៀនជាមួយទឹកជ្រលក់",
+      "name_en": "Steaming Shrimp",
+      "section_raw": "ម្ហូបសមុទ្រ | SEA FOOD",
+      "price_raw": "26,000៛",
+      "price_value": 26000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "seafood"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "ទឹកសុទ្ធ",
+      "name_en": "Fresh Water",
+      "section_raw": "ភេសជ្ជៈ | DRINKS",
+      "price_raw": "2,000៛",
+      "price_value": 2000,
+      "currency": "KHR",
+      "size_or_unit": "bottle",
+      "tags": [
+        "water"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "ទឹកផ្លែឈើកំប៉ុង",
+      "name_en": "Fresh Fruits Can",
+      "section_raw": "ភេសជ្ជៈ | DRINKS",
+      "price_raw": "3,000៛",
+      "price_value": 3000,
+      "currency": "KHR",
+      "size_or_unit": "can",
+      "tags": [
+        "soft_drink"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "កូកា, ស្បៀងកូកា",
+      "name_en": "Coke",
+      "section_raw": "ភេសជ្ជៈ | DRINKS",
+      "price_raw": "3,000៛",
+      "price_value": 3000,
+      "currency": "KHR",
+      "size_or_unit": "can",
+      "tags": [
+        "soft_drink"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "កូកា",
+      "name_en": "Coke Light",
+      "section_raw": "ភេសជ្ជៈ | DRINKS",
+      "price_raw": "4,000៛",
+      "price_value": 4000,
+      "currency": "KHR",
+      "size_or_unit": "can",
+      "tags": [
+        "soft_drink"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "ទឹកសុទ្ធ",
+      "name_en": "Fresh Water Big Bottle",
+      "section_raw": "ភេសជ្ជៈ | DRINKS",
+      "price_raw": "6,000៛",
+      "price_value": 6000,
+      "currency": "KHR",
+      "size_or_unit": "bottle",
+      "tags": [
+        "water"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "តៃហ្គឺរបៀរ",
+      "name_en": "Tiger Beer",
+      "section_raw": "ភេសជ្ជៈ | DRINKS",
+      "price_raw": "8,000៛",
+      "price_value": 8000,
+      "currency": "KHR",
+      "size_or_unit": "can",
+      "tags": [
+        "beer"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "អង្គរបៀរ",
+      "name_en": "Angkor Beer",
+      "section_raw": "ភេសជ្ជៈ | DRINKS",
+      "price_raw": "4,000៛",
+      "price_value": 4000,
+      "currency": "KHR",
+      "size_or_unit": "can",
+      "tags": [
+        "beer"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "អានឆ័របៀរ",
+      "name_en": "Anchor Beer",
+      "section_raw": "ភេសជ្ជៈ | DRINKS",
+      "price_raw": "4,000៛",
+      "price_value": 4000,
+      "currency": "KHR",
+      "size_or_unit": "can",
+      "tags": [
+        "beer"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "ហាញីកិនបៀរ",
+      "name_en": "Heineken Beer",
+      "section_raw": "ភេសជ្ជៈ | DRINKS",
+      "price_raw": "10,000៛",
+      "price_value": 10000,
+      "currency": "KHR",
+      "size_or_unit": "can",
+      "tags": [
+        "beer"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "ហ្គីននេសបៀរ",
+      "name_en": "Guinness Beer",
+      "section_raw": "ភេសជ្ជៈ | DRINKS",
+      "price_raw": "12,000៛",
+      "price_value": 12000,
+      "currency": "KHR",
+      "size_or_unit": "can",
+      "tags": [
+        "beer"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "កូរ៉ូណាបៀរ",
+      "name_en": "Corona Beer",
+      "section_raw": "ភេសជ្ជៈ | DRINKS",
+      "price_raw": "12,000៛",
+      "price_value": 12000,
+      "currency": "KHR",
+      "size_or_unit": "can",
+      "tags": [
+        "beer"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "អេប៊ីស៊ីបៀរ",
+      "name_en": "ABC Beer",
+      "section_raw": "ភេសជ្ជៈ | DRINKS",
+      "price_raw": "12,000៛",
+      "price_value": 12000,
+      "currency": "KHR",
+      "size_or_unit": "can",
+      "tags": [
+        "beer"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "សូមបឺសបៀរ",
+      "name_en": "Somersby Beer",
+      "section_raw": "ភេសជ្ជៈ | DRINKS",
+      "price_raw": "10,000៛",
+      "price_value": 10000,
+      "currency": "KHR",
+      "size_or_unit": "can",
+      "tags": [
+        "beer"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "ប៊ូឌ្វៃសឺបៀរ",
+      "name_en": "Budweiser Beer",
+      "section_raw": "ភេសជ្ជៈ | DRINKS",
+      "price_raw": "10,000៛",
+      "price_value": 10000,
+      "currency": "KHR",
+      "size_or_unit": "can",
+      "tags": [
+        "beer"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "ខេមបូឌាបៀរ",
+      "name_en": "Cambodia Beer",
+      "section_raw": "ភេសជ្ជៈ | DRINKS",
+      "price_raw": "4,000៛",
+      "price_value": 4000,
+      "currency": "KHR",
+      "size_or_unit": "can",
+      "tags": [
+        "beer"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "ចេកចៀនជាមួយបាយស",
+      "name_en": "Jackfruit with Sticky Rice",
+      "section_raw": "ភេសជ្ជៈ | DRINKS",
+      "price_raw": "6,000៛",
+      "price_value": 6000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "dessert"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    }
+  ],
+  "_source_file": "Screenshot 2026-07-20 at 10.27.14 PM.png",
+  "_model": "openai/gpt-4o"
+}

@@ -1,0 +1,205 @@
+{
+  "menu_id": "sample_03",
+  "restaurant_name_raw": "ភោជនីយដ្ឋាន រាត្រីបាត់ដំបង",
+  "restaurant_name_en": "Reatry Battambong Restaurant",
+  "currency_notes": "Prices are in USD as indicated by $ symbol.",
+  "items": [
+    {
+      "name_km": "ខាប់សាម៉ុនខ្នែង ខាប់អំបិលជូរ",
+      "name_en": "Grilled salmon dorsal fin with salt",
+      "section_raw": "បុកគោ ឆាខ្វៃ",
+      "price_raw": "4.00$",
+      "price_value": 4.0,
+      "currency": "USD",
+      "size_or_unit": "null",
+      "tags": [
+        "fish"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "កនតាតក់ អំបិលជូរ, ខ្ទឹម",
+      "name_en": "Kan Teatauk grilled with salt",
+      "section_raw": "បុកគោ ឆាខ្វៃ",
+      "price_raw": "5.00$",
+      "price_value": 5.0,
+      "currency": "USD",
+      "size_or_unit": "null",
+      "tags": [
+        "other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "អំពិល អំបិលជូរ",
+      "name_en": "Grilled Bivalve with chili salt",
+      "section_raw": "បុកគោ ឆាខ្វៃ",
+      "price_raw": "4.00$",
+      "price_value": 4.0,
+      "currency": "USD",
+      "size_or_unit": "null",
+      "tags": [
+        "seafood"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "ត្រី, ខ្យង, ខ្ទឹម, អំបិលជូរ",
+      "name_en": "Grilled squid with salt Chili",
+      "section_raw": "បុកគោ ឆាខ្វៃ",
+      "price_raw": "4.00$",
+      "price_value": 4.0,
+      "currency": "USD",
+      "size_or_unit": "null",
+      "tags": [
+        "seafood"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "គោអាំង អំបិល",
+      "name_en": "Beef Grilled",
+      "section_raw": "បុកគោ ឆាខ្វៃ",
+      "price_raw": "4.00$",
+      "price_value": 4.0,
+      "currency": "USD",
+      "size_or_unit": "null",
+      "tags": [
+        "beef"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "ជ្រូកអាំងអំបិលជូរ",
+      "name_en": "Pork rips grilled with salt chili",
+      "section_raw": "បុកគោ ឆាខ្វៃ",
+      "price_raw": "6.00$",
+      "price_value": 6.0,
+      "currency": "USD",
+      "size_or_unit": "null",
+      "tags": [
+        "pork"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "អំពិលអាំង",
+      "name_en": "Grilled squid with salt chili",
+      "section_raw": "បុកគោ ឆាខ្វៃ",
+      "price_raw": "5.00$",
+      "price_value": 5.0,
+      "currency": "USD",
+      "size_or_unit": "null",
+      "tags": [
+        "seafood"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "កង្កែបអាំង អំបិលជូរ",
+      "name_en": "Grilled frog with salt chili",
+      "section_raw": "បុកគោ ឆាខ្វៃ",
+      "price_raw": "6.00$",
+      "price_value": 6.0,
+      "currency": "USD",
+      "size_or_unit": "null",
+      "tags": [
+        "other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "ផ្សិតអាំងអំបិលជូរ",
+      "name_en": "Grilled Mushroom with salt chili",
+      "section_raw": "បុកគោ ឆាខ្វៃ",
+      "price_raw": "4.00$",
+      "price_value": 4.0,
+      "currency": "USD",
+      "size_or_unit": "null",
+      "tags": [
+        "vegetable"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "អាំងអំបិលជូរ",
+      "name_en": "Tonge Grilled",
+      "section_raw": "បុកគោ ឆាខ្វៃ",
+      "price_raw": "4-6$",
+      "price_value": null,
+      "currency": "USD",
+      "size_or_unit": "null",
+      "tags": [
+        "other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.7,
+      "notes": "Handwritten price crosses out printed one."
+    },
+    {
+      "name_km": "ប៉ែនអាំង",
+      "name_en": "Bull Penis Grilled",
+      "section_raw": "បុកគោ ឆាខ្វៃ",
+      "price_raw": "7.00$",
+      "price_value": 7.0,
+      "currency": "USD",
+      "size_or_unit": "null",
+      "tags": [
+        "other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "មាន់អាំងអំបិលជូរ",
+      "name_en": "Grilled chicken with Chili salt",
+      "section_raw": "បុកគោ ឆាខ្វៃ",
+      "price_raw": "10.00$",
+      "price_value": 10.0,
+      "currency": "USD",
+      "size_or_unit": "null",
+      "tags": [
+        "chicken"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "ត្រីក្រហមអាំងអំបិល",
+      "name_en": "Grilled red fish chili salt",
+      "section_raw": "បុកគោ ឆាខ្វៃ",
+      "price_raw": "7.50$",
+      "price_value": 7.5,
+      "currency": "USD",
+      "size_or_unit": "null",
+      "tags": [
+        "fish"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    }
+  ],
+  "_source_file": "Screenshot 2026-07-21 at 11.16.46 AM.png",
+  "_model": "openai/gpt-4o"
+}

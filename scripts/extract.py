@@ -137,32 +137,117 @@ def strip_json_fence(text: str) -> str:
     return text
 
 
+def repair_jsish_json(text: str) -> str:
+    """Quote bare object keys (GPT-4o sometimes emits JS-like objects mid-stream)."""
+    # name_km: -> "name_km":
+    return re.sub(
+        r'(?<=[{\[,])\s*([A-Za-z_][A-Za-z0-9_]*)\s*:',
+        r' "\1":',
+        text,
+    )
+
+
+def _close_brackets(cut: str) -> str:
+    if cut.count("[") > cut.count("]"):
+        cut += "]" * (cut.count("[") - cut.count("]"))
+    if cut.count("{") > cut.count("}"):
+        cut += "}" * (cut.count("{") - cut.count("}"))
+    return cut
+
+
 def salvage_json(text: str) -> dict:
-    """Parse JSON; if truncated, close open arrays/objects best-effort."""
+    """Parse JSON; if truncated or JS-ish, close/repair best-effort."""
     text = strip_json_fence(text)
     try:
         return json.loads(text)
     except json.JSONDecodeError:
         pass
-    # Trim to last complete item object if possible
-    cut = text
-    # drop trailing incomplete string/field
-    if '"items"' in cut:
-        # close items array + root object
-        last_brace = cut.rfind("}")
+
+    # Attempt 1: close after last complete object
+    if '"items"' in text or "items" in text:
+        last_brace = text.rfind("}")
         if last_brace > 0:
-            cut = cut[: last_brace + 1]
-            # ensure items array closed
-            if cut.count("[") > cut.count("]"):
-                cut += "]" * (cut.count("[") - cut.count("]"))
-            if cut.count("{") > cut.count("}"):
-                cut += "}" * (cut.count("{") - cut.count("}"))
+            cut = _close_brackets(text[: last_brace + 1])
             try:
                 parsed = json.loads(cut)
                 log("salvaged truncated JSON")
                 return parsed
             except json.JSONDecodeError as e:
-                log(f"salvage failed: {e}")
+                log(f"salvage truncated failed: {e}")
+
+    # Attempt 2: repair unquoted keys then retry close
+    repaired = repair_jsish_json(text)
+    try:
+        parsed = json.loads(repaired)
+        log("salvaged JS-ish JSON (quoted bare keys)")
+        return parsed
+    except json.JSONDecodeError:
+        pass
+    if '"items"' in repaired or "items" in repaired:
+        last_brace = repaired.rfind("}")
+        if last_brace > 0:
+            cut = _close_brackets(repaired[: last_brace + 1])
+            try:
+                parsed = json.loads(cut)
+                log("salvaged JS-ish + truncated JSON")
+                return parsed
+            except json.JSONDecodeError as e:
+                log(f"salvage JS-ish failed: {e}")
+
+    # Attempt 3: keep only complete item objects inside items array
+    m = re.search(r'"items"\s*:\s*\[', text)
+    if m:
+        start = m.end()
+        items = []
+        i = start
+        depth = 0
+        obj_start = None
+        in_str = False
+        esc = False
+        while i < len(text):
+            ch = text[i]
+            if in_str:
+                if esc:
+                    esc = False
+                elif ch == "\\":
+                    esc = True
+                elif ch == '"':
+                    in_str = False
+            else:
+                if ch == '"':
+                    in_str = True
+                elif ch == "{":
+                    if depth == 0:
+                        obj_start = i
+                    depth += 1
+                elif ch == "}":
+                    depth -= 1
+                    if depth == 0 and obj_start is not None:
+                        chunk = text[obj_start : i + 1]
+                        try:
+                            items.append(json.loads(chunk))
+                        except json.JSONDecodeError:
+                            try:
+                                items.append(json.loads(repair_jsish_json(chunk)))
+                            except json.JSONDecodeError:
+                                pass
+                        obj_start = None
+                elif ch == "]" and depth == 0:
+                    break
+            i += 1
+        if items:
+            # best-effort root fields
+            root: dict = {"items": items}
+            for key in ("menu_id", "restaurant_name_raw", "restaurant_name_en", "currency_notes"):
+                km = re.search(rf'"{key}"\s*:\s*("(?:\\.|[^"])*"|null)', text)
+                if km:
+                    try:
+                        root[key] = json.loads(km.group(1))
+                    except json.JSONDecodeError:
+                        pass
+            log(f"salvaged {len(items)} complete item object(s)")
+            return root
+
     raise json.JSONDecodeError("Unable to parse/salvage JSON", text, 0)
 
 
@@ -181,11 +266,14 @@ def call_openrouter(
         "currency_notes must be one short sentence. "
         "Do not repeat phrases. Emit the items array promptly."
     )
+    # frequency_penalty helps some providers; on GPT-4o it can trigger mid-JSON
+    # key hallucination / character loops — keep it off for OpenAI.
+    freq = 0.0 if model.startswith("openai/") else 0.4
     body = {
         "model": model,
         "max_tokens": max_tokens,
         "temperature": 0,
-        "frequency_penalty": 0.4,
+        "frequency_penalty": freq,
         "messages": [
             {
                 "role": "user",

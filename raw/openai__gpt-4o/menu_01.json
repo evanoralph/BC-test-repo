@@ -1,0 +1,89 @@
+{
+  "menu_id": "menu_01",
+  "restaurant_name_raw": "null",
+  "restaurant_name_en": "null",
+  "currency_notes": "Prices are not visible in the image.",
+  "items": [
+    {
+      "name_km": "បាយសាច់ជ្រូក",
+      "name_en": "Rice with Pork",
+      "section_raw": "null",
+      "price_raw": "null",
+      "price_value": null,
+      "currency": "unknown",
+      "size_or_unit": "null",
+      "tags": [
+        "pork",
+        "rice"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": ""
+    },
+    {
+      "name_km": "បាយសាច់មាន់",
+      "name_en": "Rice with Chicken",
+      "section_raw": "null",
+      "price_raw": "null",
+      "price_value": null,
+      "currency": "unknown",
+      "size_or_unit": "null",
+      "tags": [
+        "chicken",
+        "rice"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": ""
+    },
+    {
+      "name_km": "បាយសាច់គោ",
+      "name_en": "Rice with Beef",
+      "section_raw": "null",
+      "price_raw": "null",
+      "price_value": null,
+      "currency": "unknown",
+      "size_or_unit": "null",
+      "tags": [
+        "beef",
+        "rice"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": ""
+    },
+    {
+      "name_km": "បាយសាច់ត្រី",
+      "name_en": "Rice with Fish",
+      "section_raw": "null",
+      "price_raw": "null",
+      "price_value": null,
+      "currency": "unknown",
+      "size_or_unit": "null",
+      "tags": [
+        "fish",
+        "rice"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": ""
+    },
+    {
+      "name_km": "តែអាយស៍",
+      "name_en": "Iced Tea",
+      "section_raw": "null",
+      "price_raw": "null",
+      "price_value": null,
+      "currency": "unknown",
+      "size_or_unit": "null",
+      "tags": [
+        "soft_drink"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": ""
+    }
+  ],
+  "_source_file": "Screenshot 2026-07-20 at 10.23.50 PM.png",
+  "_model": "openai/gpt-4o"
+}

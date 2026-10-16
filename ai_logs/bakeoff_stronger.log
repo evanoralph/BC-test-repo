@@ -1,0 +1,97 @@
+[2026-10-16T08:50:46Z] Starting stronger bakeoff gold labeling for menu_01,05,06,30
+[2026-10-16T08:53:13Z] Wrote gold: menu_01 (9), menu_05 (35), menu_06 (68), menu_30 (15). Total gold files=       7
+[2026-10-16T08:54:04Z] === bakeoff start models=['google/gemini-2.5-flash', 'openai/gpt-4o', 'google/gemini-2.5-pro', 'anthropic/claude-sonnet-4'] force=False ===
+[2026-10-16T08:54:04Z] gold menus (7): ['menu_01', 'menu_05', 'menu_06', 'menu_30', 'sample_01', 'sample_02', 'sample_03']
+[2026-10-16T08:54:04Z] extract cmd: /opt/homebrew/opt/python@3.12/bin/python3.12 /Users/ralphevano/Documents/test/boost-capital/scripts/extract.py --input-dir /Users/ralphevano/Documents/test/boost-capital/data-sets-sample --models google/gemini-2.5-flash openai/gpt-4o google/gemini-2.5-pro anthropic/claude-sonnet-4 --only sample_01 sample_02 sample_03 --workers 3
+[2026-10-16T08:55:25Z] extract exit=1 input=data-sets-sample only=['sample_01', 'sample_02', 'sample_03']
+[2026-10-16T08:55:25Z] extract cmd: /opt/homebrew/opt/python@3.12/bin/python3.12 /Users/ralphevano/Documents/test/boost-capital/scripts/extract.py --input-dir /Users/ralphevano/Documents/test/boost-capital/data-sets --models google/gemini-2.5-flash openai/gpt-4o google/gemini-2.5-pro anthropic/claude-sonnet-4 --only menu_01 menu_05 menu_06 menu_30 --workers 3
+[2026-10-16T08:56:58Z] extract exit=1 input=data-sets only=['menu_01', 'menu_05', 'menu_06', 'menu_30']
+[2026-10-16T08:56:58Z] WARN extract had failures (exit=1); continuing to score whatever raw files exist
+[2026-10-16T08:56:58Z] score cmd: /opt/homebrew/opt/python@3.12/bin/python3.12 /Users/ralphevano/Documents/test/boost-capital/scripts/score.py --models google/gemini-2.5-flash openai/gpt-4o google/gemini-2.5-pro anthropic/claude-sonnet-4 --out /Users/ralphevano/Documents/test/boost-capital/bench/results/bakeoff.csv --winner-out /Users/ralphevano/Documents/test/boost-capital/bench/results/winner.txt
+[2026-10-16T08:56:58Z] score: [score] google/gemini-2.5-flash menu_01 composite=0.683 recall=0.89
+[2026-10-16T08:56:58Z] score: [score] missing prediction /Users/ralphevano/Documents/test/boost-capital/raw/openai__gpt-4o/menu_01.json
+[2026-10-16T08:56:58Z] score: [score] google/gemini-2.5-pro menu_01 composite=0.651 recall=0.78
+[2026-10-16T08:56:58Z] score: [score] missing prediction /Users/ralphevano/Documents/test/boost-capital/raw/anthropic__claude-sonnet-4/menu_01.json
+[2026-10-16T08:56:58Z] score: [score] google/gemini-2.5-flash menu_05 composite=1.143 recall=1.00
+[2026-10-16T08:56:58Z] score: [score] missing prediction /Users/ralphevano/Documents/test/boost-capital/raw/openai__gpt-4o/menu_05.json
+[2026-10-16T08:56:58Z] score: [score] google/gemini-2.5-pro menu_05 composite=0.845 recall=0.46
+[2026-10-16T08:56:58Z] score: [score] missing prediction /Users/ralphevano/Documents/test/boost-capital/raw/anthropic__claude-sonnet-4/menu_05.json
+[2026-10-16T08:56:58Z] score: [score] google/gemini-2.5-flash menu_06 composite=1.097 recall=0.84
+[2026-10-16T08:56:58Z] score: [score] missing prediction /Users/ralphevano/Documents/test/boost-capital/raw/openai__gpt-4o/menu_06.json
+[2026-10-16T08:56:58Z] score: [score] google/gemini-2.5-pro menu_06 composite=0.576 recall=0.01
+[2026-10-16T08:56:58Z] score: [score] missing prediction /Users/ralphevano/Documents/test/boost-capital/raw/anthropic__claude-sonnet-4/menu_06.json
+[2026-10-16T08:56:58Z] score: [score] google/gemini-2.5-flash menu_30 composite=0.914 recall=0.47
+[2026-10-16T08:56:58Z] score: [score] missing prediction /Users/ralphevano/Documents/test/boost-capital/raw/openai__gpt-4o/menu_30.json
+[2026-10-16T08:56:58Z] score: [score] google/gemini-2.5-pro menu_30 composite=0.905 recall=0.33
+[2026-10-16T08:56:58Z] score: [score] missing prediction /Users/ralphevano/Documents/test/boost-capital/raw/anthropic__claude-sonnet-4/menu_30.json
+[2026-10-16T08:56:58Z] score: [score] google/gemini-2.5-flash sample_01 composite=1.143 recall=1.00
+[2026-10-16T08:56:58Z] score: [score] missing prediction /Users/ralphevano/Documents/test/boost-capital/raw/openai__gpt-4o/sample_01.json
+[2026-10-16T08:56:58Z] score: [score] google/gemini-2.5-pro sample_01 composite=1.143 recall=1.00
+[2026-10-16T08:56:58Z] score: [score] missing prediction /Users/ralphevano/Documents/test/boost-capital/raw/anthropic__claude-sonnet-4/sample_01.json
+[2026-10-16T08:56:58Z] score: [score] google/gemini-2.5-flash sample_02 composite=0.878 recall=0.57
+[2026-10-16T08:56:58Z] score: [score] missing prediction /Users/ralphevano/Documents/test/boost-capital/raw/openai__gpt-4o/sample_02.json
+[2026-10-16T08:56:58Z] score: [score] missing prediction /Users/ralphevano/Documents/test/boost-capital/raw/google__gemini-2.5-pro/sample_02.json
+[2026-10-16T08:56:58Z] score: [score] missing prediction /Users/ralphevano/Documents/test/boost-capital/raw/anthropic__claude-sonnet-4/sample_02.json
+[2026-10-16T08:56:58Z] score: [score] google/gemini-2.5-flash sample_03 composite=0.857 recall=1.00
+[2026-10-16T08:56:58Z] score: [score] missing prediction /Users/ralphevano/Documents/test/boost-capital/raw/openai__gpt-4o/sample_03.json
+[2026-10-16T08:56:58Z] score: [score] google/gemini-2.5-pro sample_03 composite=0.857 recall=1.00
+[2026-10-16T08:56:58Z] score: [score] missing prediction /Users/ralphevano/Documents/test/boost-capital/raw/anthropic__claude-sonnet-4/sample_03.json
+[2026-10-16T08:56:58Z] score: [score] wrote /Users/ralphevano/Documents/test/boost-capital/bench/results/bakeoff.csv
+[2026-10-16T08:56:58Z] score: [score] avg composite google/gemini-2.5-flash = 0.9591 n=7
+[2026-10-16T08:56:58Z] score: [score] avg composite openai/gpt-4o = -1.0000 n=0
+[2026-10-16T08:56:58Z] score: [score] avg composite google/gemini-2.5-pro = 0.8293 n=6
+[2026-10-16T08:56:58Z] score: [score] avg composite anthropic/claude-sonnet-4 = -1.0000 n=0
+[2026-10-16T08:56:58Z] score: [score] winner=google/gemini-2.5-flash -> /Users/ralphevano/Documents/test/boost-capital/bench/results/winner.txt
+[2026-10-16T08:56:58Z] score winner=google/gemini-2.5-flash
+[2026-10-16T08:56:58Z] summary avg_composite google/gemini-2.5-flash = 0.9591 n=7
+[2026-10-16T08:56:58Z] summary avg_composite google/gemini-2.5-pro = 0.8293 n=6
+[2026-10-16T08:56:58Z] === bakeoff done winner=google/gemini-2.5-flash csv=/Users/ralphevano/Documents/test/boost-capital/bench/results/bakeoff.csv ===
+[2026-10-16T08:59:32Z] Improved salvage; offline gpt-4o parse attempt
+[2026-10-16T09:02:00Z] Re-run: gpt-4o force (freq=0), claude-sonnet-4.5, gemini-pro sample_02+menu_06
+[2026-10-16T09:08:18Z] === bakeoff start models=['google/gemini-2.5-flash', 'openai/gpt-4o', 'google/gemini-2.5-pro', 'anthropic/claude-sonnet-4.5'] force=False ===
+[2026-10-16T09:08:18Z] gold menus (7): ['menu_01', 'menu_05', 'menu_06', 'menu_30', 'sample_01', 'sample_02', 'sample_03']
+[2026-10-16T09:08:18Z] skip-extract: scoring existing raw only
+[2026-10-16T09:08:18Z] score cmd: /opt/homebrew/opt/python@3.12/bin/python3.12 /Users/ralphevano/Documents/test/boost-capital/scripts/score.py --models google/gemini-2.5-flash openai/gpt-4o google/gemini-2.5-pro anthropic/claude-sonnet-4.5 --out /Users/ralphevano/Documents/test/boost-capital/bench/results/bakeoff.csv --winner-out /Users/ralphevano/Documents/test/boost-capital/bench/results/winner.txt
+[2026-10-16T09:08:18Z] score: [score] google/gemini-2.5-flash menu_01 composite=0.683 recall=0.89
+[2026-10-16T09:08:18Z] score: [score] openai/gpt-4o menu_01 composite=0.317 recall=0.11
+[2026-10-16T09:08:18Z] score: [score] google/gemini-2.5-pro menu_01 composite=0.651 recall=0.78
+[2026-10-16T09:08:18Z] score: [score] anthropic/claude-sonnet-4.5 menu_01 composite=0.317 recall=0.11
+[2026-10-16T09:08:18Z] score: [score] google/gemini-2.5-flash menu_05 composite=1.143 recall=1.00
+[2026-10-16T09:08:18Z] score: [score] openai/gpt-4o menu_05 composite=1.082 recall=0.86
+[2026-10-16T09:08:18Z] score: [score] google/gemini-2.5-pro menu_05 composite=0.845 recall=0.46
+[2026-10-16T09:08:18Z] score: [score] anthropic/claude-sonnet-4.5 menu_05 composite=1.000 recall=1.00
+[2026-10-16T09:08:18Z] score: [score] google/gemini-2.5-flash menu_06 composite=1.097 recall=0.84
+[2026-10-16T09:08:18Z] score: [score] openai/gpt-4o menu_06 composite=0.395 recall=0.38
+[2026-10-16T09:08:18Z] score: [score] google/gemini-2.5-pro menu_06 composite=0.576 recall=0.01
+[2026-10-16T09:08:18Z] score: [score] anthropic/claude-sonnet-4.5 menu_06 composite=0.794 recall=0.78
+[2026-10-16T09:08:18Z] score: [score] google/gemini-2.5-flash menu_30 composite=0.914 recall=0.47
+[2026-10-16T09:08:18Z] score: [score] openai/gpt-4o menu_30 composite=0.989 recall=0.80
+[2026-10-16T09:08:18Z] score: [score] google/gemini-2.5-pro menu_30 composite=0.905 recall=0.33
+[2026-10-16T09:08:18Z] score: [score] anthropic/claude-sonnet-4.5 menu_30 composite=0.529 recall=0.27
+[2026-10-16T09:08:18Z] score: [score] google/gemini-2.5-flash sample_01 composite=1.143 recall=1.00
+[2026-10-16T09:08:18Z] score: [score] openai/gpt-4o sample_01 composite=0.968 recall=0.89
+[2026-10-16T09:08:18Z] score: [score] google/gemini-2.5-pro sample_01 composite=1.143 recall=1.00
+[2026-10-16T09:08:18Z] score: [score] anthropic/claude-sonnet-4.5 sample_01 composite=0.857 recall=1.00
+[2026-10-16T09:08:18Z] score: [score] google/gemini-2.5-flash sample_02 composite=0.878 recall=0.57
+[2026-10-16T09:08:18Z] score: [score] openai/gpt-4o sample_02 composite=0.990 recall=0.71
+[2026-10-16T09:08:18Z] score: [score] google/gemini-2.5-pro sample_02 composite=0.983 recall=0.86
+[2026-10-16T09:08:18Z] score: [score] anthropic/claude-sonnet-4.5 sample_02 composite=0.000 recall=0.00
+[2026-10-16T09:08:18Z] score: [score] google/gemini-2.5-flash sample_03 composite=0.857 recall=1.00
+[2026-10-16T09:08:18Z] score: [score] openai/gpt-4o sample_03 composite=0.821 recall=0.88
+[2026-10-16T09:08:18Z] score: [score] google/gemini-2.5-pro sample_03 composite=0.857 recall=1.00
+[2026-10-16T09:08:18Z] score: [score] anthropic/claude-sonnet-4.5 sample_03 composite=0.857 recall=1.00
+[2026-10-16T09:08:18Z] score: [score] wrote /Users/ralphevano/Documents/test/boost-capital/bench/results/bakeoff.csv
+[2026-10-16T09:08:18Z] score: [score] avg composite google/gemini-2.5-flash = 0.9591 n=7
+[2026-10-16T09:08:18Z] score: [score] avg composite openai/gpt-4o = 0.7947 n=7
+[2026-10-16T09:08:18Z] score: [score] avg composite google/gemini-2.5-pro = 0.8513 n=7
+[2026-10-16T09:08:18Z] score: [score] avg composite anthropic/claude-sonnet-4.5 = 0.6221 n=7
+[2026-10-16T09:08:18Z] score: [score] winner=google/gemini-2.5-flash -> /Users/ralphevano/Documents/test/boost-capital/bench/results/winner.txt
+[2026-10-16T09:08:18Z] score winner=google/gemini-2.5-flash
+[2026-10-16T09:08:18Z] summary avg_composite google/gemini-2.5-flash = 0.9591 n=7
+[2026-10-16T09:08:18Z] summary avg_composite google/gemini-2.5-pro = 0.8513 n=7
+[2026-10-16T09:08:18Z] summary avg_composite openai/gpt-4o = 0.7947 n=7
+[2026-10-16T09:08:18Z] summary avg_composite anthropic/claude-sonnet-4.5 = 0.6221 n=7
+[2026-10-16T09:08:18Z] === bakeoff done winner=google/gemini-2.5-flash csv=/Users/ralphevano/Documents/test/boost-capital/bench/results/bakeoff.csv ===
+[2026-10-16T09:10:11Z] Bakeoff complete. Winner=google/gemini-2.5-flash. No full re-extract.
+[2026-10-16T09:10:33Z] Wrote notes/bakeoff_stronger.md; README link; gated full re-extract SKIPPED (Flash remains winner)
+[2026-10-16T09:12:46Z] README: added Model bake-off summary section (Flash 0.959 winner)

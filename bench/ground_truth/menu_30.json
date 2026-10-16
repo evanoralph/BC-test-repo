@@ -1,0 +1,143 @@
+{
+  "menu_id": "menu_30",
+  "restaurant_name_raw": "ភោជនីយដ្ឋាន រាត្រីបាត់ដំបង",
+  "restaurant_name_en": "Reatry Battambong Restaurant",
+  "notes": "Bilingual USD table; dual size columns = two rows per dish. Handwritten/stamp overlays on some prices. Spot-checked key rows from image.",
+  "items": [
+    {
+      "name_km": "",
+      "name_en": "Fried chicken - Fish - Pork - Beef With Ginger (small)",
+      "price_raw": "4.50$",
+      "price_value": 4.5,
+      "currency": "USD",
+      "size_or_unit": "small",
+      "tags": ["chicken", "fish", "pork", "beef"]
+    },
+    {
+      "name_km": "",
+      "name_en": "Fried chicken - Fish - Pork - Beef With Ginger (large)",
+      "price_raw": "6.50$",
+      "price_value": 6.5,
+      "currency": "USD",
+      "size_or_unit": "large",
+      "tags": ["chicken", "fish", "pork", "beef"]
+    },
+    {
+      "name_km": "",
+      "name_en": "Fried Squid With light peppers (small)",
+      "price_raw": "4.00$",
+      "price_value": 4.0,
+      "currency": "USD",
+      "size_or_unit": "small",
+      "tags": ["seafood"]
+    },
+    {
+      "name_km": "",
+      "name_en": "Fried Squid With light peppers (large)",
+      "price_raw": "6.00$",
+      "price_value": 6.0,
+      "currency": "USD",
+      "size_or_unit": "large",
+      "tags": ["seafood"]
+    },
+    {
+      "name_km": "",
+      "name_en": "Stir fried beef bull penis with vegetable (small)",
+      "price_raw": "4.00$",
+      "price_value": 4.0,
+      "currency": "USD",
+      "size_or_unit": "small",
+      "tags": ["beef", "vegetable"]
+    },
+    {
+      "name_km": "",
+      "name_en": "Stir fried beef bull penis with vegetable (large)",
+      "price_raw": "6.00$",
+      "price_value": 6.0,
+      "currency": "USD",
+      "size_or_unit": "large",
+      "tags": ["beef", "vegetable"]
+    },
+    {
+      "name_km": "",
+      "name_en": "Fried lok lak beef pork chicken fish (small)",
+      "price_raw": "5.00$",
+      "price_value": 5.0,
+      "currency": "USD",
+      "size_or_unit": "small",
+      "tags": ["beef", "pork", "chicken", "fish"]
+    },
+    {
+      "name_km": "",
+      "name_en": "Fried lok lak beef pork chicken fish (large)",
+      "price_raw": "6.00$",
+      "price_value": 6.0,
+      "currency": "USD",
+      "size_or_unit": "large",
+      "tags": ["beef", "pork", "chicken", "fish"]
+    },
+    {
+      "name_km": "",
+      "name_en": "Fried Beef pork chicken (small)",
+      "price_raw": "4.5$",
+      "price_value": 4.5,
+      "currency": "USD",
+      "size_or_unit": "small",
+      "tags": ["beef", "pork", "chicken"]
+    },
+    {
+      "name_km": "",
+      "name_en": "Fried Beef pork chicken (large)",
+      "price_raw": "6.00$",
+      "price_value": 6.0,
+      "currency": "USD",
+      "size_or_unit": "large",
+      "tags": ["beef", "pork", "chicken"]
+    },
+    {
+      "name_km": "",
+      "name_en": "Beef pork fried tomatoes (small)",
+      "price_raw": "4.00$",
+      "price_value": 4.0,
+      "currency": "USD",
+      "size_or_unit": "small",
+      "tags": ["beef", "pork", "vegetable"]
+    },
+    {
+      "name_km": "",
+      "name_en": "Beef pork fried tomatoes (large)",
+      "price_raw": "6.00$",
+      "price_value": 6.0,
+      "currency": "USD",
+      "size_or_unit": "large",
+      "tags": ["beef", "pork", "vegetable"]
+    },
+    {
+      "name_km": "",
+      "name_en": "Intestines with vegetable (small)",
+      "price_raw": "5.00$",
+      "price_value": 5.0,
+      "currency": "USD",
+      "size_or_unit": "small",
+      "tags": ["vegetable"]
+    },
+    {
+      "name_km": "",
+      "name_en": "Intestines with vegetable (large)",
+      "price_raw": "7.00$",
+      "price_value": 7.0,
+      "currency": "USD",
+      "size_or_unit": "large",
+      "tags": ["vegetable"]
+    },
+    {
+      "name_km": "",
+      "name_en": "Fried special vegetable",
+      "price_raw": "8.00$",
+      "price_value": 8.0,
+      "currency": "USD",
+      "size_or_unit": "large",
+      "tags": ["vegetable"]
+    }
+  ]
+}

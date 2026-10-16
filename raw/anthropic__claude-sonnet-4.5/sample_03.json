@@ -1,0 +1,310 @@
+{
+  "menu_id": "sample_03",
+  "restaurant_name_raw": "អាហារដ្ឋានរាទីបាត់ដំបង",
+  "restaurant_name_en": "Reathy Battambong Restaurant",
+  "currency_notes": "All prices shown with $ symbol indicate USD currency.",
+  "items": [
+    {
+      "name_km": "ត្រីឆ្លាញ់ដុតអំបិលស្រស់",
+      "name_en": "Grilled salmon dorsal fin with salt",
+      "section_raw": "ម្ហូបអាំង",
+      "price_raw": "4.00$",
+      "price_value": 4.0,
+      "currency": "USD",
+      "size_or_unit": "small",
+      "tags": [
+        "fish"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "ត្រីឆ្លាញ់ដុតអំបិលស្រស់",
+      "name_en": "Grilled salmon dorsal fin with salt",
+      "section_raw": "ម្ហូបអាំង",
+      "price_raw": "6.50$",
+      "price_value": 6.5,
+      "currency": "USD",
+      "size_or_unit": "large",
+      "tags": [
+        "fish"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "ត្រីកញ្ជនជ្រុះ អំបិលស្រស់ ដុតខ្ទិះ",
+      "name_en": "Kan Tontauk grilled with salt",
+      "section_raw": "ម្ហូបអាំង",
+      "price_raw": "5.00$",
+      "price_value": 5.0,
+      "currency": "USD",
+      "size_or_unit": "small",
+      "tags": [
+        "fish"
+      ],
+      "multi_unit": false,
+      "confidence": 0.85,
+      "notes": ""
+    },
+    {
+      "name_km": "ត្រីកញ្ជនជ្រុះ អំបិលស្រស់ ដុតខ្ទិះ",
+      "name_en": "Kan Tontauk grilled with salt",
+      "section_raw": "ម្ហូបអាំង",
+      "price_raw": "10.0$",
+      "price_value": 10.0,
+      "currency": "USD",
+      "size_or_unit": "large",
+      "tags": [
+        "fish"
+      ],
+      "multi_unit": false,
+      "confidence": 0.85,
+      "notes": ""
+    },
+    {
+      "name_km": "ខ្យងដុត អំបិលស្រស់",
+      "name_en": "Grilled Rivahre with chili salt",
+      "section_raw": "ម្ហូបអាំង",
+      "price_raw": "4.00$",
+      "price_value": 4.0,
+      "currency": "USD",
+      "size_or_unit": "small",
+      "tags": [
+        "fish"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": ""
+    },
+    {
+      "name_km": "ខ្យងដុត អំបិលស្រស់",
+      "name_en": "Grilled Rivahre with chili salt",
+      "section_raw": "ម្ហូបអាំង",
+      "price_raw": "7.00$",
+      "price_value": 7.0,
+      "currency": "USD",
+      "size_or_unit": "large",
+      "tags": [
+        "fish"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": ""
+    },
+    {
+      "name_km": "មឹក ឆ្មា ដុត អំបិលស្រស់",
+      "name_en": "Grilled squid with salt Chili",
+      "section_raw": "ម្ហូបអាំង",
+      "price_raw": "4.00$",
+      "price_value": 4.0,
+      "currency": "USD",
+      "size_or_unit": "small",
+      "tags": [
+        "seafood"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "មឹក ឆ្មា ដុត អំបិលស្រស់",
+      "name_en": "Grilled squid with salt Chili",
+      "section_raw": "ម្ហូបអាំង",
+      "price_raw": "7.00$",
+      "price_value": 7.0,
+      "currency": "USD",
+      "size_or_unit": "large",
+      "tags": [
+        "seafood"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "សាច់គោ ដុត",
+      "name_en": "Beef Grilled",
+      "section_raw": "ម្ហូបអាំង",
+      "price_raw": "4.00$",
+      "price_value": 4.0,
+      "currency": "USD",
+      "size_or_unit": "small",
+      "tags": [
+        "beef"
+      ],
+      "multi_unit": false,
+      "confidence": 0.95,
+      "notes": ""
+    },
+    {
+      "name_km": "សាច់គោ ដុត",
+      "name_en": "Beef Grilled",
+      "section_raw": "ម្ហូបអាំង",
+      "price_raw": "6.00$",
+      "price_value": 6.0,
+      "currency": "USD",
+      "size_or_unit": "large",
+      "tags": [
+        "beef"
+      ],
+      "multi_unit": false,
+      "confidence": 0.95,
+      "notes": ""
+    },
+    {
+      "name_km": "ជំនីជ្រូកដុតអំបិលស្រស់",
+      "name_en": "Pork rips grilled with salt chili",
+      "section_raw": "ម្ហូបអាំង",
+      "price_raw": "6.00$",
+      "price_value": 6.0,
+      "currency": "USD",
+      "size_or_unit": null,
+      "tags": [
+        "pork"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "មឹកដុត",
+      "name_en": "Grilled squid with salt chili",
+      "section_raw": "ម្ហូបអាំង",
+      "price_raw": "5.00$",
+      "price_value": 5.0,
+      "currency": "USD",
+      "size_or_unit": "small",
+      "tags": [
+        "seafood"
+      ],
+      "multi_unit": false,
+      "confidence": 0.85,
+      "notes": ""
+    },
+    {
+      "name_km": "មឹកដុត",
+      "name_en": "Grilled squid with salt chili",
+      "section_raw": "ម្ហូបអាំង",
+      "price_raw": "7.50$",
+      "price_value": 7.5,
+      "currency": "USD",
+      "size_or_unit": "large",
+      "tags": [
+        "seafood"
+      ],
+      "multi_unit": false,
+      "confidence": 0.85,
+      "notes": ""
+    },
+    {
+      "name_km": "កង្កែបដុត អំបិលស្រស់",
+      "name_en": "Grilled frog with salt chili",
+      "section_raw": "ម្ហូបអាំង",
+      "price_raw": "6.00$",
+      "price_value": 6.0,
+      "currency": "USD",
+      "size_or_unit": null,
+      "tags": [
+        "other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "ផ្សិតដុតអំបិលម្ទេសស្រស់",
+      "name_en": "Grilled Mushroom with salt chili",
+      "section_raw": "ម្ហូបអាំង",
+      "price_raw": "4.00$",
+      "price_value": 4.0,
+      "currency": "USD",
+      "size_or_unit": "small",
+      "tags": [
+        "vegetable"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "ផ្សិតដុតអំបិលម្ទេសស្រស់",
+      "name_en": "Grilled Mushroom with salt chili",
+      "section_raw": "ម្ហូបអាំង",
+      "price_raw": "6.00$",
+      "price_value": 6.0,
+      "currency": "USD",
+      "size_or_unit": "large",
+      "tags": [
+        "vegetable"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "អណ្ដាតដុត",
+      "name_en": "Tonge Grilled",
+      "section_raw": "ម្ហូបអាំង",
+      "price_raw": "",
+      "price_value": null,
+      "currency": "unknown",
+      "size_or_unit": null,
+      "tags": [
+        "other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.5,
+      "notes": "Price crossed out and unreadable"
+    },
+    {
+      "name_km": "ពងគោដុត",
+      "name_en": "Bull Penis Grilled",
+      "section_raw": "ម្ហូបអាំង",
+      "price_raw": "7.00$",
+      "price_value": 7.0,
+      "currency": "USD",
+      "size_or_unit": null,
+      "tags": [
+        "beef"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "មាន់ដុតម្ទេសស្រស់",
+      "name_en": "Grilled chicken with Chili salt",
+      "section_raw": "ម្ហូបអាំង",
+      "price_raw": "10.00$",
+      "price_value": 10.0,
+      "currency": "USD",
+      "size_or_unit": null,
+      "tags": [
+        "chicken"
+      ],
+      "multi_unit": false,
+      "confidence": 0.95,
+      "notes": ""
+    },
+    {
+      "name_km": "ត្រីក្រហមដុតម្ទេស",
+      "name_en": "Grilled red fish chili salt",
+      "section_raw": "ម្ហូបអាំង",
+      "price_raw": "7.50$",
+      "price_value": 7.5,
+      "currency": "USD",
+      "size_or_unit": null,
+      "tags": [
+        "fish"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    }
+  ],
+  "_source_file": "Screenshot 2026-07-21 at 11.16.46 AM.png",
+  "_model": "anthropic/claude-sonnet-4.5"
+}

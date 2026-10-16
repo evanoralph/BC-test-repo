@@ -1,0 +1,149 @@
+{
+  "menu_id": "sample_01",
+  "restaurant_name_raw": null,
+  "restaurant_name_en": null,
+  "currency_notes": "All prices use រៀល suffix indicating KHR currency.",
+  "items": [
+    {
+      "name_km": "សាច់គោក្រួច",
+      "name_en": "Beef with Orange",
+      "section_raw": "មុខម្ហូបពាក់ BEST SELLER",
+      "price_raw": "16,000៛",
+      "price_value": 16000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "beef"
+      ],
+      "multi_unit": false,
+      "confidence": 0.85,
+      "notes": ""
+    },
+    {
+      "name_km": "ឆ្អឹងត្រី",
+      "name_en": "Fish Bone",
+      "section_raw": "មុខម្ហូបពាក់ BEST SELLER",
+      "price_raw": "10,000៛",
+      "price_value": 10000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "fish"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "ឆ្អឹងត្រី",
+      "name_en": "Fish Bone",
+      "section_raw": "មុខម្ហូបពាក់ BEST SELLER",
+      "price_raw": "15,000៛",
+      "price_value": 15000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "fish"
+      ],
+      "multi_unit": false,
+      "confidence": 0.85,
+      "notes": ""
+    },
+    {
+      "name_km": "ត្រកួនជ្រូកស",
+      "name_en": "Pork Ear Salad",
+      "section_raw": "មុខម្ហូបពាក់ BEST SELLER",
+      "price_raw": "10,000៛",
+      "price_value": 10000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "pork",
+        "salad"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": ""
+    },
+    {
+      "name_km": "ភ្លក់ត្រីកណ្ដុរ",
+      "name_en": "Catfish Salad",
+      "section_raw": "មុខម្ហូបពាក់ BEST SELLER",
+      "price_raw": "12,000៛",
+      "price_value": 12000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "fish",
+        "salad"
+      ],
+      "multi_unit": false,
+      "confidence": 0.85,
+      "notes": "Label indicates x2 portions"
+    },
+    {
+      "name_km": "បន្លែស្លឹកត្រសក់ត្រី",
+      "name_en": "Stir-fried Morning Glory with Fish",
+      "section_raw": "មុខម្ហូបពាក់ BEST SELLER",
+      "price_raw": "10,000៛",
+      "price_value": 10000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "fish",
+        "vegetable"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": ""
+    },
+    {
+      "name_km": "ម្ជាវឆ្អឹងស",
+      "name_en": "Fried Pork Ribs",
+      "section_raw": "មុខម្ហូបពាក់ BEST SELLER",
+      "price_raw": "15,000៛",
+      "price_value": 15000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "pork"
+      ],
+      "multi_unit": false,
+      "confidence": 0.85,
+      "notes": ""
+    },
+    {
+      "name_km": "ម្ជាវឆ្អឹងស្លឹប",
+      "name_en": "Fried Pork Ribs with Lemongrass",
+      "section_raw": "មុខម្ហូបពាក់ BEST SELLER",
+      "price_raw": "15,000៛",
+      "price_value": 15000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "pork"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": ""
+    },
+    {
+      "name_km": "ប្រហិតសំប៉ុកជ្រូក",
+      "name_en": "Fried Spring Rolls",
+      "section_raw": "មុខម្ហូបពាក់ BEST SELLER",
+      "price_raw": "15,000៛",
+      "price_value": 15000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "pork",
+        "other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.85,
+      "notes": ""
+    }
+  ],
+  "_source_file": "Screenshot 2026-07-21 at 11.15.35 AM.png",
+  "_model": "anthropic/claude-sonnet-4.5"
+}

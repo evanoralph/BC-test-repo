@@ -1,0 +1,402 @@
+{
+  "menu_id": "menu_06",
+  "restaurant_name_raw": "The Street Cambodia TK branch",
+  "restaurant_name_en": null,
+  "currency_notes": "Currency is unclear for some items.",
+  "items": [
+    {
+      "name_km": "សម្លរម្ជូរមាន់",
+      "name_en": "Sour Chicken Soup",
+      "section_raw": "",
+      "price_raw": "15,000",
+      "price_value": 15000,
+      "currency": "unknown",
+      "size_or_unit": null,
+      "tags": [
+        "chicken",
+        "soup"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": ""
+    },
+    {
+      "name_km": "សម្លរម្ជូរមាន់",
+      "name_en": "Sour Chicken Soup",
+      "section_raw": "",
+      "price_raw": "30,000",
+      "price_value": 30000,
+      "currency": "unknown",
+      "size_or_unit": null,
+      "tags": [
+        "chicken",
+        "soup"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": ""
+    },
+    {
+      "name_km": "Blue The Street",
+      "name_en": "Blue The Street",
+      "section_raw": "ក្រឡុក",
+      "price_raw": "12,000",
+      "price_value": 12000,
+      "currency": "unknown",
+      "size_or_unit": null,
+      "tags": [
+        "alcohol_other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": ""
+    },
+    {
+      "name_km": "Mojito",
+      "name_en": "Mojito",
+      "section_raw": "ក្រឡុក",
+      "price_raw": "12,000",
+      "price_value": 12000,
+      "currency": "unknown",
+      "size_or_unit": null,
+      "tags": [
+        "alcohol_other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": ""
+    },
+    {
+      "name_km": "White Margarita",
+      "name_en": "White Margarita",
+      "section_raw": "ក្រឡុក",
+      "price_raw": "12,000",
+      "price_value": 12000,
+      "currency": "unknown",
+      "size_or_unit": null,
+      "tags": [
+        "alcohol_other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": ""
+    },
+    {
+      "name_km": "Blue Margarita",
+      "name_en": "Blue Margarita",
+      "section_raw": "ក្រឡុក",
+      "price_raw": "12,000",
+      "price_value": 12000,
+      "currency": "unknown",
+      "size_or_unit": null,
+      "tags": [
+        "alcohol_other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": ""
+    },
+    {
+      "name_km": "Pink Margarita",
+      "name_en": "Pink Margarita",
+      "section_raw": "ក្រឡុក",
+      "price_raw": "12,000",
+      "price_value": 12000,
+      "currency": "unknown",
+      "size_or_unit": null,
+      "tags": [
+        "alcohol_other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": ""
+    },
+    {
+      "name_km": "Long Island",
+      "name_en": "Long Island",
+      "section_raw": "ក្រឡុក",
+      "price_raw": "12,000",
+      "price_value": 12000,
+      "currency": "unknown",
+      "size_or_unit": null,
+      "tags": [
+        "alcohol_other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": ""
+    },
+    {
+      "name_km": "Tiger Margarita",
+      "name_en": "Tiger Margarita",
+      "section_raw": "ក្រឡុក",
+      "price_raw": "20,000",
+      "price_value": 20000,
+      "currency": "unknown",
+      "size_or_unit": null,
+      "tags": [
+        "alcohol_other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": ""
+    },
+    {
+      "name_km": "Cruiser Margarita",
+      "name_en": "Cruiser Margarita",
+      "section_raw": "ក្រឡុក",
+      "price_raw": "24,000",
+      "price_value": 24000,
+      "currency": "unknown",
+      "size_or_unit": null,
+      "tags": [
+        "alcohol_other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": ""
+    },
+    {
+      "name_km": "Rainbow",
+      "name_en": "Rainbow",
+      "section_raw": "ក្រឡុក",
+      "price_raw": "14,000",
+      "price_value": 14000,
+      "currency": "unknown",
+      "size_or_unit": null,
+      "tags": [
+        "alcohol_other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": ""
+    },
+    {
+      "name_km": "Blue / Pink Petro",
+      "name_en": "Blue / Pink Petro",
+      "section_raw": "ក្រឡុក",
+      "price_raw": "24,000",
+      "price_value": 24000,
+      "currency": "unknown",
+      "size_or_unit": null,
+      "tags": [
+        "alcohol_other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": ""
+    },
+    {
+      "name_km": "The RGB",
+      "name_en": "The RGB",
+      "section_raw": "ក្រឡុក",
+      "price_raw": "60,000",
+      "price_value": 60000,
+      "currency": "unknown",
+      "size_or_unit": null,
+      "tags": [
+        "alcohol_other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": ""
+    },
+    {
+      "name_km": "The Steet RGB",
+      "name_en": "The Steet RGB",
+      "section_raw": "ក្រឡុក",
+      "price_raw": "12,000",
+      "price_value": 12000,
+      "currency": "unknown",
+      "size_or_unit": null,
+      "tags": [
+        "alcohol_other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": ""
+    },
+    {
+      "name_km": "Strawberry Smoothie",
+      "name_en": "Strawberry Smoothie",
+      "section_raw": "Smoothie",
+      "price_raw": "8,000",
+      "price_value": 8000,
+      "currency": "unknown",
+      "size_or_unit": null,
+      "tags": [
+        "soft_drink"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": ""
+    },
+    {
+      "name_km": "Passion Smoothie",
+      "name_en": "Passion Smoothie",
+      "section_raw": "Smoothie",
+      "price_raw": "8,000",
+      "price_value": 8000,
+      "currency": "unknown",
+      "size_or_unit": null,
+      "tags": [
+        "soft_drink"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": ""
+    },
+    {
+      "name_km": "Orange Smoothie",
+      "name_en": "Orange Smoothie",
+      "section_raw": "Smoothie",
+      "price_raw": "8,000",
+      "price_value": 8000,
+      "currency": "unknown",
+      "size_or_unit": null,
+      "tags": [
+        "soft_drink"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": ""
+    },
+    {
+      "name_km": "Melon Smoothie",
+      "name_en": "Melon Smoothie",
+      "section_raw": "Smoothie",
+      "price_raw": "8,000",
+      "price_value": 8000,
+      "currency": "unknown",
+      "size_or_unit": null,
+      "tags": [
+        "soft_drink"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": ""
+    },
+    {
+      "name_km": "Blue Berry Smoothie",
+      "name_en": "Blue Berry Smoothie",
+      "section_raw": "Smoothie",
+      "price_raw": "8,000",
+      "price_value": 8000,
+      "currency": "unknown",
+      "size_or_unit": null,
+      "tags": [
+        "soft_drink"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": ""
+    },
+    {
+      "name_km": "Kiwi Smoothie",
+      "name_en": "Kiwi Smoothie",
+      "section_raw": "Smoothie",
+      "price_raw": "8,000",
+      "price_value": 8000,
+      "currency": "unknown",
+      "size_or_unit": null,
+      "tags": [
+        "soft_drink"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": ""
+    },
+    {
+      "name_km": "Strawberry Soda",
+      "name_en": "Strawberry Soda",
+      "section_raw": "ភេសជ្ជៈ",
+      "price_raw": "6,000",
+      "price_value": 6000,
+      "currency": "unknown",
+      "size_or_unit": null,
+      "tags": [
+        "soft_drink"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": ""
+    },
+    {
+      "name_km": "Passion Soda",
+      "name_en": "Passion Soda",
+      "section_raw": "ភេសជ្ជៈ",
+      "price_raw": "6,000",
+      "price_value": 6000,
+      "currency": "unknown",
+      "size_or_unit": null,
+      "tags": [
+        "soft_drink"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": ""
+    },
+    {
+      "name_km": "Orange Soda",
+      "name_en": "Orange Soda",
+      "section_raw": "ភេសជ្ជៈ",
+      "price_raw": "6,000",
+      "price_value": 6000,
+      "currency": "unknown",
+      "size_or_unit": null,
+      "tags": [
+        "soft_drink"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": ""
+    },
+    {
+      "name_km": "Melon Soda",
+      "name_en": "Melon Soda",
+      "section_raw": "ភេសជ្ជៈ",
+      "price_raw": "6,000",
+      "price_value": 6000,
+      "currency": "unknown",
+      "size_or_unit": null,
+      "tags": [
+        "soft_drink"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": ""
+    },
+    {
+      "name_km": "Blue Berry Soda",
+      "name_en": "Blue Berry Soda",
+      "section_raw": "ភេសជ្ជៈ",
+      "price_raw": "6,000",
+      "price_value": 6000,
+      "currency": "unknown",
+      "size_or_unit": null,
+      "tags": [
+        "soft_drink"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": ""
+    },
+    {
+      "name_km": "Kiwi Soda",
+      "name_en": "Kiwi Soda",
+      "section_raw": "ភេសជ្ជៈ",
+      "price_raw": "6,000",
+      "price_value": 6000,
+      "currency": "unknown",
+      "size_or_unit": null,
+      "tags": [
+        "soft_drink"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": ""
+    }
+  ],
+  "_source_file": "Screenshot 2026-07-20 at 10.30.11 PM.png",
+  "_model": "openai/gpt-4o"
+}

@@ -1,0 +1,295 @@
+{
+  "menu_id": "menu_30",
+  "restaurant_name_raw": "ភោជនីយដ្ឋាន រាត្រីបាត់ដំបង",
+  "restaurant_name_en": "Reatry Battambong Restaurant",
+  "currency_notes": "Prices are in USD for small and large plates, with several handwritten corrections.",
+  "items": [
+    {
+      "name_km": "ឆាគ្រឿងសមុទ្រ",
+      "name_en": "Fried Squid With light peppers",
+      "section_raw": "ឆា",
+      "price_raw": "2.50$",
+      "price_value": 2.5,
+      "currency": "USD",
+      "size_or_unit": "small",
+      "tags": [
+        "seafood"
+      ],
+      "multi_unit": false,
+      "confidence": 0.85,
+      "notes": "Handwritten price over a crossed-out printed price."
+    },
+    {
+      "name_km": "ឆាគ្រឿងសមុទ្រ",
+      "name_en": "Fried Squid With light peppers",
+      "section_raw": "ឆា",
+      "price_raw": "4.50$",
+      "price_value": 4.5,
+      "currency": "USD",
+      "size_or_unit": "large",
+      "tags": [
+        "seafood"
+      ],
+      "multi_unit": false,
+      "confidence": 0.85,
+      "notes": "Handwritten price over a crossed-out printed price."
+    },
+    {
+      "name_km": "ឆាពងពពែគោបន្លែ",
+      "name_en": "Stir fried beef bull penis with vegetable",
+      "section_raw": "ឆា",
+      "price_raw": "4.00$",
+      "price_value": 4,
+      "currency": "USD",
+      "size_or_unit": "small",
+      "tags": [
+        "beef",
+        "vegetable",
+        "other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.95,
+      "notes": ""
+    },
+    {
+      "name_km": "ឆាពងពពែគោបន្លែ",
+      "name_en": "Stir fried beef bull penis with vegetable",
+      "section_raw": "ឆា",
+      "price_raw": "6.00$",
+      "price_value": 6,
+      "currency": "USD",
+      "size_or_unit": "large",
+      "tags": [
+        "beef",
+        "vegetable",
+        "other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.95,
+      "notes": ""
+    },
+    {
+      "name_km": "ឡុកឡាក់សាច់គោ, សាច់ជ្រូក, សាច់មាន់, ត្រី",
+      "name_en": "Fried lok lak beef pork chicken fish",
+      "section_raw": "ឆា",
+      "price_raw": "6.00$",
+      "price_value": 6,
+      "currency": "USD",
+      "size_or_unit": "large",
+      "tags": [
+        "beef",
+        "pork",
+        "chicken",
+        "fish",
+        "salad"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": "Small size price was crossed out and unreadable."
+    },
+    {
+      "name_km": "ឆាក្តៅ (មាន់, ជ្រូក, គោ, ទា, អន្ទង់, កង្កែប)",
+      "name_en": "Fired Beef pork chicken",
+      "section_raw": "ឆា",
+      "price_raw": "2.5$",
+      "price_value": 2.5,
+      "currency": "USD",
+      "size_or_unit": "small",
+      "tags": [
+        "chicken",
+        "pork",
+        "beef",
+        "duck",
+        "other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.85,
+      "notes": "Handwritten price over a crossed-out printed price. English name is incomplete."
+    },
+    {
+      "name_km": "ឆាក្តៅ (មាន់, ជ្រូក, គោ, ទា, អន្ទង់, កង្កែប)",
+      "name_en": "Fired Beef pork chicken",
+      "section_raw": "ឆា",
+      "price_raw": "4.5$",
+      "price_value": 4.5,
+      "currency": "USD",
+      "size_or_unit": "large",
+      "tags": [
+        "chicken",
+        "pork",
+        "beef",
+        "duck",
+        "other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.85,
+      "notes": "Handwritten price over a crossed-out printed price. English name is incomplete."
+    },
+    {
+      "name_km": "ងាវឆាអំពិល",
+      "name_en": null,
+      "section_raw": "ឆា",
+      "price_raw": "4.5$",
+      "price_value": 4.5,
+      "currency": "USD",
+      "size_or_unit": "small",
+      "tags": [
+        "seafood"
+      ],
+      "multi_unit": false,
+      "confidence": 0.95,
+      "notes": ""
+    },
+    {
+      "name_km": "ងាវឆាអំពិល",
+      "name_en": null,
+      "section_raw": "ឆា",
+      "price_raw": "6.00$",
+      "price_value": 6,
+      "currency": "USD",
+      "size_or_unit": "large",
+      "tags": [
+        "seafood"
+      ],
+      "multi_unit": false,
+      "confidence": 0.95,
+      "notes": ""
+    },
+    {
+      "name_km": "ឆាកែងសាច់គោ, សាច់ជ្រូក, សាច់មាន់",
+      "name_en": null,
+      "section_raw": "ឆា",
+      "price_raw": "4.00$",
+      "price_value": 4,
+      "currency": "USD",
+      "size_or_unit": "small",
+      "tags": [
+        "beef",
+        "pork",
+        "chicken"
+      ],
+      "multi_unit": false,
+      "confidence": 0.95,
+      "notes": ""
+    },
+    {
+      "name_km": "ឆាកែងសាច់គោ, សាច់ជ្រូក, សាច់មាន់",
+      "name_en": null,
+      "section_raw": "ឆា",
+      "price_raw": "6.00$",
+      "price_value": 6,
+      "currency": "USD",
+      "size_or_unit": "large",
+      "tags": [
+        "beef",
+        "pork",
+        "chicken"
+      ],
+      "multi_unit": false,
+      "confidence": 0.95,
+      "notes": ""
+    },
+    {
+      "name_km": "ឆាឆ្អឹងជំនីជ្រូកជូរអែម",
+      "name_en": null,
+      "section_raw": "ឆា",
+      "price_raw": "5.00$",
+      "price_value": 5,
+      "currency": "USD",
+      "size_or_unit": "small",
+      "tags": [
+        "pork"
+      ],
+      "multi_unit": false,
+      "confidence": 0.95,
+      "notes": ""
+    },
+    {
+      "name_km": "ឆាឆ្អឹងជំនីជ្រូកជូរអែម",
+      "name_en": null,
+      "section_raw": "ឆា",
+      "price_raw": "7.00$",
+      "price_value": 7,
+      "currency": "USD",
+      "size_or_unit": "large",
+      "tags": [
+        "pork"
+      ],
+      "multi_unit": false,
+      "confidence": 0.95,
+      "notes": ""
+    },
+    {
+      "name_km": "ឆាគ្រឿងសាច់គោ, សាច់ជ្រូក, សាច់ត្រី, អន្ទង់",
+      "name_en": null,
+      "section_raw": "ឆា",
+      "price_raw": "2.5$",
+      "price_value": 2.5,
+      "currency": "USD",
+      "size_or_unit": "small",
+      "tags": [
+        "beef",
+        "pork",
+        "fish",
+        "other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.85,
+      "notes": "Handwritten price over a crossed-out printed price."
+    },
+    {
+      "name_km": "ឆាគ្រឿងសាច់គោ, សាច់ជ្រូក, សាច់ត្រី, អន្ទង់",
+      "name_en": null,
+      "section_raw": "ឆា",
+      "price_raw": "4.5$",
+      "price_value": 4.5,
+      "currency": "USD",
+      "size_or_unit": "large",
+      "tags": [
+        "beef",
+        "pork",
+        "fish",
+        "other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.85,
+      "notes": "Handwritten price over a crossed-out printed price."
+    },
+    {
+      "name_km": "សាច់គោ, សាច់ជ្រូកឆាពេញប៉ោះ",
+      "name_en": "Beef pork fried tomatoes",
+      "section_raw": "ឆា",
+      "price_raw": "2.5$",
+      "price_value": 2.5,
+      "currency": "USD",
+      "size_or_unit": "small",
+      "tags": [
+        "beef",
+        "pork",
+        "vegetable"
+      ],
+      "multi_unit": false,
+      "confidence": 0.85,
+      "notes": "Handwritten price over a crossed-out printed price."
+    },
+    {
+      "name_km": "សាច់គោ, សាច់ជ្រូកឆាពេញប៉ោះ",
+      "name_en": "Beef pork fried tomatoes",
+      "section_raw": "ឆា",
+      "price_raw": "4.5$",
+      "price_value": 4.5,
+      "currency": "USD",
+      "size_or_unit": "large",
+      "tags": [
+        "beef",
+        "pork",
+        "vegetable"
+      ],
+      "multi_unit": false,
+      "confidence": 0.85,
+      "notes": "Handwritten price over a crossed-out printed price."
+    }
+  ],
+  "_source_file": "Screenshot 2026-07-21 at 11.16.25 AM.png",
+  "_model": "google/gemini-2.5-pro"
+}

@@ -32,13 +32,27 @@ In general terms: two problems were split — **reading menus** (uncertain, mode
 
 ## Changelog
 
+- **2026-10-16:** Stronger 7-menu model bake-off summary (this README); Flash remains catalog winner.
 - **2026-10-16:** Added ranked “What I don’t trust” (this README) and mirrored it in the app footer (`site/index.html` `#trust`).
 - **2026-10-16:** Added general pros/cons of the extract-then-search design.
 - **2026-10-16:** Linked the live here.now app URL at the top of this README.
 
+## Model bake-off (summary)
+
+Compared four OpenRouter vision models on **7 hand-labelled menus** (3 samples + hard cases: no prices, beer, dense dual-price, stamp overlays). Full tables: [`notes/bakeoff_stronger.md`](notes/bakeoff_stronger.md). CSV: `bench/results/bakeoff.csv`.
+
+| Model | Avg composite (n=7) |
+|---|---:|
+| **`google/gemini-2.5-flash`** | **0.959** (winner — catalog model) |
+| `google/gemini-2.5-pro` | 0.851 |
+| `openai/gpt-4o` | 0.795 |
+| `anthropic/claude-sonnet-4.5` | 0.622 |
+
+Flash also led on dense/truncated (`menu_06`) and currency-missing (`menu_01`) boards. On the beer menu (`menu_05`), Flash and Claude both hit beer recall 1.0. No full-catalog re-extract — Flash stays the shipped extractor.
+
 ## What I don’t trust
 
-Ranked weakest first. Evidence: bake-off on 3 hand-labelled samples (`bench/results/bakeoff.csv`), full-set extraction ranking (`notes/extraction_ranking.md`), auto flags (`data/flags.csv`), and sample hand fixes (`data/corrections.csv`).
+Ranked weakest first. Evidence: stronger bake-off on 7 hand-labelled menus (`bench/results/bakeoff.csv`, [`notes/bakeoff_stronger.md`](notes/bakeoff_stronger.md)), full-set extraction ranking (`notes/extraction_ranking.md`), auto flags (`data/flags.csv`), and sample hand fixes (`data/corrections.csv`).
 
 1. **Currency-missing menus** — `menu_01` and `menu_21` (Independence Monument) score 0.245 quality: every item is `currency_unknown` (18 rows). Recommendations that need those prices are unusable until someone reads the image and assigns KHR/USD.
 2. **Low-confidence / incomplete extracts** — `menu_30` has avg confidence 0.66 with all 17 items low-conf; several names are generic `item`. Truncated model responses (`finish_reason=length`) on `menu_27`, `menu_02`, `menu_06` mean later sections may be missing.
@@ -89,3 +103,4 @@ Logged in [`data/corrections.csv`](data/corrections.csv) (sample menus only; chi
 - Playbook: [`docs/HANDOVER.md`](docs/HANDOVER.md)
 - Extraction ranking: [`notes/extraction_ranking.md`](notes/extraction_ranking.md)
 - Sample bake-off: [`notes/bakeoff_sample.md`](notes/bakeoff_sample.md)
+- Stronger 7-menu bake-off (Flash vs Pro / GPT-4o / Claude): [`notes/bakeoff_stronger.md`](notes/bakeoff_stronger.md)

@@ -1,0 +1,132 @@
+{
+  "menu_id": "sample_01",
+  "restaurant_name_raw": null,
+  "restaurant_name_en": null,
+  "currency_notes": "Prices are in Khmer riel.",
+  "items": [
+    {
+      "name_km": "សាច់គោក្រសួង",
+      "name_en": "Beef with Lemongrass",
+      "section_raw": "BEST SELLER",
+      "price_raw": "16,000៛",
+      "price_value": 16000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "beef"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "គ្រឿងសមុទ្រត្រីចៀន",
+      "name_en": "Fried Seafood",
+      "section_raw": "BEST SELLER",
+      "price_raw": "12,000៛",
+      "price_value": 12000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "seafood"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "បុកសាច់គោគ្រឿង",
+      "name_en": "Spicy Beef Salad",
+      "section_raw": "BEST SELLER",
+      "price_raw": "10,000៛",
+      "price_value": 10000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "beef",
+        "salad"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "ជើងមាន់រឿងសមុទ្រ",
+      "name_en": "Chicken Feet with Seafood",
+      "section_raw": "BEST SELLER",
+      "price_raw": "10,000៛",
+      "price_value": 10000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "chicken",
+        "seafood"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "បំពងត្រីឆ្អើរ",
+      "name_en": "Fried Fish",
+      "section_raw": "BEST SELLER",
+      "price_raw": "15,000៛",
+      "price_value": 15000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "fish"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "បំពងសាច់គោ",
+      "name_en": "Fried Beef",
+      "section_raw": "BEST SELLER",
+      "price_raw": "15,000៛",
+      "price_value": 15000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "beef"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "បំពងសាច់មាន់",
+      "name_en": "Fried Chicken",
+      "section_raw": "BEST SELLER",
+      "price_raw": "10,000៛",
+      "price_value": 10000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "chicken"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "បំពងសាច់ជ្រូក",
+      "name_en": "Fried Pork",
+      "section_raw": "BEST SELLER",
+      "price_raw": "15,000៛",
+      "price_value": 15000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "pork"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    }
+  ],
+  "_source_file": "Screenshot 2026-07-21 at 11.15.35 AM.png",
+  "_model": "openai/gpt-4o"
+}

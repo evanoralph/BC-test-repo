@@ -1,0 +1,515 @@
+{
+  "menu_id": "sample_02",
+  "restaurant_name_raw": "ភោជនីយដ្ឋាន រាជធានីបាត់ដំបង",
+  "restaurant_name_en": "Reatry Battambong Restaurant",
+  "currency_notes": "Two price columns visible; currency symbols not clearly readable in image.",
+  "items": [
+    {
+      "name_km": "សាច់មាន់ អាំង ស្រស់ ស្រាយ",
+      "name_en": "Fried chicken - Fish-Pork - Beef Pork Ginger",
+      "section_raw": "អាហារ C",
+      "price_raw": "5,00$",
+      "price_value": 5000,
+      "currency": "unknown",
+      "size_or_unit": null,
+      "tags": [
+        "chicken",
+        "fish",
+        "pork",
+        "beef"
+      ],
+      "multi_unit": false,
+      "confidence": 0.6,
+      "notes": "Price appears as 5,00$ which may be 5.00$ USD or 5,000 KHR; unclear."
+    },
+    {
+      "name_km": "សាច់មាន់ អាំង ស្រស់ ស្រាយ",
+      "name_en": "Fried chicken - Fish-Pork - Beef Pork Ginger",
+      "section_raw": "អាហារ C",
+      "price_raw": "6,00$",
+      "price_value": 6000,
+      "currency": "unknown",
+      "size_or_unit": null,
+      "tags": [
+        "chicken",
+        "fish",
+        "pork",
+        "beef"
+      ],
+      "multi_unit": false,
+      "confidence": 0.6,
+      "notes": "Second price column; same currency ambiguity."
+    },
+    {
+      "name_km": "ត្រីចៀន",
+      "name_en": "Fried Squid With Soja pepper",
+      "section_raw": "អាហារ C",
+      "price_raw": "5,00$",
+      "price_value": 5000,
+      "currency": "unknown",
+      "size_or_unit": null,
+      "tags": [
+        "seafood"
+      ],
+      "multi_unit": false,
+      "confidence": 0.65,
+      "notes": ""
+    },
+    {
+      "name_km": "ត្រីចៀន",
+      "name_en": "Fried Squid With Soja pepper",
+      "section_raw": "អាហារ C",
+      "price_raw": "7,00$",
+      "price_value": 7000,
+      "currency": "unknown",
+      "size_or_unit": null,
+      "tags": [
+        "seafood"
+      ],
+      "multi_unit": false,
+      "confidence": 0.65,
+      "notes": "Second price column."
+    },
+    {
+      "name_km": "សាច់គោ ចៀន ជាមួយ ម្ទេសស្រស់",
+      "name_en": "Stir fried beef bell peas with vegetable",
+      "section_raw": "អាហារ C",
+      "price_raw": "6,00$",
+      "price_value": 6000,
+      "currency": "unknown",
+      "size_or_unit": null,
+      "tags": [
+        "beef",
+        "vegetable"
+      ],
+      "multi_unit": false,
+      "confidence": 0.7,
+      "notes": ""
+    },
+    {
+      "name_km": "សាច់គោ ចៀន ជាមួយ ម្ទេសស្រស់",
+      "name_en": "Stir fried beef bell peas with vegetable",
+      "section_raw": "អាហារ C",
+      "price_raw": "8,00$",
+      "price_value": 8000,
+      "currency": "unknown",
+      "size_or_unit": null,
+      "tags": [
+        "beef",
+        "vegetable"
+      ],
+      "multi_unit": false,
+      "confidence": 0.7,
+      "notes": "Second price column."
+    },
+    {
+      "name_km": "ត្រីចៀន សាច់គោ ស្រស់",
+      "name_en": "Fried lok lak beef pork chicken fish",
+      "section_raw": "អាហារ C",
+      "price_raw": "6,00$",
+      "price_value": 6000,
+      "currency": "unknown",
+      "size_or_unit": null,
+      "tags": [
+        "fish",
+        "beef",
+        "pork",
+        "chicken"
+      ],
+      "multi_unit": false,
+      "confidence": 0.65,
+      "notes": ""
+    },
+    {
+      "name_km": "ត្រីចៀន សាច់គោ ស្រស់",
+      "name_en": "Fried lok lak beef pork chicken fish",
+      "section_raw": "អាហារ C",
+      "price_raw": "8,00$",
+      "price_value": 8000,
+      "currency": "unknown",
+      "size_or_unit": null,
+      "tags": [
+        "fish",
+        "beef",
+        "pork",
+        "chicken"
+      ],
+      "multi_unit": false,
+      "confidence": 0.65,
+      "notes": "Second price column."
+    },
+    {
+      "name_km": "សាច់ជ្រូក ចៀន ជាមួយ សាច់គោ សាច់មាន់ ស្រស់ ស្រាយ ត្រី ត្រីចៀន",
+      "name_en": "",
+      "section_raw": "អាហារ C",
+      "price_raw": "6,00$",
+      "price_value": 6000,
+      "currency": "unknown",
+      "size_or_unit": null,
+      "tags": [
+        "pork",
+        "beef",
+        "chicken",
+        "fish"
+      ],
+      "multi_unit": false,
+      "confidence": 0.6,
+      "notes": "English translation not visible."
+    },
+    {
+      "name_km": "សាច់ជ្រូក ចៀន ជាមួយ សាច់គោ សាច់មាន់ ស្រស់ ស្រាយ ត្រី ត្រីចៀន",
+      "name_en": "",
+      "section_raw": "អាហារ C",
+      "price_raw": "8,00$",
+      "price_value": 8000,
+      "currency": "unknown",
+      "size_or_unit": null,
+      "tags": [
+        "pork",
+        "beef",
+        "chicken",
+        "fish"
+      ],
+      "multi_unit": false,
+      "confidence": 0.6,
+      "notes": "Second price column."
+    },
+    {
+      "name_km": "ត្រីចៀន សាច់គោ ស្រស់",
+      "name_en": "Fried Beef pork chicken",
+      "section_raw": "អាហារ C",
+      "price_raw": "6,00$",
+      "price_value": 6000,
+      "currency": "unknown",
+      "size_or_unit": null,
+      "tags": [
+        "fish",
+        "beef",
+        "pork",
+        "chicken"
+      ],
+      "multi_unit": false,
+      "confidence": 0.65,
+      "notes": ""
+    },
+    {
+      "name_km": "ត្រីចៀន សាច់គោ ស្រស់",
+      "name_en": "Fried Beef pork chicken",
+      "section_raw": "អាហារ C",
+      "price_raw": "8,00$",
+      "price_value": 8000,
+      "currency": "unknown",
+      "size_or_unit": null,
+      "tags": [
+        "fish",
+        "beef",
+        "pork",
+        "chicken"
+      ],
+      "multi_unit": false,
+      "confidence": 0.65,
+      "notes": "Second price column."
+    },
+    {
+      "name_km": "ត្រីចៀនស្រស់",
+      "name_en": "",
+      "section_raw": "អាហារ C",
+      "price_raw": "6,00$",
+      "price_value": 6000,
+      "currency": "unknown",
+      "size_or_unit": null,
+      "tags": [
+        "fish"
+      ],
+      "multi_unit": false,
+      "confidence": 0.6,
+      "notes": "English translation not visible."
+    },
+    {
+      "name_km": "ត្រីចៀនស្រស់",
+      "name_en": "",
+      "section_raw": "អាហារ C",
+      "price_raw": "8,00$",
+      "price_value": 8000,
+      "currency": "unknown",
+      "size_or_unit": null,
+      "tags": [
+        "fish"
+      ],
+      "multi_unit": false,
+      "confidence": 0.6,
+      "notes": "Second price column."
+    },
+    {
+      "name_km": "សាច់ជ្រូក ចៀន ស្រស់ ស្រាយ",
+      "name_en": "Beef pork fried tomatoes",
+      "section_raw": "អាហារ C",
+      "price_raw": "5,00$",
+      "price_value": 5000,
+      "currency": "unknown",
+      "size_or_unit": null,
+      "tags": [
+        "pork",
+        "beef"
+      ],
+      "multi_unit": false,
+      "confidence": 0.65,
+      "notes": ""
+    },
+    {
+      "name_km": "សាច់ជ្រូក ចៀន ស្រស់ ស្រាយ",
+      "name_en": "Beef pork fried tomatoes",
+      "section_raw": "អាហារ C",
+      "price_raw": "7,00$",
+      "price_value": 7000,
+      "currency": "unknown",
+      "size_or_unit": null,
+      "tags": [
+        "pork",
+        "beef"
+      ],
+      "multi_unit": false,
+      "confidence": 0.65,
+      "notes": "Second price column."
+    },
+    {
+      "name_km": "សាច់គោ សាច់ជ្រូក ចៀនស្រស់",
+      "name_en": "Beef pork fried cauliflower chili",
+      "section_raw": "អាហារ C",
+      "price_raw": "6,00$",
+      "price_value": 6000,
+      "currency": "unknown",
+      "size_or_unit": null,
+      "tags": [
+        "beef",
+        "pork",
+        "vegetable"
+      ],
+      "multi_unit": false,
+      "confidence": 0.7,
+      "notes": ""
+    },
+    {
+      "name_km": "សាច់គោ សាច់ជ្រូក ចៀនស្រស់",
+      "name_en": "Beef pork fried cauliflower chili",
+      "section_raw": "អាហារ C",
+      "price_raw": "8,00$",
+      "price_value": 8000,
+      "currency": "unknown",
+      "size_or_unit": null,
+      "tags": [
+        "beef",
+        "pork",
+        "vegetable"
+      ],
+      "multi_unit": false,
+      "confidence": 0.7,
+      "notes": "Second price column."
+    },
+    {
+      "name_km": "ត្រីចៀន សាច់គោ សាច់ជ្រូក ស្រស់",
+      "name_en": "",
+      "section_raw": "អាហារ C",
+      "price_raw": "6,00$",
+      "price_value": 6000,
+      "currency": "unknown",
+      "size_or_unit": null,
+      "tags": [
+        "fish",
+        "beef",
+        "pork"
+      ],
+      "multi_unit": false,
+      "confidence": 0.6,
+      "notes": "English translation not visible."
+    },
+    {
+      "name_km": "ត្រីចៀន សាច់គោ សាច់ជ្រូក ស្រស់",
+      "name_en": "",
+      "section_raw": "អាហារ C",
+      "price_raw": "8,00$",
+      "price_value": 8000,
+      "currency": "unknown",
+      "size_or_unit": null,
+      "tags": [
+        "fish",
+        "beef",
+        "pork"
+      ],
+      "multi_unit": false,
+      "confidence": 0.6,
+      "notes": "Second price column."
+    },
+    {
+      "name_km": "សាច់គោ ស្រស់ស្រាយ",
+      "name_en": "Beef pork fried tomatoes",
+      "section_raw": "អាហារ C",
+      "price_raw": "5,00$",
+      "price_value": 5000,
+      "currency": "unknown",
+      "size_or_unit": null,
+      "tags": [
+        "beef",
+        "pork"
+      ],
+      "multi_unit": false,
+      "confidence": 0.65,
+      "notes": ""
+    },
+    {
+      "name_km": "សាច់គោ ស្រស់ស្រាយ",
+      "name_en": "Beef pork fried tomatoes",
+      "section_raw": "អាហារ C",
+      "price_raw": "7,00$",
+      "price_value": 7000,
+      "currency": "unknown",
+      "size_or_unit": null,
+      "tags": [
+        "beef",
+        "pork"
+      ],
+      "multi_unit": false,
+      "confidence": 0.65,
+      "notes": "Second price column."
+    },
+    {
+      "name_km": "ត្រីចៀន",
+      "name_en": "Intestines with vegetable",
+      "section_raw": "អាហារ C",
+      "price_raw": "5,00$",
+      "price_value": 5000,
+      "currency": "unknown",
+      "size_or_unit": null,
+      "tags": [
+        "other",
+        "vegetable"
+      ],
+      "multi_unit": false,
+      "confidence": 0.6,
+      "notes": ""
+    },
+    {
+      "name_km": "ត្រីចៀន",
+      "name_en": "Intestines with vegetable",
+      "section_raw": "អាហារ C",
+      "price_raw": "7,00$",
+      "price_value": 7000,
+      "currency": "unknown",
+      "size_or_unit": null,
+      "tags": [
+        "other",
+        "vegetable"
+      ],
+      "multi_unit": false,
+      "confidence": 0.6,
+      "notes": "Second price column."
+    },
+    {
+      "name_km": "ត្រីចៀនស្រស់",
+      "name_en": "",
+      "section_raw": "អាហារ C",
+      "price_raw": "5,00$",
+      "price_value": 5000,
+      "currency": "unknown",
+      "size_or_unit": null,
+      "tags": [
+        "fish"
+      ],
+      "multi_unit": false,
+      "confidence": 0.6,
+      "notes": "English translation not visible."
+    },
+    {
+      "name_km": "ត្រីចៀនស្រស់",
+      "name_en": "",
+      "section_raw": "អាហារ C",
+      "price_raw": "7,00$",
+      "price_value": 7000,
+      "currency": "unknown",
+      "size_or_unit": null,
+      "tags": [
+        "fish"
+      ],
+      "multi_unit": false,
+      "confidence": 0.6,
+      "notes": "Second price column."
+    },
+    {
+      "name_km": "ត្រីចៀនស្រស់",
+      "name_en": "",
+      "section_raw": "អាហារ C",
+      "price_raw": "5,00$",
+      "price_value": 5000,
+      "currency": "unknown",
+      "size_or_unit": null,
+      "tags": [
+        "fish"
+      ],
+      "multi_unit": false,
+      "confidence": 0.6,
+      "notes": "English translation not visible."
+    },
+    {
+      "name_km": "ត្រីចៀនស្រស់",
+      "name_en": "",
+      "section_raw": "អាហារ C",
+      "price_raw": "7,00$",
+      "price_value": 7000,
+      "currency": "unknown",
+      "size_or_unit": null,
+      "tags": [
+        "fish"
+      ],
+      "multi_unit": false,
+      "confidence": 0.6,
+      "notes": "Second price column."
+    },
+    {
+      "name_km": "ត្រីចៀនស្រស់",
+      "name_en": "",
+      "section_raw": "អាហារ C",
+      "price_raw": "5,00$",
+      "price_value": 5000,
+      "currency": "unknown",
+      "size_or_unit": null,
+      "tags": [
+        "fish"
+      ],
+      "multi_unit": false,
+      "confidence": 0.6,
+      "notes": "English translation not visible."
+    },
+    {
+      "name_km": "ត្រីចៀនស្រស់",
+      "name_en": "",
+      "section_raw": "អាហារ C",
+      "price_raw": "7,00$",
+      "price_value": 7000,
+      "currency": "unknown",
+      "size_or_unit": null,
+      "tags": [
+        "fish"
+      ],
+      "multi_unit": false,
+      "confidence": 0.6,
+      "notes": "Second price column."
+    },
+    {
+      "name_km": "បន្លែចៀន",
+      "name_en": "Fried special vegetable",
+      "section_raw": "អាហារ C",
+      "price_raw": "3,00$",
+      "price_value": 3000,
+      "currency": "unknown",
+      "size_or_unit": null,
+      "tags": [
+        "vegetable"
+      ],
+      "multi_unit": false,
+      "confidence": 0.7,
+      "notes": ""
+    }
+  ],
+  "_source_file": "Screenshot 2026-07-21 at 11.16.25 AM.png",
+  "_model": "anthropic/claude-sonnet-4.5"
+}

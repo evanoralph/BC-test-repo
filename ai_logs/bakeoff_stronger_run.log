@@ -1,0 +1,209 @@
+[bakeoff] === bakeoff start models=['google/gemini-2.5-flash', 'openai/gpt-4o', 'google/gemini-2.5-pro', 'anthropic/claude-sonnet-4'] force=False ===
+[bakeoff] gold menus (7): ['menu_01', 'menu_05', 'menu_06', 'menu_30', 'sample_01', 'sample_02', 'sample_03']
+[bakeoff] extract cmd: /opt/homebrew/opt/python@3.12/bin/python3.12 /Users/ralphevano/Documents/test/boost-capital/scripts/extract.py --input-dir /Users/ralphevano/Documents/test/boost-capital/data-sets-sample --models google/gemini-2.5-flash openai/gpt-4o google/gemini-2.5-pro anthropic/claude-sonnet-4 --only sample_01 sample_02 sample_03 --workers 3
+[extract] found 3 images in /Users/ralphevano/Documents/test/boost-capital/data-sets-sample
+[extract] --only filter ['sample_01', 'sample_02', 'sample_03'] -> 12 jobs
+[extract] queue=12 models=['google/gemini-2.5-flash', 'openai/gpt-4o', 'google/gemini-2.5-pro', 'anthropic/claude-sonnet-4'] workers=3
+[extract] skip existing /Users/ralphevano/Documents/test/boost-capital/raw/google__gemini-2.5-flash/sample_01.json
+[extract] skip existing /Users/ralphevano/Documents/test/boost-capital/raw/google__gemini-2.5-flash/sample_02.json
+[extract] skip existing /Users/ralphevano/Documents/test/boost-capital/raw/google__gemini-2.5-flash/sample_03.json
+[extract] resized Screenshot 2026-07-21 at 11.15.35 AM.png -> 551KB jpeg
+[extract] ok sample_03 model=openai/gpt-4o status=200 10.3s
+[extract] salvage failed: Expecting property name enclosed in double quotes: line 30 column 7 (char 794)
+[extract] parse failed for sample_03: Unable to parse/salvage JSON: line 1 column 1 (char 0); attempting salvage from /Users/ralphevano/Documents/test/boost-capital/raw/openai__gpt-4o/sample_03.raw_response.json
+[extract] salvage failed: Expecting property name enclosed in double quotes: line 30 column 7 (char 794)
+[extract] salvage failed for sample_03: Unable to parse/salvage JSON: line 1 column 1 (char 0)
+[extract] ERROR sample_03/openai/gpt-4o: Unable to parse/salvage JSON: line 1 column 1 (char 0)
+[extract] resized Screenshot 2026-07-21 at 11.15.35 AM.png -> 551KB jpeg
+[extract] ok sample_02 model=openai/gpt-4o status=200 16.6s
+[extract] salvage failed: Expecting property name enclosed in double quotes: line 40 column 7 (char 1065)
+[extract] parse failed for sample_02: Unable to parse/salvage JSON: line 1 column 1 (char 0); attempting salvage from /Users/ralphevano/Documents/test/boost-capital/raw/openai__gpt-4o/sample_02.raw_response.json
+[extract] salvage failed: Expecting property name enclosed in double quotes: line 40 column 7 (char 1065)
+[extract] salvage failed for sample_02: Unable to parse/salvage JSON: line 1 column 1 (char 0)
+[extract] ERROR sample_02/openai/gpt-4o: Unable to parse/salvage JSON: line 1 column 1 (char 0)
+[extract] ok sample_01 model=openai/gpt-4o status=200 19.2s
+[extract] salvage failed: Expecting ':' delimiter: line 42 column 209 (char 1340)
+[extract] parse failed for sample_01: Unable to parse/salvage JSON: line 1 column 1 (char 0); attempting salvage from /Users/ralphevano/Documents/test/boost-capital/raw/openai__gpt-4o/sample_01.raw_response.json
+[extract] salvage failed: Expecting ':' delimiter: line 42 column 209 (char 1340)
+[extract] salvage failed for sample_01: Unable to parse/salvage JSON: line 1 column 1 (char 0)
+[extract] ERROR sample_01/openai/gpt-4o: Unable to parse/salvage JSON: line 1 column 1 (char 0)
+[extract] ok sample_01 model=google/gemini-2.5-pro status=200 39.9s
+[extract] wrote /Users/ralphevano/Documents/test/boost-capital/raw/google__gemini-2.5-pro/sample_01.json items=9
+[extract] resized Screenshot 2026-07-21 at 11.15.35 AM.png -> 551KB jpeg
+[extract] HTTP 404 for sample_01/anthropic/claude-sonnet-4: {"error":{"message":"No endpoints found for anthropic/claude-sonnet-4.","code":404},"user_id":"user_2tewvTDftrTdndrJ1URaQ1Q4Mad"}
+[extract] ERROR sample_01/anthropic/claude-sonnet-4: HTTP Error 404: Not Found
+[extract] HTTP 404 for sample_02/anthropic/claude-sonnet-4: {"error":{"message":"No endpoints found for anthropic/claude-sonnet-4.","code":404},"user_id":"user_2tewvTDftrTdndrJ1URaQ1Q4Mad"}
+[extract] ERROR sample_02/anthropic/claude-sonnet-4: HTTP Error 404: Not Found
+[extract] HTTP 404 for sample_03/anthropic/claude-sonnet-4: {"error":{"message":"No endpoints found for anthropic/claude-sonnet-4.","code":404},"user_id":"user_2tewvTDftrTdndrJ1URaQ1Q4Mad"}
+[extract] ERROR sample_03/anthropic/claude-sonnet-4: HTTP Error 404: Not Found
+[extract] ok sample_03 model=google/gemini-2.5-pro status=200 50.2s
+[extract] wrote /Users/ralphevano/Documents/test/boost-capital/raw/google__gemini-2.5-pro/sample_03.json items=21
+[extract] ok sample_02 model=google/gemini-2.5-pro status=200 64.7s
+[extract] parse failed for sample_02: Unable to parse/salvage JSON: line 1 column 1 (char 0); attempting salvage from /Users/ralphevano/Documents/test/boost-capital/raw/google__gemini-2.5-pro/sample_02.raw_response.json
+[extract] salvage failed for sample_02: Unable to parse/salvage JSON: line 1 column 1 (char 0)
+[extract] ERROR sample_02/google/gemini-2.5-pro: Unable to parse/salvage JSON: line 1 column 1 (char 0)
+[extract] finished with 7 errors
+FAIL	sample_03	openai/gpt-4o	Unable to parse/salvage JSON: line 1 column 1 (char 0)
+FAIL	sample_02	openai/gpt-4o	Unable to parse/salvage JSON: line 1 column 1 (char 0)
+FAIL	sample_01	openai/gpt-4o	Unable to parse/salvage JSON: line 1 column 1 (char 0)
+FAIL	sample_01	anthropic/claude-sonnet-4	HTTP Error 404: Not Found
+FAIL	sample_02	anthropic/claude-sonnet-4	HTTP Error 404: Not Found
+FAIL	sample_03	anthropic/claude-sonnet-4	HTTP Error 404: Not Found
+FAIL	sample_02	google/gemini-2.5-pro	Unable to parse/salvage JSON: line 1 column 1 (char 0)
+[bakeoff] extract exit=1 input=data-sets-sample only=['sample_01', 'sample_02', 'sample_03']
+[bakeoff] extract cmd: /opt/homebrew/opt/python@3.12/bin/python3.12 /Users/ralphevano/Documents/test/boost-capital/scripts/extract.py --input-dir /Users/ralphevano/Documents/test/boost-capital/data-sets --models google/gemini-2.5-flash openai/gpt-4o google/gemini-2.5-pro anthropic/claude-sonnet-4 --only menu_01 menu_05 menu_06 menu_30 --workers 3
+[extract] found 31 images in /Users/ralphevano/Documents/test/boost-capital/data-sets
+[extract] --only filter ['menu_01', 'menu_05', 'menu_06', 'menu_30'] -> 16 jobs
+[extract] queue=16 models=['google/gemini-2.5-flash', 'openai/gpt-4o', 'google/gemini-2.5-pro', 'anthropic/claude-sonnet-4'] workers=3
+[extract] skip existing /Users/ralphevano/Documents/test/boost-capital/raw/google__gemini-2.5-flash/menu_01.json
+[extract] skip existing /Users/ralphevano/Documents/test/boost-capital/raw/google__gemini-2.5-flash/menu_05.json
+[extract] skip existing /Users/ralphevano/Documents/test/boost-capital/raw/google__gemini-2.5-flash/menu_06.json
+[extract] skip existing /Users/ralphevano/Documents/test/boost-capital/raw/google__gemini-2.5-flash/menu_30.json
+[extract] resized Screenshot 2026-07-20 at 10.23.50 PM.png -> 325KB jpeg
+[extract] resized Screenshot 2026-07-20 at 10.27.14 PM.png -> 415KB jpeg
+[extract] resized Screenshot 2026-07-20 at 10.30.11 PM.png -> 425KB jpeg
+[extract] ok menu_06 model=openai/gpt-4o status=200 10.6s
+[extract] salvage failed: Expecting property name enclosed in double quotes: line 37 column 7 (char 972)
+[extract] parse failed for menu_06: Unable to parse/salvage JSON: line 1 column 1 (char 0); attempting salvage from /Users/ralphevano/Documents/test/boost-capital/raw/openai__gpt-4o/menu_06.raw_response.json
+[extract] salvage failed: Expecting property name enclosed in double quotes: line 37 column 7 (char 972)
+[extract] salvage failed for menu_06: Unable to parse/salvage JSON: line 1 column 1 (char 0)
+[extract] ERROR menu_06/openai/gpt-4o: Unable to parse/salvage JSON: line 1 column 1 (char 0)
+[extract] ok menu_01 model=openai/gpt-4o status=200 13.3s
+[extract] salvage failed: Expecting property name enclosed in double quotes: line 36 column 7 (char 860)
+[extract] parse failed for menu_01: Unable to parse/salvage JSON: line 1 column 1 (char 0); attempting salvage from /Users/ralphevano/Documents/test/boost-capital/raw/openai__gpt-4o/menu_01.raw_response.json
+[extract] salvage failed: Expecting property name enclosed in double quotes: line 36 column 7 (char 860)
+[extract] salvage failed for menu_01: Unable to parse/salvage JSON: line 1 column 1 (char 0)
+[extract] ERROR menu_01/openai/gpt-4o: Unable to parse/salvage JSON: line 1 column 1 (char 0)
+[extract] resized Screenshot 2026-07-20 at 10.23.50 PM.png -> 325KB jpeg
+[extract] ok menu_05 model=openai/gpt-4o status=200 14.5s
+[extract] salvage failed: Expecting property name enclosed in double quotes: line 37 column 7 (char 1023)
+[extract] parse failed for menu_05: Unable to parse/salvage JSON: line 1 column 1 (char 0); attempting salvage from /Users/ralphevano/Documents/test/boost-capital/raw/openai__gpt-4o/menu_05.raw_response.json
+[extract] salvage failed: Expecting property name enclosed in double quotes: line 37 column 7 (char 1023)
+[extract] salvage failed for menu_05: Unable to parse/salvage JSON: line 1 column 1 (char 0)
+[extract] ERROR menu_05/openai/gpt-4o: Unable to parse/salvage JSON: line 1 column 1 (char 0)
+[extract] resized Screenshot 2026-07-20 at 10.27.14 PM.png -> 415KB jpeg
+[extract] ok menu_30 model=openai/gpt-4o status=200 9.8s
+[extract] salvage failed: Expecting property name enclosed in double quotes: line 40 column 7 (char 1051)
+[extract] parse failed for menu_30: Unable to parse/salvage JSON: line 1 column 1 (char 0); attempting salvage from /Users/ralphevano/Documents/test/boost-capital/raw/openai__gpt-4o/menu_30.raw_response.json
+[extract] salvage failed: Expecting property name enclosed in double quotes: line 40 column 7 (char 1051)
+[extract] salvage failed for menu_30: Unable to parse/salvage JSON: line 1 column 1 (char 0)
+[extract] ERROR menu_30/openai/gpt-4o: Unable to parse/salvage JSON: line 1 column 1 (char 0)
+[extract] resized Screenshot 2026-07-20 at 10.30.11 PM.png -> 425KB jpeg
+[extract] ok menu_01 model=google/gemini-2.5-pro status=200 23.2s
+[extract] wrote /Users/ralphevano/Documents/test/boost-capital/raw/google__gemini-2.5-pro/menu_01.json items=9
+[extract] ok menu_05 model=google/gemini-2.5-pro status=200 61.8s
+[extract] salvaged truncated JSON
+[extract] wrote /Users/ralphevano/Documents/test/boost-capital/raw/google__gemini-2.5-pro/menu_05.json items=16
+[extract] resized Screenshot 2026-07-20 at 10.23.50 PM.png -> 325KB jpeg
+[extract] HTTP 404 for menu_01/anthropic/claude-sonnet-4: {"error":{"message":"No endpoints found for anthropic/claude-sonnet-4.","code":404},"user_id":"user_2tewvTDftrTdndrJ1URaQ1Q4Mad"}
+[extract] ERROR menu_01/anthropic/claude-sonnet-4: HTTP Error 404: Not Found
+[extract] resized Screenshot 2026-07-20 at 10.27.14 PM.png -> 415KB jpeg
+[extract] ok menu_06 model=google/gemini-2.5-pro status=200 57.0s
+[extract] salvaged truncated JSON
+[extract] wrote /Users/ralphevano/Documents/test/boost-capital/raw/google__gemini-2.5-pro/menu_06.json items=1
+[extract] resized Screenshot 2026-07-20 at 10.30.11 PM.png -> 425KB jpeg
+[extract] HTTP 404 for menu_05/anthropic/claude-sonnet-4: {"error":{"message":"No endpoints found for anthropic/claude-sonnet-4.","code":404},"user_id":"user_2tewvTDftrTdndrJ1URaQ1Q4Mad"}
+[extract] ERROR menu_05/anthropic/claude-sonnet-4: HTTP Error 404: Not Found
+[extract] HTTP 404 for menu_06/anthropic/claude-sonnet-4: {"error":{"message":"No endpoints found for anthropic/claude-sonnet-4.","code":404},"user_id":"user_2tewvTDftrTdndrJ1URaQ1Q4Mad"}
+[extract] ERROR menu_06/anthropic/claude-sonnet-4: HTTP Error 404: Not Found
+[extract] HTTP 404 for menu_30/anthropic/claude-sonnet-4: {"error":{"message":"No endpoints found for anthropic/claude-sonnet-4.","code":404},"user_id":"user_2tewvTDftrTdndrJ1URaQ1Q4Mad"}
+[extract] ERROR menu_30/anthropic/claude-sonnet-4: HTTP Error 404: Not Found
+[extract] ok menu_30 model=google/gemini-2.5-pro status=200 55.9s
+[extract] salvaged truncated JSON
+[extract] wrote /Users/ralphevano/Documents/test/boost-capital/raw/google__gemini-2.5-pro/menu_30.json items=17
+[extract] finished with 8 errors
+FAIL	menu_06	openai/gpt-4o	Unable to parse/salvage JSON: line 1 column 1 (char 0)
+FAIL	menu_01	openai/gpt-4o	Unable to parse/salvage JSON: line 1 column 1 (char 0)
+FAIL	menu_05	openai/gpt-4o	Unable to parse/salvage JSON: line 1 column 1 (char 0)
+FAIL	menu_30	openai/gpt-4o	Unable to parse/salvage JSON: line 1 column 1 (char 0)
+FAIL	menu_01	anthropic/claude-sonnet-4	HTTP Error 404: Not Found
+FAIL	menu_05	anthropic/claude-sonnet-4	HTTP Error 404: Not Found
+FAIL	menu_06	anthropic/claude-sonnet-4	HTTP Error 404: Not Found
+FAIL	menu_30	anthropic/claude-sonnet-4	HTTP Error 404: Not Found
+[bakeoff] extract exit=1 input=data-sets only=['menu_01', 'menu_05', 'menu_06', 'menu_30']
+[bakeoff] WARN extract had failures (exit=1); continuing to score whatever raw files exist
+[bakeoff] score cmd: /opt/homebrew/opt/python@3.12/bin/python3.12 /Users/ralphevano/Documents/test/boost-capital/scripts/score.py --models google/gemini-2.5-flash openai/gpt-4o google/gemini-2.5-pro anthropic/claude-sonnet-4 --out /Users/ralphevano/Documents/test/boost-capital/bench/results/bakeoff.csv --winner-out /Users/ralphevano/Documents/test/boost-capital/bench/results/winner.txt
+[bakeoff] score: [score] google/gemini-2.5-flash menu_01 composite=0.683 recall=0.89
+[bakeoff] score: [score] missing prediction /Users/ralphevano/Documents/test/boost-capital/raw/openai__gpt-4o/menu_01.json
+[bakeoff] score: [score] google/gemini-2.5-pro menu_01 composite=0.651 recall=0.78
+[bakeoff] score: [score] missing prediction /Users/ralphevano/Documents/test/boost-capital/raw/anthropic__claude-sonnet-4/menu_01.json
+[bakeoff] score: [score] google/gemini-2.5-flash menu_05 composite=1.143 recall=1.00
+[bakeoff] score: [score] missing prediction /Users/ralphevano/Documents/test/boost-capital/raw/openai__gpt-4o/menu_05.json
+[bakeoff] score: [score] google/gemini-2.5-pro menu_05 composite=0.845 recall=0.46
+[bakeoff] score: [score] missing prediction /Users/ralphevano/Documents/test/boost-capital/raw/anthropic__claude-sonnet-4/menu_05.json
+[bakeoff] score: [score] google/gemini-2.5-flash menu_06 composite=1.097 recall=0.84
+[bakeoff] score: [score] missing prediction /Users/ralphevano/Documents/test/boost-capital/raw/openai__gpt-4o/menu_06.json
+[bakeoff] score: [score] google/gemini-2.5-pro menu_06 composite=0.576 recall=0.01
+[bakeoff] score: [score] missing prediction /Users/ralphevano/Documents/test/boost-capital/raw/anthropic__claude-sonnet-4/menu_06.json
+[bakeoff] score: [score] google/gemini-2.5-flash menu_30 composite=0.914 recall=0.47
+[bakeoff] score: [score] missing prediction /Users/ralphevano/Documents/test/boost-capital/raw/openai__gpt-4o/menu_30.json
+[bakeoff] score: [score] google/gemini-2.5-pro menu_30 composite=0.905 recall=0.33
+[bakeoff] score: [score] missing prediction /Users/ralphevano/Documents/test/boost-capital/raw/anthropic__claude-sonnet-4/menu_30.json
+[bakeoff] score: [score] google/gemini-2.5-flash sample_01 composite=1.143 recall=1.00
+[bakeoff] score: [score] missing prediction /Users/ralphevano/Documents/test/boost-capital/raw/openai__gpt-4o/sample_01.json
+[bakeoff] score: [score] google/gemini-2.5-pro sample_01 composite=1.143 recall=1.00
+[bakeoff] score: [score] missing prediction /Users/ralphevano/Documents/test/boost-capital/raw/anthropic__claude-sonnet-4/sample_01.json
+[bakeoff] score: [score] google/gemini-2.5-flash sample_02 composite=0.878 recall=0.57
+[bakeoff] score: [score] missing prediction /Users/ralphevano/Documents/test/boost-capital/raw/openai__gpt-4o/sample_02.json
+[bakeoff] score: [score] missing prediction /Users/ralphevano/Documents/test/boost-capital/raw/google__gemini-2.5-pro/sample_02.json
+[bakeoff] score: [score] missing prediction /Users/ralphevano/Documents/test/boost-capital/raw/anthropic__claude-sonnet-4/sample_02.json
+[bakeoff] score: [score] google/gemini-2.5-flash sample_03 composite=0.857 recall=1.00
+[bakeoff] score: [score] missing prediction /Users/ralphevano/Documents/test/boost-capital/raw/openai__gpt-4o/sample_03.json
+[bakeoff] score: [score] google/gemini-2.5-pro sample_03 composite=0.857 recall=1.00
+[bakeoff] score: [score] missing prediction /Users/ralphevano/Documents/test/boost-capital/raw/anthropic__claude-sonnet-4/sample_03.json
+[bakeoff] score: [score] wrote /Users/ralphevano/Documents/test/boost-capital/bench/results/bakeoff.csv
+[bakeoff] score: [score] avg composite google/gemini-2.5-flash = 0.9591 n=7
+[bakeoff] score: [score] avg composite openai/gpt-4o = -1.0000 n=0
+[bakeoff] score: [score] avg composite google/gemini-2.5-pro = 0.8293 n=6
+[bakeoff] score: [score] avg composite anthropic/claude-sonnet-4 = -1.0000 n=0
+[bakeoff] score: [score] winner=google/gemini-2.5-flash -> /Users/ralphevano/Documents/test/boost-capital/bench/results/winner.txt
+[bakeoff] score winner=google/gemini-2.5-flash
+[bakeoff] summary avg_composite google/gemini-2.5-flash = 0.9591 n=7
+[bakeoff] summary avg_composite google/gemini-2.5-pro = 0.8293 n=6
+[bakeoff] === bakeoff done winner=google/gemini-2.5-flash csv=/Users/ralphevano/Documents/test/boost-capital/bench/results/bakeoff.csv ===
+google/gemini-2.5-flash
+[bakeoff] === bakeoff start models=['google/gemini-2.5-flash', 'openai/gpt-4o', 'google/gemini-2.5-pro', 'anthropic/claude-sonnet-4.5'] force=False ===
+[bakeoff] gold menus (7): ['menu_01', 'menu_05', 'menu_06', 'menu_30', 'sample_01', 'sample_02', 'sample_03']
+[bakeoff] skip-extract: scoring existing raw only
+[bakeoff] score cmd: /opt/homebrew/opt/python@3.12/bin/python3.12 /Users/ralphevano/Documents/test/boost-capital/scripts/score.py --models google/gemini-2.5-flash openai/gpt-4o google/gemini-2.5-pro anthropic/claude-sonnet-4.5 --out /Users/ralphevano/Documents/test/boost-capital/bench/results/bakeoff.csv --winner-out /Users/ralphevano/Documents/test/boost-capital/bench/results/winner.txt
+[bakeoff] score: [score] google/gemini-2.5-flash menu_01 composite=0.683 recall=0.89
+[bakeoff] score: [score] openai/gpt-4o menu_01 composite=0.317 recall=0.11
+[bakeoff] score: [score] google/gemini-2.5-pro menu_01 composite=0.651 recall=0.78
+[bakeoff] score: [score] anthropic/claude-sonnet-4.5 menu_01 composite=0.317 recall=0.11
+[bakeoff] score: [score] google/gemini-2.5-flash menu_05 composite=1.143 recall=1.00
+[bakeoff] score: [score] openai/gpt-4o menu_05 composite=1.082 recall=0.86
+[bakeoff] score: [score] google/gemini-2.5-pro menu_05 composite=0.845 recall=0.46
+[bakeoff] score: [score] anthropic/claude-sonnet-4.5 menu_05 composite=1.000 recall=1.00
+[bakeoff] score: [score] google/gemini-2.5-flash menu_06 composite=1.097 recall=0.84
+[bakeoff] score: [score] openai/gpt-4o menu_06 composite=0.395 recall=0.38
+[bakeoff] score: [score] google/gemini-2.5-pro menu_06 composite=0.576 recall=0.01
+[bakeoff] score: [score] anthropic/claude-sonnet-4.5 menu_06 composite=0.794 recall=0.78
+[bakeoff] score: [score] google/gemini-2.5-flash menu_30 composite=0.914 recall=0.47
+[bakeoff] score: [score] openai/gpt-4o menu_30 composite=0.989 recall=0.80
+[bakeoff] score: [score] google/gemini-2.5-pro menu_30 composite=0.905 recall=0.33
+[bakeoff] score: [score] anthropic/claude-sonnet-4.5 menu_30 composite=0.529 recall=0.27
+[bakeoff] score: [score] google/gemini-2.5-flash sample_01 composite=1.143 recall=1.00
+[bakeoff] score: [score] openai/gpt-4o sample_01 composite=0.968 recall=0.89
+[bakeoff] score: [score] google/gemini-2.5-pro sample_01 composite=1.143 recall=1.00
+[bakeoff] score: [score] anthropic/claude-sonnet-4.5 sample_01 composite=0.857 recall=1.00
+[bakeoff] score: [score] google/gemini-2.5-flash sample_02 composite=0.878 recall=0.57
+[bakeoff] score: [score] openai/gpt-4o sample_02 composite=0.990 recall=0.71
+[bakeoff] score: [score] google/gemini-2.5-pro sample_02 composite=0.983 recall=0.86
+[bakeoff] score: [score] anthropic/claude-sonnet-4.5 sample_02 composite=0.000 recall=0.00
+[bakeoff] score: [score] google/gemini-2.5-flash sample_03 composite=0.857 recall=1.00
+[bakeoff] score: [score] openai/gpt-4o sample_03 composite=0.821 recall=0.88
+[bakeoff] score: [score] google/gemini-2.5-pro sample_03 composite=0.857 recall=1.00
+[bakeoff] score: [score] anthropic/claude-sonnet-4.5 sample_03 composite=0.857 recall=1.00
+[bakeoff] score: [score] wrote /Users/ralphevano/Documents/test/boost-capital/bench/results/bakeoff.csv
+[bakeoff] score: [score] avg composite google/gemini-2.5-flash = 0.9591 n=7
+[bakeoff] score: [score] avg composite openai/gpt-4o = 0.7947 n=7
+[bakeoff] score: [score] avg composite google/gemini-2.5-pro = 0.8513 n=7
+[bakeoff] score: [score] avg composite anthropic/claude-sonnet-4.5 = 0.6221 n=7
+[bakeoff] score: [score] winner=google/gemini-2.5-flash -> /Users/ralphevano/Documents/test/boost-capital/bench/results/winner.txt
+[bakeoff] score winner=google/gemini-2.5-flash
+[bakeoff] summary avg_composite google/gemini-2.5-flash = 0.9591 n=7
+[bakeoff] summary avg_composite google/gemini-2.5-pro = 0.8513 n=7
+[bakeoff] summary avg_composite openai/gpt-4o = 0.7947 n=7
+[bakeoff] summary avg_composite anthropic/claude-sonnet-4.5 = 0.6221 n=7
+[bakeoff] === bakeoff done winner=google/gemini-2.5-flash csv=/Users/ralphevano/Documents/test/boost-capital/bench/results/bakeoff.csv ===
+google/gemini-2.5-flash
