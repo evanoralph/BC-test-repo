@@ -2,6 +2,8 @@
 
 Budget order finder over extracted Khmer restaurant menus: pick a chicken + vegetable + beer (etc.) combination under a dollar budget.
 
+**Live app:** [https://sandy-aurora-3fby.here.now/](https://sandy-aurora-3fby.here.now/)
+
 ## How it works
 
 Vision models extract items from menu images → `scripts/normalize.py` builds `data/menus.json` (prices in USD, tags, confidence flags) → the static app in `site/` enumerates combinations under budget, ranking verified / high-confidence items first. Free-text requests are parsed via an optional here.now LLM proxy; a keyword fallback runs if the proxy fails.
@@ -32,6 +34,7 @@ In general terms: two problems were split — **reading menus** (uncertain, mode
 
 - **2026-10-16:** Added ranked “What I don’t trust” (this README) and mirrored it in the app footer (`site/index.html` `#trust`).
 - **2026-10-16:** Added general pros/cons of the extract-then-search design.
+- **2026-10-16:** Linked the live here.now app URL at the top of this README.
 
 ## What I don’t trust
 
