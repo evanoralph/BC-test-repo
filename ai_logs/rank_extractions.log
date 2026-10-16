@@ -1,0 +1,35 @@
+[rank] ranking /Users/ralphevano/Documents/test/boost-capital/raw/google__gemini-2.5-flash
+[rank] menu_01 quality=0.245 items=9 conf=0.6 trunc=False
+[rank] menu_02 quality=1.0 items=56 conf=0.8 trunc=True
+[rank] menu_03 quality=0.879 items=18 conf=0.794 trunc=False
+[rank] menu_04 quality=0.975 items=15 conf=0.9 trunc=False
+[rank] menu_05 quality=1.055 items=35 conf=0.886 trunc=False
+[rank] menu_06 quality=0.931 items=59 conf=0.786 trunc=True
+[rank] menu_07 quality=0.913 items=6 conf=0.883 trunc=False
+[rank] menu_08 quality=0.93 items=6 conf=0.9 trunc=False
+[rank] menu_09 quality=0.897 items=6 conf=0.867 trunc=False
+[rank] menu_10 quality=0.93 items=6 conf=0.9 trunc=False
+[rank] menu_11 quality=0.847 items=6 conf=0.833 trunc=False
+[rank] menu_12 quality=0.897 items=6 conf=0.867 trunc=False
+[rank] menu_13 quality=0.86 items=12 conf=0.8 trunc=False
+[rank] menu_14 quality=0.96 items=12 conf=0.9 trunc=False
+[rank] menu_15 quality=0.96 items=12 conf=0.9 trunc=False
+[rank] menu_16 quality=0.943 items=12 conf=0.883 trunc=False
+[rank] menu_17 quality=0.952 items=12 conf=0.892 trunc=False
+[rank] menu_18 quality=0.952 items=12 conf=0.892 trunc=False
+[rank] menu_19 quality=0.875 items=15 conf=0.84 trunc=False
+[rank] menu_20 quality=0.868 items=15 conf=0.82 trunc=False
+[rank] menu_21 quality=0.245 items=9 conf=0.6 trunc=False
+[rank] menu_22 quality=0.973 items=17 conf=0.888 trunc=False
+[rank] menu_23 quality=0.86 items=12 conf=0.8 trunc=False
+[rank] menu_24 quality=0.915 items=15 conf=0.847 trunc=False
+[rank] menu_25 quality=0.945 items=23 conf=0.835 trunc=False
+[rank] menu_26 quality=1.052 items=46 conf=0.857 trunc=False
+[rank] menu_27 quality=1.1 items=65 conf=0.9 trunc=True
+[rank] menu_28 quality=0.921 items=7 conf=0.886 trunc=False
+[rank] menu_29 quality=0.845 items=9 conf=0.8 trunc=False
+[rank] menu_30 quality=0.644 items=17 conf=0.659 trunc=False
+[rank] menu_31 quality=0.965 items=20 conf=0.87 trunc=False
+[rank] wrote /Users/ralphevano/Documents/test/boost-capital/bench/results/extraction_ranking.csv
+[rank] wrote /Users/ralphevano/Documents/test/boost-capital/notes/extraction_ranking.md
+ranked 31 menus -> /Users/ralphevano/Documents/test/boost-capital/notes/extraction_ranking.md

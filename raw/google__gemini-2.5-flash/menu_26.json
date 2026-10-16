@@ -1,0 +1,718 @@
+{
+  "menu_id": "menu_26",
+  "restaurant_name_raw": null,
+  "restaurant_name_en": null,
+  "currency_notes": "All prices are in KHR. The currency symbol ៛ is used consistently. The symbol $ is used once for a price, but given the context of all other prices being in KHR, it is assumed to be a typo and converted to KHR.",
+  "items": [
+    {
+      "name_km": "បាយឥន្ធធនូ",
+      "name_en": "Rainbow Rice",
+      "section_raw": "បាយឆា",
+      "price_raw": "10,000៛",
+      "price_value": 10000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "rice"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "បាយសាច់ជ្រូកចៀន",
+      "name_en": "Fried Pork Rice",
+      "section_raw": "បាយឆា",
+      "price_raw": "6000៛",
+      "price_value": 6000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "rice",
+        "pork"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "បាយសាច់មាន់",
+      "name_en": "Chicken Rice",
+      "section_raw": "បាយឆា",
+      "price_raw": "8000៛",
+      "price_value": 8000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "rice",
+        "chicken"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "បាយឆាបន្លែគ្រប់មុខ",
+      "name_en": "Fried Mixed Vegetable Rice",
+      "section_raw": "បាយឆា",
+      "price_raw": "8500",
+      "price_value": 8500,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "rice",
+        "vegetable"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "បាយឆាម្ចាស",
+      "name_en": "Fried Rice with Minced Meat",
+      "section_raw": "បាយឆា",
+      "price_raw": "8500៛",
+      "price_value": 8500,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "rice"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": "Translation of 'ម្ចាស' is uncertain, assuming minced meat."
+    },
+    {
+      "name_km": "បាយជាក",
+      "name_en": "Fried Rice with Chicken",
+      "section_raw": "បាយឆា",
+      "price_raw": "8500",
+      "price_value": 8500,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "rice",
+        "chicken"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": "Translation of 'ជាក' is uncertain, assuming chicken."
+    },
+    {
+      "name_km": "បាយឆាកាពិ",
+      "name_en": "Fried Rice with Shrimp Paste",
+      "section_raw": "បាយឆា",
+      "price_raw": "9500",
+      "price_value": 9500,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "rice"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "បាយឆាយាងចូវ",
+      "name_en": "Yangzhou Fried Rice",
+      "section_raw": "បាយឆា",
+      "price_raw": "8500",
+      "price_value": 8500,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "rice"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "បាយខួបពង",
+      "name_en": "Fried Rice with Egg",
+      "section_raw": "បាយឆា",
+      "price_raw": "8500",
+      "price_value": 8500,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "rice",
+        "egg"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "បាយឆាសាច់ក្រកពងទា",
+      "name_en": "Fried Rice with Sausage and Duck Egg",
+      "section_raw": "បាយឆា",
+      "price_raw": "8500៛",
+      "price_value": 8500,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "rice",
+        "egg"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "បាយឆាខាត់ណា",
+      "name_en": "Fried Rice with Kale",
+      "section_raw": "បាយឆា",
+      "price_raw": "85001",
+      "price_value": 8500,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "rice",
+        "vegetable"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "បាយឆាម្រះក្រៅ",
+      "name_en": "Fried Rice with Bitter Melon",
+      "section_raw": "បាយឆា",
+      "price_raw": "8500៛",
+      "price_value": 8500,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "rice",
+        "vegetable"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "បាយឡុកឡាក",
+      "name_en": "Loc Lac Rice",
+      "section_raw": "បាយឆា",
+      "price_raw": "9500៛",
+      "price_value": 9500,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "rice",
+        "beef"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "បាយឆាគ្រឿងសមុទ្រ",
+      "name_en": "Fried Rice with Seafood",
+      "section_raw": "បាយឆា",
+      "price_raw": "9500៛",
+      "price_value": 9500,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "rice",
+        "seafood"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "មីស្រួយគ្រឿងសមុទ្រ",
+      "name_en": "Crispy Noodles with Seafood",
+      "section_raw": "អារហារសំរន់",
+      "price_raw": "9500៛",
+      "price_value": 9500,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "noodle",
+        "seafood"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "បុកល្ហុង",
+      "name_en": "Papaya Salad",
+      "section_raw": "អារហារសំរន់",
+      "price_raw": "8000៛",
+      "price_value": 8000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "salad",
+        "vegetable"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "បុកសណ្តែក",
+      "name_en": "Bean Salad",
+      "section_raw": "អារហារសំរន់",
+      "price_raw": "12000៛",
+      "price_value": 12000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "salad",
+        "vegetable"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "ប្រហិតបំពងម្សៅ",
+      "name_en": "Fried Meatballs",
+      "section_raw": "អារហារសំរន់",
+      "price_raw": "10000៛",
+      "price_value": 10000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "ស្លាបមាន់បំពង",
+      "name_en": "Fried Chicken Wings",
+      "section_raw": "អារហារសំរន់",
+      "price_raw": "10000៛",
+      "price_value": 10000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "chicken"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "ដំឡូងបំពង",
+      "name_en": "French Fries",
+      "section_raw": "អារហារសំរន់",
+      "price_raw": "8000円",
+      "price_value": 8000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "vegetable"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": "Currency symbol is '円' but assumed to be KHR based on other prices."
+    },
+    {
+      "name_km": "អូម៉ាឡែត",
+      "name_en": "Omelette",
+      "section_raw": "អារហារសំរន់",
+      "price_raw": "8000៛",
+      "price_value": 8000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "egg"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "លឹងចេកខ្ចី",
+      "name_en": "Young Banana Blossom Salad",
+      "section_raw": "ប្រភេទ គ្រឿងក្លែម",
+      "price_raw": "12000៛",
+      "price_value": 12000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "vegetable",
+        "salad"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "លីងអំបិលម្ទេស",
+      "name_en": "Stir-fried with Salt and Chili",
+      "section_raw": "ប្រភេទ គ្រឿងក្លែម",
+      "price_raw": "12000+",
+      "price_value": 12000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": "The '+' symbol after the price is ignored."
+    },
+    {
+      "name_km": "ឆាគ្រឿង",
+      "name_en": "Stir-fried with Kroeung",
+      "section_raw": "ប្រភេទ គ្រឿងក្លែម",
+      "price_raw": "12000៛",
+      "price_value": 12000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "ឆាក្តៅ",
+      "name_en": "Spicy Stir-fry",
+      "section_raw": "ប្រភេទ គ្រឿងក្លែម",
+      "price_raw": "12000+",
+      "price_value": 12000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": "The '+' symbol after the price is ignored."
+    },
+    {
+      "name_km": "ឆាព្រៃ",
+      "name_en": "Jungle Stir-fry",
+      "section_raw": "ប្រភេទ គ្រឿងក្លែម",
+      "price_raw": "12000+",
+      "price_value": 12000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": "The '+' symbol after the price is ignored."
+    },
+    {
+      "name_km": "លីងគល់ស្លឹកគ្រៃ",
+      "name_en": "Stir-fried Lemongrass",
+      "section_raw": "ប្រភេទ គ្រឿងក្លែម",
+      "price_raw": "12000+",
+      "price_value": 12000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "vegetable"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": "The '+' symbol after the price is ignored."
+    },
+    {
+      "name_km": "ជាងារ",
+      "name_en": "Stir-fried Ginger",
+      "section_raw": "ប្រភេទ គ្រឿងក្លែម",
+      "price_raw": "12000៛",
+      "price_value": 12000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "vegetable"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "IS",
+      "name_en": "Stir-fried",
+      "section_raw": "ប្រភេទ គ្រឿងក្លែម",
+      "price_raw": "12000+",
+      "price_value": 12000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.6,
+      "notes": "The Khmer text for this item is unclear, 'IS' is likely an OCR error. The '+' symbol after the price is ignored."
+    },
+    {
+      "name_km": "ក្រាត",
+      "name_en": "Stir-fried",
+      "section_raw": "ប្រភេទ គ្រឿងក្លែម",
+      "price_raw": "12000+",
+      "price_value": 12000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.6,
+      "notes": "The Khmer text for this item is unclear, 'ក្រាត' is likely an OCR error. The '+' symbol after the price is ignored."
+    },
+    {
+      "name_km": "សាំងវិច",
+      "name_en": "Sandwich",
+      "section_raw": "សាំងវិច",
+      "price_raw": "8000៛",
+      "price_value": 8000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "សាំងវិចហេមឈីស",
+      "name_en": "Ham and Cheese Sandwich",
+      "section_raw": "សាំងវិច",
+      "price_raw": "8000៛",
+      "price_value": 8000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "បង្ហាស្រះ",
+      "name_en": "Prawns",
+      "section_raw": "បង្ហា",
+      "price_raw": "13500$",
+      "price_value": 13500,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "seafood"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": "Currency symbol is '$' but assumed to be KHR based on other prices."
+    },
+    {
+      "name_km": "បង្គាបំពងប័រ",
+      "name_en": "Butter Fried Prawns",
+      "section_raw": "បង្ហា",
+      "price_raw": "13500",
+      "price_value": 13500,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "seafood"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "បង្គាត្រាំទឹកត្រី",
+      "name_en": "Prawns Marinated in Fish Sauce",
+      "section_raw": "បង្ហា",
+      "price_raw": "13500+",
+      "price_value": 13500,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "seafood"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": "The '+' symbol after the price is ignored."
+    },
+    {
+      "name_km": "បង្គាបំពងម្សៅ",
+      "name_en": "Fried Prawns",
+      "section_raw": "បង្ហា",
+      "price_raw": "13500+",
+      "price_value": 13500,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "seafood"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": "The '+' symbol after the price is ignored."
+    },
+    {
+      "name_km": "បង្គាបំពងខ្ទឹមស",
+      "name_en": "Fried Prawns with Garlic",
+      "section_raw": "បង្ហា",
+      "price_raw": "13500+",
+      "price_value": 13500,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "seafood"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": "The '+' symbol after the price is ignored."
+    },
+    {
+      "name_km": "បង្គាឆាម្រិច",
+      "name_en": "Stir-fried Prawns with Pepper",
+      "section_raw": "បង្ហា",
+      "price_raw": "13500+",
+      "price_value": 13500,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "seafood"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": "The '+' symbol after the price is ignored."
+    },
+    {
+      "name_km": "មីញាំ",
+      "name_en": "Noodle Salad",
+      "section_raw": "មីឆា",
+      "price_raw": "8500+",
+      "price_value": 8500,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "noodle",
+        "salad"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": "The '+' symbol after the price is ignored."
+    },
+    {
+      "name_km": "មីឆាខាត់ណា",
+      "name_en": "Stir-fried Noodles with Kale",
+      "section_raw": "មីឆា",
+      "price_raw": "8500៛",
+      "price_value": 8500,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "noodle",
+        "vegetable"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "មីឆាគ្រឿងសមុទ្រ",
+      "name_en": "Stir-fried Noodles with Seafood",
+      "section_raw": "មីឆា",
+      "price_raw": "9500៛",
+      "price_value": 9500,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "noodle",
+        "seafood"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "មីកខ្លាំង",
+      "name_en": "Stir-fried Noodles with Beef",
+      "section_raw": "មីឆា",
+      "price_raw": "8500៛",
+      "price_value": 8500,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "noodle",
+        "beef"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": "Translation of 'មីកខ្លាំង' is uncertain, assuming beef."
+    },
+    {
+      "name_km": "មីឆាកាពិ",
+      "name_en": "Stir-fried Noodles with Shrimp Paste",
+      "section_raw": "មីឆា",
+      "price_raw": "8500円",
+      "price_value": 8500,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "noodle"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": "Currency symbol is '円' but assumed to be KHR based on other prices."
+    },
+    {
+      "name_km": "មស្រួយ",
+      "name_en": "Crispy Noodles",
+      "section_raw": "មីឆា",
+      "price_raw": "8500",
+      "price_value": 8500,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "noodle"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "មឹកឆាម្រេច",
+      "name_en": "Stir-fried Squid with Pepper",
+      "section_raw": "មឹក",
+      "price_raw": "13500៛",
+      "price_value": 13500,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "seafood"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "មឹកបំពងម្សៅ",
+      "name_en": "Fried Squid",
+      "section_raw": "មឹក",
+      "price_raw": "13500+",
+      "price_value": 13500,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "seafood"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": "The '+' symbol after the price is ignored."
+    }
+  ],
+  "_source_file": "Screenshot 2026-07-21 at 11.15.08 AM.png",
+  "_model": "google/gemini-2.5-flash"
+}

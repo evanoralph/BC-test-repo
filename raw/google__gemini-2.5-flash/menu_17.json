@@ -1,0 +1,192 @@
+{
+  "menu_id": "menu_17",
+  "restaurant_name_raw": null,
+  "restaurant_name_en": null,
+  "currency_notes": "All prices are in KHR, indicated by ៛. The 'K' in price_value represents 'ពាន់' (thousand) in Khmer.",
+  "items": [
+    {
+      "name_km": "ជ្រក់ជើងទា",
+      "name_en": "Pickled duck feet",
+      "section_raw": "មុខម្ហូបផ្សែងៗ",
+      "price_raw": "១៥០០០៛",
+      "price_value": 15000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "duck"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "ជ្រក់ជើងមាន់",
+      "name_en": "Pickled chicken feet",
+      "section_raw": "មុខម្ហូបផ្សែងៗ",
+      "price_raw": "10000៛",
+      "price_value": 10000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "chicken"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "ជើង មាន់ ទឹក ស៊ី អ៊ីវ",
+      "name_en": "Chicken feet with soy sauce",
+      "section_raw": "មុខម្ហូបផ្សែងៗ",
+      "price_raw": "90000៛",
+      "price_value": 90000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "chicken"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": "Price seems unusually high for chicken feet, but transcribed as seen."
+    },
+    {
+      "name_km": "សាច់គោអាំងទឹកកាពិ",
+      "name_en": "Grilled beef with shrimp paste sauce",
+      "section_raw": "មុខម្ហូបផ្សែងៗ",
+      "price_raw": "១៥០០០៛",
+      "price_value": 15000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "beef"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "ពោតបំពងឬពោតលីង",
+      "name_en": "Fried corn or roasted corn",
+      "section_raw": "មុខម្ហូបផ្សែងៗ",
+      "price_raw": "10000៛",
+      "price_value": 10000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "vegetable"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "ក្តាមប្រៃសមុទ្រ",
+      "name_en": "Salted sea crab",
+      "section_raw": "មុខម្ហូបផ្សែងៗ",
+      "price_raw": "១៥០០០៛",
+      "price_value": 15000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "seafood"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "ខ្យងអប់",
+      "name_en": "Steamed snails",
+      "section_raw": "មុខម្ហូបផ្សែងៗ",
+      "price_raw": "១២០០០៛",
+      "price_value": 12000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "seafood"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "ព្រុយត្រីអាំង",
+      "name_en": "Grilled fish fins",
+      "section_raw": "មុខម្ហូបផ្សែងៗ",
+      "price_raw": "១០០០០៛",
+      "price_value": 10000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "fish"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "ពងទាបិសាច",
+      "name_en": "Devil's egg (spicy egg dish)",
+      "section_raw": "មុខម្ហូបផ្សែងៗ",
+      "price_raw": "10000៛",
+      "price_value": 10000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "egg"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "ស៊ុបពងទាកូន",
+      "name_en": "Balut soup",
+      "section_raw": "មុខម្ហូបផ្សែងៗ",
+      "price_raw": "10000៛",
+      "price_value": 10000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "egg",
+        "soup"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "កំពិស បំពង ឬ លីង",
+      "name_en": "Fried or roasted krill",
+      "section_raw": "មុខម្ហូបផ្សែងៗ",
+      "price_raw": "10000៛",
+      "price_value": 10000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "seafood"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "បាយឆាឡុកឡាក់",
+      "name_en": "Loc Lac fried rice",
+      "section_raw": "មុខម្ហូបផ្សែងៗ",
+      "price_raw": "១៥០០០៛",
+      "price_value": 15000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "beef",
+        "rice"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    }
+  ],
+  "_source_file": "Screenshot 2026-07-20 at 10.33.37 PM.png",
+  "_model": "google/gemini-2.5-flash"
+}

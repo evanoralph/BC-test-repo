@@ -1,0 +1,378 @@
+{
+  "menu_id": "menu_25",
+  "restaurant_name_raw": null,
+  "restaurant_name_en": null,
+  "currency_notes": "All prices are in KHR. The currency symbol ៛ is used consistently. The price for 'ស្ងោរជ្រក់ មាន់ស្រែតូច' has two values, the first one is used as the price_value.",
+  "items": [
+    {
+      "name_km": "ឆាក្តៅ កន្សោមមាន់",
+      "name_en": "Stir-fried hot chicken gizzard",
+      "section_raw": "ប្រភេទអាហារកម្មង់ ( អាហារខ្មែរ )",
+      "price_raw": "15.000៛",
+      "price_value": 15000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "chicken"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "ឆាគ្រឿងពោះគោ",
+      "name_en": "Stir-fried beef tripe",
+      "section_raw": "ប្រភេទអាហារកម្មង់ ( អាហារខ្មែរ )",
+      "price_raw": "15.000៛",
+      "price_value": 15000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "beef"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "ឆាជូរអែម សាច់មាន់-ត្រី-ឆ្អឹងជំនី",
+      "name_en": "Sweet and sour stir-fry with chicken-fish-ribs",
+      "section_raw": "ប្រភេទអាហារកម្មង់ ( អាហារខ្មែរ )",
+      "price_raw": "10.000៛",
+      "price_value": 10000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "chicken",
+        "fish",
+        "pork"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": ""
+    },
+    {
+      "name_km": "ទឹកគ្រឿងបាត់ដំបង",
+      "name_en": "Battambang style dipping sauce",
+      "section_raw": "ប្រភេទអាហារកម្មង់ ( អាហារខ្មែរ )",
+      "price_raw": "10.000៛",
+      "price_value": 10000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": ""
+    },
+    {
+      "name_km": "ប្រហុកខ្ទះ",
+      "name_en": "Prahok Ktis (prahok dip)",
+      "section_raw": "ប្រភេទអាហារកម្មង់ ( អាហារខ្មែរ )",
+      "price_raw": "10.000៛",
+      "price_value": 10000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "ប្រហុកលីង",
+      "name_en": "Fried prahok",
+      "section_raw": "ប្រភេទអាហារកម្មង់ ( អាហារខ្មែរ )",
+      "price_raw": "10.000៛",
+      "price_value": 10000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "ប្តូរព្រៃឆ្អឹងជំនី ឬសាច់មាន់",
+      "name_en": "Wild boar ribs or chicken",
+      "section_raw": "ប្រភេទអាហារកម្មង់ ( អាហារខ្មែរ )",
+      "price_raw": "10.000៛",
+      "price_value": 10000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "pork",
+        "chicken"
+      ],
+      "multi_unit": false,
+      "confidence": 0.7,
+      "notes": ""
+    },
+    {
+      "name_km": "សម្លខ្វះសាច់មាន់ ឬឆ្អឹងជំនី",
+      "name_en": "Sour soup with chicken or ribs",
+      "section_raw": "ប្រភេទអាហារកម្មង់ ( អាហារខ្មែរ )",
+      "price_raw": "10.000៛",
+      "price_value": 10000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "chicken",
+        "pork",
+        "soup"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": ""
+    },
+    {
+      "name_km": "ស្ងោរជ្រក់ មាន់ស្រែ",
+      "name_en": "Sour soup with free-range chicken",
+      "section_raw": "ប្រភេទអាហារកម្មង់ ( អាហារខ្មែរ )",
+      "price_raw": "25.000៛",
+      "price_value": 25000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "chicken",
+        "soup"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "ស្ងោរជ្រក់ មាន់ស្រែតូច",
+      "name_en": "Sour soup with small free-range chicken",
+      "section_raw": "ប្រភេទអាហារកម្មង់ ( អាហារខ្មែរ )",
+      "price_raw": "15.000៛ 25.000៛",
+      "price_value": 15000,
+      "currency": "KHR",
+      "size_or_unit": "small",
+      "tags": [
+        "chicken",
+        "soup"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": "Two prices are listed, the first one is used."
+    },
+    {
+      "name_km": "ស្ងោរជ្រក់ មាន់ - ត្រី - គោ",
+      "name_en": "Sour soup with chicken - fish - beef",
+      "section_raw": "ប្រភេទអាហារកម្មង់ ( អាហារខ្មែរ )",
+      "price_raw": "10.000៛",
+      "price_value": 10000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "chicken",
+        "fish",
+        "beef",
+        "soup"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": ""
+    },
+    {
+      "name_km": "មាន់លីងអំបិលម្ទេស ឬឆ្អឹងជំនី",
+      "name_en": "Stir-fried chicken with salt and chili or ribs",
+      "section_raw": "ប្រភេទអាហារកម្មង់ ( អាហារខ្មែរ )",
+      "price_raw": "10.000៛",
+      "price_value": 10000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "chicken",
+        "pork"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": ""
+    },
+    {
+      "name_km": "ប្តូរគ្រឿងសាច់គោ ឬត្រី",
+      "name_en": "Beef or fish stir-fry",
+      "section_raw": "ប្រភេទអាហារកម្មង់ ( អាហារខ្មែរ )",
+      "price_raw": "10.000៛",
+      "price_value": 10000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "beef",
+        "fish"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": ""
+    },
+    {
+      "name_km": "ប៊័រស្រែ ត្រីឆ្អើរ លាយកូនត្រី",
+      "name_en": "Grilled fish with small fish",
+      "section_raw": "ប្រភេទអាហារកម្មង់ ( អាហារខ្មែរ )",
+      "price_raw": "10.000៛",
+      "price_value": 10000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "fish"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": ""
+    },
+    {
+      "name_km": "ម្ជូរគ្រឿងសាច់គោ លាយពោះគោ",
+      "name_en": "Sour beef soup with beef tripe",
+      "section_raw": "ប្រភេទអាហារកម្មង់ ( អាហារខ្មែរ )",
+      "price_raw": "15.000៛",
+      "price_value": 15000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "beef",
+        "soup"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": ""
+    },
+    {
+      "name_km": "ឆ្អឹងយ៉ាំ សាច់មាន់",
+      "name_en": "Chicken bone yam",
+      "section_raw": "ប្រភេទអាហារកម្មង់ ( អាហារខ្មែរ )",
+      "price_raw": "10.000៛",
+      "price_value": 10000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "chicken"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": ""
+    },
+    {
+      "name_km": "តុងយ៉ាំ គ្រឿងសមុទ្រ",
+      "name_en": "Tom Yum Seafood",
+      "section_raw": "ប្រភេទអាហារកម្មង់ ( អាហារខ្មែរ )",
+      "price_raw": "20.000",
+      "price_value": 20000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "seafood",
+        "soup"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": "Currency symbol missing but inferred from other items."
+    },
+    {
+      "name_km": "តុងយ៉ាំ បង្កង",
+      "name_en": "Tom Yum Prawn",
+      "section_raw": "ប្រភេទអាហារកម្មង់ ( អាហារខ្មែរ )",
+      "price_raw": "37.000៛",
+      "price_value": 37000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "seafood",
+        "soup"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "បង្កងឆាម្រេច",
+      "name_en": "Stir-fried prawn with pepper",
+      "section_raw": "ប្រភេទអាហារកម្មង់ ( អាហារខ្មែរ )",
+      "price_raw": "37.000៛",
+      "price_value": 37000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "seafood"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "បង្កងខ្វះ",
+      "name_en": "Prawn soup",
+      "section_raw": "ប្រភេទអាហារកម្មង់ ( អាហារខ្មែរ )",
+      "price_raw": "37.000៛",
+      "price_value": 37000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "seafood",
+        "soup"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": ""
+    },
+    {
+      "name_km": "ញាំពោះគោ",
+      "name_en": "Beef tripe salad",
+      "section_raw": "ប្រភេទអាហារកម្មង់ ( អាហារខ្មែរ )",
+      "price_raw": "19.000៛",
+      "price_value": 19000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "beef",
+        "salad"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "ញាំត្រី (សាច់មាន់ សាច់គោ)",
+      "name_en": "Fish salad (chicken, beef)",
+      "section_raw": "ប្រភេទអាហារកម្មង់ ( អាហារខ្មែរ )",
+      "price_raw": "10.000៛",
+      "price_value": 10000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "fish",
+        "chicken",
+        "beef",
+        "salad"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": ""
+    },
+    {
+      "name_km": "ភ្លាត្រី (សាច់ត្រី សាច់មាន់ សាច់ជ្រូក)",
+      "name_en": "Fish salad (fish, chicken, pork)",
+      "section_raw": "ប្រភេទអាហារកម្មង់ ( អាហារខ្មែរ )",
+      "price_raw": "10.000៛",
+      "price_value": 10000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "fish",
+        "chicken",
+        "pork",
+        "salad"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": ""
+    }
+  ],
+  "_source_file": "Screenshot 2026-07-20 at 10.47.35 PM.png",
+  "_model": "google/gemini-2.5-flash"
+}

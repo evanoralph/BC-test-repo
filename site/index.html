@@ -1,0 +1,280 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Khmer Menu Intelligence — Budget Order Finder</title>
+  <style>
+    :root {
+      --bg: #f7f5f0;
+      --ink: #1a1a1a;
+      --muted: #555;
+      --banner: #8b1a1a;
+      --banner-bg: #fde8e8;
+      --line: #d0ccc4;
+      --ok: #1b5e20;
+      --warn: #6d4c00;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: Georgia, "Times New Roman", serif;
+      color: var(--ink);
+      background: var(--bg);
+      line-height: 1.45;
+    }
+    .banner {
+      background: var(--banner-bg);
+      color: var(--banner);
+      border-bottom: 2px solid var(--banner);
+      padding: 0.6rem 1rem;
+      font-family: ui-monospace, Menlo, monospace;
+      font-size: 0.85rem;
+      font-weight: 700;
+      letter-spacing: 0.02em;
+    }
+    main {
+      max-width: 40rem;
+      margin: 0 auto;
+      padding: 1.25rem 1rem 3rem;
+    }
+    h1 {
+      font-size: 1.35rem;
+      font-weight: 700;
+      margin: 0 0 0.35rem;
+    }
+    .lede {
+      color: var(--muted);
+      font-size: 0.95rem;
+      margin: 0 0 1.25rem;
+    }
+    label {
+      display: block;
+      font-size: 0.85rem;
+      margin-bottom: 0.35rem;
+    }
+    textarea {
+      width: 100%;
+      min-height: 4.5rem;
+      padding: 0.6rem 0.7rem;
+      border: 1px solid var(--line);
+      background: #fff;
+      font: inherit;
+      resize: vertical;
+    }
+    .actions {
+      margin-top: 0.6rem;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.6rem;
+      align-items: center;
+    }
+    button {
+      font: inherit;
+      padding: 0.45rem 0.9rem;
+      border: 1px solid var(--ink);
+      background: var(--ink);
+      color: #fff;
+      cursor: pointer;
+    }
+    button:disabled {
+      opacity: 0.5;
+      cursor: wait;
+    }
+    .badge {
+      font-family: ui-monospace, Menlo, monospace;
+      font-size: 0.75rem;
+      padding: 0.2rem 0.45rem;
+      border: 1px solid var(--line);
+      background: #fff;
+    }
+    .badge.llm { border-color: var(--ok); color: var(--ok); }
+    .badge.fallback { border-color: var(--warn); color: var(--warn); }
+    #status {
+      margin: 0.85rem 0 0;
+      font-size: 0.9rem;
+      color: var(--muted);
+      min-height: 1.3em;
+    }
+    #results { margin-top: 1.25rem; }
+    .combo {
+      background: #fff;
+      border: 1px solid var(--line);
+      border-radius: 10px;
+      padding: 1rem 1.1rem;
+      margin-bottom: 0.9rem;
+    }
+    .combo-head {
+      display: flex;
+      align-items: center;
+      gap: 0.6rem;
+      margin-bottom: 0.75rem;
+    }
+    .rank {
+      flex: none;
+      width: 1.6rem;
+      height: 1.6rem;
+      border-radius: 50%;
+      background: var(--ink);
+      color: #fff;
+      font-size: 0.85rem;
+      font-weight: 700;
+      display: grid;
+      place-items: center;
+    }
+    .combo h2 {
+      font-size: 1.1rem;
+      margin: 0;
+      flex: 1;
+      min-width: 0;
+    }
+    .match {
+      flex: none;
+      font-size: 0.75rem;
+      padding: 0.15rem 0.5rem;
+      border-radius: 999px;
+      background: #e8f3e9;
+      color: var(--ok);
+    }
+    .match.partial { background: #fff3d6; color: var(--warn); }
+    .lines {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+    }
+    .line {
+      display: flex;
+      align-items: flex-start;
+      gap: 0.7rem;
+      padding: 0.6rem 0;
+      border-top: 1px solid #eee9df;
+    }
+    .line:first-child { border-top: 0; padding-top: 0.2rem; }
+    .tag {
+      flex: none;
+      width: 5rem;
+      font-family: ui-monospace, Menlo, monospace;
+      font-size: 0.7rem;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      color: var(--muted);
+      padding-top: 0.2rem;
+    }
+    .dish {
+      flex: 1;
+      min-width: 0;
+      display: flex;
+      flex-direction: column;
+    }
+    .dish-km { font-weight: 700; }
+    .dish-en { font-size: 0.9rem; }
+    .price-raw { font-size: 0.8rem; color: var(--muted); }
+    .line-total { flex: none; font-weight: 700; }
+    .pill {
+      font-family: ui-monospace, Menlo, monospace;
+      font-size: 0.7rem;
+      margin-left: 0.4rem;
+    }
+    .pill.verified { color: var(--ok); }
+    .pill.low { color: var(--warn); }
+    .totals {
+      margin-top: 0.6rem;
+      padding-top: 0.7rem;
+      border-top: 1px solid var(--line);
+    }
+    .totals-row {
+      display: flex;
+      justify-content: space-between;
+      font-size: 1.05rem;
+    }
+    .meter {
+      height: 6px;
+      border-radius: 3px;
+      background: #eee9df;
+      margin: 0.45rem 0 0.3rem;
+      overflow: hidden;
+    }
+    .meter span { display: block; height: 100%; background: var(--ok); }
+    .totals.over .meter span { background: var(--banner); }
+    .totals-sub { font-size: 0.8rem; color: var(--muted); }
+    .totals.over .totals-sub { color: var(--banner); }
+    .missing-note {
+      font-size: 0.85rem;
+      color: var(--banner);
+      margin: -0.3rem 0 0.6rem;
+    }
+    @media (max-width: 480px) {
+      .line { flex-wrap: wrap; }
+      .tag { width: auto; flex-basis: 100%; padding-top: 0; }
+    }
+    .partial-banner {
+      border: 1px solid var(--warn);
+      background: #fff8e6;
+      color: var(--warn);
+      padding: 0.55rem 0.7rem;
+      font-size: 0.9rem;
+      margin-bottom: 0.75rem;
+    }
+    .combo.partial { opacity: 0.98; }
+    .empty {
+      border-top: 1px solid var(--line);
+      padding: 0.9rem 0;
+    }
+    footer {
+      margin-top: 2rem;
+      padding-top: 1rem;
+      border-top: 1px solid var(--line);
+      font-size: 0.85rem;
+      color: var(--muted);
+    }
+    footer h2 {
+      font-size: 0.95rem;
+      color: var(--ink);
+      margin: 1rem 0 0.35rem;
+    }
+    footer a { color: var(--ink); }
+  </style>
+</head>
+<body>
+  <div class="banner" role="status" id="data-banner">
+    Loading menu data…
+  </div>
+  <main>
+    <h1>Khmer Menu Intelligence</h1>
+    <p class="lede">
+      Ask for a budget and dishes. The app searches one restaurant at a time and cites every item as printed.
+      If a want (like beer) is missing from a menu, you still get the rest — with the gap called out.
+    </p>
+
+    <form id="query-form">
+      <label for="query">What should I order?</label>
+      <textarea id="query" name="query" required>I have a budget of $10. I want chicken, some vegetables, and a couple of beers. What should I order, and from where?</textarea>
+      <div class="actions">
+        <button type="submit" id="submit-btn">Find orders</button>
+        <span id="parser-badge" class="badge" hidden></span>
+      </div>
+    </form>
+
+    <p id="status" aria-live="polite"></p>
+    <div id="results"></div>
+
+    <footer>
+      <p>Exchange rate used: <strong>4,000 KHR = 1 USD</strong> (fixed; no live rate). See assumptions in the repo.</p>
+      <p><a href="#trust">What I don’t trust yet</a></p>
+      <!-- Trust list mirrors README.md “What I don’t trust” (keep ranked order in sync). -->
+      <h2 id="trust">What I don’t trust yet</h2>
+      <ol>
+        <li><strong>Currency-missing menus</strong> — <code>menu_01</code> / <code>menu_21</code>: every item is currency unknown; prices unusable until re-read.</li>
+        <li><strong>Low-confidence / incomplete extracts</strong> — <code>menu_30</code> (all low-conf); truncated responses on <code>menu_27</code>, <code>menu_02</code>, <code>menu_06</code>.</li>
+        <li><strong>Tag noise (especially vegetable)</strong> — many tag_disagree flags; vegetable over-tagging pulls wrong dishes into veg wants.</li>
+        <li><strong>Suspect prices</strong> — out_of_range rows (e.g. <code>menu_17</code> 22.5$; <code>menu_22</code> dual-size 12.5$) and dual-price ambiguity.</li>
+        <li><strong>Beer coverage / parse path</strong> — almost no beer-tagged menus; LLM parse via proxy (browser can alter the request body — spend-capped key); keyword fallback if offline.</li>
+        <li><strong>Khmer / English names</strong> — exact transcription much weaker than prices; verify before citing.</li>
+      </ol>
+      <p><strong>Verify first:</strong> images for <code>menu_01</code>, <code>menu_21</code>, <code>menu_30</code>; then out_of_range prices; then chicken/veg/beer candidates the recommender would pick.</p>
+      <p><strong>Revised accuracy</strong> (vs ~85% prices/currency/tags predicted before processing): prices ~95–100% on matched bake-off items (n=21); currency strong when a symbol exists, weak on symbol-less menus; tags lower than predicted (vegetable especially); exact names ~24%. Wide interval (~±10–15 pts at this n). Full write-up, predicted vs revised table, and hand-corrections: repo <code>README.md</code>.</p>
+    </footer>
+  </main>
+  <script src="app.js"></script>
+</body>
+</html>

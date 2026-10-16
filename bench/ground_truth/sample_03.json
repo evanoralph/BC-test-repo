@@ -1,0 +1,79 @@
+{
+  "menu_id": "sample_03",
+  "restaurant_name_raw": "ភោជនីយដ្ឋាន រាត្រីបាត់ដំបង",
+  "restaurant_name_en": "Reatry Battambong Restaurant",
+  "notes": "Grilled page; USD dual prices. No beer on this page.",
+  "items": [
+    {
+      "name_km": "",
+      "name_en": "Grilled salmon dorsal fin with salt (small)",
+      "price_raw": "4.00$",
+      "price_value": 4.0,
+      "currency": "USD",
+      "size_or_unit": "small",
+      "tags": ["fish"]
+    },
+    {
+      "name_km": "",
+      "name_en": "Grilled salmon dorsal fin with salt (large)",
+      "price_raw": "6.50$",
+      "price_value": 6.5,
+      "currency": "USD",
+      "size_or_unit": "large",
+      "tags": ["fish"]
+    },
+    {
+      "name_km": "",
+      "name_en": "Kan Teatauk grilled with salt (small)",
+      "price_raw": "5.00$",
+      "price_value": 5.0,
+      "currency": "USD",
+      "size_or_unit": "small",
+      "tags": ["other"]
+    },
+    {
+      "name_km": "",
+      "name_en": "Grilled Bivalve with chili salt (small)",
+      "price_raw": "4.00$",
+      "price_value": 4.0,
+      "currency": "USD",
+      "size_or_unit": "small",
+      "tags": ["seafood"]
+    },
+    {
+      "name_km": "",
+      "name_en": "Grilled squid with salt Chili (small)",
+      "price_raw": "4.00$",
+      "price_value": 4.0,
+      "currency": "USD",
+      "size_or_unit": "small",
+      "tags": ["seafood"]
+    },
+    {
+      "name_km": "",
+      "name_en": "Pork ribs grilled with salt chili",
+      "price_raw": "6.00$",
+      "price_value": 6.0,
+      "currency": "USD",
+      "tags": ["pork"]
+    },
+    {
+      "name_km": "",
+      "name_en": "Grilled frog with salt chili",
+      "price_raw": "6.00$",
+      "price_value": 6.0,
+      "currency": "USD",
+      "tags": ["other"]
+    },
+    {
+      "name_km": "",
+      "name_en": "Tongue grilled (handwritten)",
+      "price_raw": "4$",
+      "price_value": 4.0,
+      "currency": "USD",
+      "size_or_unit": "small",
+      "tags": ["beef"],
+      "notes": "handwritten 4-6"
+    }
+  ]
+}

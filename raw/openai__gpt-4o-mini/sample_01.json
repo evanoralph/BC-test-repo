@@ -1,0 +1,101 @@
+{
+  "menu_id": "sample_01",
+  "restaurant_name_raw": null,
+  "restaurant_name_en": null,
+  "currency_notes": "Prices are in KHR (៛).",
+  "items": [
+    {
+      "name_km": "សាច់ដាក់គ្រឿង",
+      "name_en": "Spiced Meat",
+      "section_raw": "BEST SELLER",
+      "price_raw": "16,000៛",
+      "price_value": 16000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "បាយក្រឡុក",
+      "name_en": "Mixed Rice",
+      "section_raw": "BEST SELLER",
+      "price_raw": "10,000៛",
+      "price_value": 10000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "rice"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "សាច់គោ",
+      "name_en": "Beef",
+      "section_raw": "BEST SELLER",
+      "price_raw": "15,000៛",
+      "price_value": 15000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "beef"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "សាច់ត្រី",
+      "name_en": "Fish",
+      "section_raw": "BEST SELLER",
+      "price_raw": "12,000៛",
+      "price_value": 12000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "fish"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "បុកសាច់គោ",
+      "name_en": "Beef Salad",
+      "section_raw": "BEST SELLER",
+      "price_raw": "10,000៛",
+      "price_value": 10000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "beef",
+        "salad"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "បាយបុក",
+      "name_en": "Mixed Rice",
+      "section_raw": "BEST SELLER",
+      "price_raw": "15,000៛",
+      "price_value": 15000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "rice"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    }
+  ],
+  "_source_file": "Screenshot 2026-07-21 at 11.15.35 AM.png",
+  "_model": "openai/gpt-4o-mini"
+}

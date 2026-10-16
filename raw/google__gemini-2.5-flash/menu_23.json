@@ -1,0 +1,196 @@
+{
+  "menu_id": "menu_23",
+  "restaurant_name_raw": "ត្រៀមខ្មែរ",
+  "restaurant_name_en": "Tream Khmer",
+  "currency_notes": "All prices are in KHR. The currency symbol 'រ' is used, which represents Cambodian Riel. 'K' or 'ពាន់' (thousand) is not explicitly used, but the prices are in thousands.",
+  "items": [
+    {
+      "name_km": "ទាដើមចេក",
+      "name_en": "Banana tree duck",
+      "section_raw": "មុខម្ហូប",
+      "price_raw": "រ១៥,០០០",
+      "price_value": 15000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "duck"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": ""
+    },
+    {
+      "name_km": "ក្រវ៉ាញឆាជ្រូកព្រៃ",
+      "name_en": "Stir-fried wild boar with galangal",
+      "section_raw": "មុខម្ហូប",
+      "price_raw": "រ១៥,០០០",
+      "price_value": 15000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "pork"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": ""
+    },
+    {
+      "name_km": "សាច់គោបំពងល្ង",
+      "name_en": "Fried beef with sesame",
+      "section_raw": "មុខម្ហូប",
+      "price_raw": "រ១២,០០០",
+      "price_value": 12000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "beef"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": ""
+    },
+    {
+      "name_km": "ពោលីងពងទាប្រៃ",
+      "name_en": "Stir-fried corn with salted duck egg",
+      "section_raw": "មុខម្ហូប",
+      "price_raw": "រ១២,០០០",
+      "price_value": 12000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "vegetable",
+        "egg"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": ""
+    },
+    {
+      "name_km": "សយជូ",
+      "name_en": "Soy Chu (Fermented pork sausage)",
+      "section_raw": "មុខម្ហូប",
+      "price_raw": "រ២៥,០០០",
+      "price_value": 25000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "pork"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": ""
+    },
+    {
+      "name_km": "ពោះគោឦសាន្ត",
+      "name_en": "Isaan beef tripe",
+      "section_raw": "មុខម្ហូប",
+      "price_raw": "រ២៥,០០០",
+      "price_value": 25000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "beef"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": ""
+    },
+    {
+      "name_km": "ត្រីសាបាក់អាំងទឹកអំពិលទុំ នំបញ្ចុក",
+      "name_en": "Grilled Saba fish with tamarind sauce and Num Banh Chok",
+      "section_raw": "មុខម្ហូប",
+      "price_raw": "រ២៥,០០០",
+      "price_value": 25000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "fish",
+        "noodle"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": ""
+    },
+    {
+      "name_km": "ទាលីងស្ពៃហាង",
+      "name_en": "Stir-fried duck with Chinese kale",
+      "section_raw": "មុខម្ហូប",
+      "price_raw": "រ២៥,០០០",
+      "price_value": 25000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "duck",
+        "vegetable"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": ""
+    },
+    {
+      "name_km": "ភីភាពោះគោ",
+      "name_en": "Beef tripe soup",
+      "section_raw": "មុខម្ហូប",
+      "price_raw": "រ១៨,០០០",
+      "price_value": 18000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "beef",
+        "soup"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": ""
+    },
+    {
+      "name_km": "ស៊ុបពើជើងមាន់",
+      "name_en": "Chicken feet soup",
+      "section_raw": "មុខម្ហូប",
+      "price_raw": "រ១៨,០០០",
+      "price_value": 18000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "chicken",
+        "soup"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": ""
+    },
+    {
+      "name_km": "សាច់គោក្រសាំងទាប",
+      "name_en": "Beef with sour leaves",
+      "section_raw": "មុខម្ហូប",
+      "price_raw": "រ១៨,០០០",
+      "price_value": 18000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "beef"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": ""
+    },
+    {
+      "name_km": "សាកាសម្រស់",
+      "name_en": "Beauty salad",
+      "section_raw": "មុខម្ហូប",
+      "price_raw": "រ១៨,០០០",
+      "price_value": 18000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "salad",
+        "vegetable"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": ""
+    }
+  ],
+  "_source_file": "Screenshot 2026-07-20 at 10.43.56 PM.png",
+  "_model": "google/gemini-2.5-flash"
+}

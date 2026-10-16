@@ -1,0 +1,150 @@
+{
+  "menu_id": "sample_02",
+  "restaurant_name_raw": "រៀត្រី/បាត់ដំបង",
+  "restaurant_name_en": "Reatry/Battambong Restaurant",
+  "currency_notes": "Prices are in KHR (៛) as indicated by the symbols.",
+  "items": [
+    {
+      "name_km": "មាន់ឆាផ្សិត",
+      "name_en": "Fried chicken - Fish - Pork - Beef",
+      "section_raw": "សាច់មាន់ - សាច់ត្រី - សាច់ជ្រូក - សាច់គោ",
+      "price_raw": "6,000 ៛",
+      "price_value": 6000,
+      "currency": "KHR",
+      "size_or_unit": "null",
+      "tags": [
+        "chicken"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "សាច់គោឆាផ្សិត",
+      "name_en": "Stir fried beef with vegetable",
+      "section_raw": "សាច់មាន់ - សាច់ត្រី - សាច់ជ្រូក - សាច់គោ",
+      "price_raw": "4,000 ៛",
+      "price_value": 4000,
+      "currency": "KHR",
+      "size_or_unit": "null",
+      "tags": [
+        "beef",
+        "vegetable"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "សាច់ជ្រូកឆាផ្សិត",
+      "name_en": "Fried pork with vegetable",
+      "section_raw": "សាច់មាន់ - សាច់ត្រី - សាច់ជ្រូក - សាច់គោ",
+      "price_raw": "6,000 ៛",
+      "price_value": 6000,
+      "currency": "KHR",
+      "size_or_unit": "null",
+      "tags": [
+        "pork",
+        "vegetable"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "សាច់គោឆាសាច់មាន់",
+      "name_en": "Find Beef pork chicken",
+      "section_raw": "សាច់មាន់ - សាច់ត្រី - សាច់ជ្រូក - សាច់គោ",
+      "price_raw": "4,500 ៛",
+      "price_value": 4500,
+      "currency": "KHR",
+      "size_or_unit": "null",
+      "tags": [
+        "beef",
+        "chicken",
+        "pork"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "សាច់ជ្រូកឆាផ្សិត",
+      "name_en": "Fried pork with vegetable",
+      "section_raw": "សាច់មាន់ - សាច់ត្រី - សាច់ជ្រូក - សាច់គោ",
+      "price_raw": "4,000 ៛",
+      "price_value": 4000,
+      "currency": "KHR",
+      "size_or_unit": "null",
+      "tags": [
+        "pork",
+        "vegetable"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "សាច់គោឆាផ្សិត",
+      "name_en": "Beef pork fried tomatoes",
+      "section_raw": "សាច់មាន់ - សាច់ត្រី - សាច់ជ្រូក - សាច់គោ",
+      "price_raw": "5,000 ៛",
+      "price_value": 5000,
+      "currency": "KHR",
+      "size_or_unit": "null",
+      "tags": [
+        "beef"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "សាច់គោឆាផ្សិត",
+      "name_en": "Beef pork fried cauliflower chili",
+      "section_raw": "សាច់មាន់ - សាច់ត្រី - សាច់ជ្រូក - សាច់គោ",
+      "price_raw": "6,000 ៛",
+      "price_value": 6000,
+      "currency": "KHR",
+      "size_or_unit": "null",
+      "tags": [
+        "beef"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "សាច់គោឆាផ្សិត",
+      "name_en": "Limitations with vegetable",
+      "section_raw": "សាច់មាន់ - សាច់ត្រី - សាច់ជ្រូក - សាច់គោ",
+      "price_raw": "5,000 ៛",
+      "price_value": 5000,
+      "currency": "KHR",
+      "size_or_unit": "null",
+      "tags": [
+        "vegetable"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "សាច់គោឆាផ្សិត",
+      "name_en": "Fried special vegetable",
+      "section_raw": "សាច់មាន់ - សាច់ត្រី - សាច់ជ្រូក - សាច់គោ",
+      "price_raw": "8,000 ៛",
+      "price_value": 8000,
+      "currency": "KHR",
+      "size_or_unit": "null",
+      "tags": [
+        "vegetable"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    }
+  ],
+  "_source_file": "Screenshot 2026-07-21 at 11.16.25 AM.png",
+  "_model": "openai/gpt-4o-mini"
+}

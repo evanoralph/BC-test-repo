@@ -1,0 +1,236 @@
+{
+  "menu_id": "menu_04",
+  "restaurant_name_raw": "The Street",
+  "restaurant_name_en": "The Street",
+  "currency_notes": "All prices are in KHR, indicated by ៛.",
+  "items": [
+    {
+      "name_km": "ព្រុយត្រីសាម៉ុងអាំង",
+      "name_en": "Grilled Salmon Fin",
+      "section_raw": null,
+      "price_raw": "6000៛",
+      "price_value": 6000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "fish"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "ខ្យងសែលអាំង",
+      "name_en": "Grilled Scallops",
+      "section_raw": null,
+      "price_raw": "6000៛",
+      "price_value": 6000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "seafood"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "គ្រីអាំង",
+      "name_en": "Grilled Clams",
+      "section_raw": null,
+      "price_raw": "6000៛",
+      "price_value": 6000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "seafood"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "មឹកអាំង អំបិលម្ទេស",
+      "name_en": "Grilled Squid with Salt and Chili",
+      "section_raw": null,
+      "price_raw": "12000៛",
+      "price_value": 12000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "seafood"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "បង្គារទឹកកក",
+      "name_en": "Iced Shrimp",
+      "section_raw": null,
+      "price_raw": "12000៛",
+      "price_value": 12000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "seafood"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "បង្គារអាំង អំបិលម្ទេស",
+      "name_en": "Grilled Shrimp with Salt and Chili",
+      "section_raw": null,
+      "price_raw": "10000៛",
+      "price_value": 10000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "seafood"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "បង្គារអាំង អំបិលម្ទេស",
+      "name_en": "Grilled Shrimp with Salt and Chili",
+      "section_raw": null,
+      "price_raw": "30000៛",
+      "price_value": 30000,
+      "currency": "KHR",
+      "size_or_unit": "half_kg",
+      "tags": [
+        "seafood"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "អើយស្វ័យ (Oyster)",
+      "name_en": "Oyster",
+      "section_raw": null,
+      "price_raw": "12000៛",
+      "price_value": 12000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "seafood"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "អ័យស្ទួយអាំង (Oyster)",
+      "name_en": "Grilled Oyster",
+      "section_raw": null,
+      "price_raw": "12000៛",
+      "price_value": 12000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "seafood"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "អើយស្វ័យទឹកកក",
+      "name_en": "Iced Oyster",
+      "section_raw": null,
+      "price_raw": "12000៛",
+      "price_value": 12000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "seafood"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "លៀសហូល",
+      "name_en": "Steamed Clams",
+      "section_raw": null,
+      "price_raw": "6000៛",
+      "price_value": 6000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "seafood"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "ងាវអប់ (អំបិលម្ទេស)",
+      "name_en": "Steamed Clams (Salt and Chili)",
+      "section_raw": null,
+      "price_raw": "8000៛",
+      "price_value": 8000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "seafood"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "ជើងមាន់ក្រឡុកទឹកភ្នែក",
+      "name_en": "Chicken Feet Salad",
+      "section_raw": null,
+      "price_raw": "6000៛",
+      "price_value": 6000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "chicken",
+        "salad"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "បាយស",
+      "name_en": "White Rice",
+      "section_raw": null,
+      "price_raw": "1000៛",
+      "price_value": 1000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "rice"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "នំប៉័ងប៊រ",
+      "name_en": "Butter Bread",
+      "section_raw": null,
+      "price_raw": "1000៛",
+      "price_value": 1000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    }
+  ],
+  "_source_file": "Screenshot 2026-07-20 at 10.24.59 PM.png",
+  "_model": "google/gemini-2.5-flash"
+}

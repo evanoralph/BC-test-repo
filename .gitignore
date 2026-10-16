@@ -1,0 +1,26 @@
+# --- Secrets (never commit) ---
+.env
+.env.*
+!.env.example
+*.key
+credentials
+.herenow/credentials
+**/credentials
+**/credentials.json
+
+# --- Local / OS / tooling ---
+.DS_Store
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+node_modules/
+.herenow/state.json
+
+# --- Large source menu images (keep local; sample folder may stay in git) ---
+data-sets/
+# optional: ignore sample images too if the repo must stay tiny
+# data-sets-sample/
+
+# --- Verbose model HTTP dumps (parsed JSON under raw/ can stay) ---
+*.raw_response.json

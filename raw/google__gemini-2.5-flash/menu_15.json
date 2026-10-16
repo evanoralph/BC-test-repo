@@ -1,0 +1,193 @@
+{
+  "menu_id": "menu_15",
+  "restaurant_name_raw": null,
+  "restaurant_name_en": null,
+  "currency_notes": "All prices are in KHR. The currency symbol ៛ is present on all prices. Khmer digits are used for all prices.",
+  "items": [
+    {
+      "name_km": "កង្កែប អាំង អំបិល ម្ទេស",
+      "name_en": "Grilled frog with salt and chili",
+      "section_raw": "មុខម្ហូបលឹង / បំពង",
+      "price_raw": "១២០០០៛",
+      "price_value": 12000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "ផ្សិត អប់ អំបិល ម្ទេស",
+      "name_en": "Steamed mushroom with salt and chili",
+      "section_raw": "មុខម្ហូបលឹង / បំពង",
+      "price_raw": "១២០០០៛",
+      "price_value": 12000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "vegetable"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "ពងទា អប់ ផ្សិត",
+      "name_en": "Steamed duck egg with mushroom",
+      "section_raw": "មុខម្ហូបលឹង / បំពង",
+      "price_raw": "១២០០០៛",
+      "price_value": 12000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "egg",
+        "vegetable"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "ហ៊ុន អាំងអំបិលម្ទេស",
+      "name_en": "Grilled pork with salt and chili",
+      "section_raw": "មុខម្ហូបលឹង / បំពង",
+      "price_raw": "១២០០០៛",
+      "price_value": 12000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "pork"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "មឹកអប់",
+      "name_en": "Steamed squid",
+      "section_raw": "មុខម្ហូបលឹង / បំពង",
+      "price_raw": "១២០០០៛",
+      "price_value": 12000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "seafood"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "ជើងមាន់អប់អំបិលម្ទេស",
+      "name_en": "Steamed chicken feet with salt and chili",
+      "section_raw": "មុខម្ហូបលឹង / បំពង",
+      "price_raw": "១២០០០៛",
+      "price_value": 12000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "chicken"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "កង្កែប អប់ អំបិល ម្ទេស",
+      "name_en": "Steamed frog with salt and chili",
+      "section_raw": "មុខម្ហូបលឹង / បំពង",
+      "price_raw": "១២០០០៛",
+      "price_value": 12000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "ដៃមឹកអាំងរឺអប់អំបិលម្ទេស",
+      "name_en": "Grilled or steamed squid tentacles with salt and chili",
+      "section_raw": "មុខម្ហូបលឹង / បំពង",
+      "price_raw": "១២០០០៛",
+      "price_value": 12000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "seafood"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "ជង្គង់មាន់បំពងខ្ទឹមស",
+      "name_en": "Fried chicken knee with garlic",
+      "section_raw": "មុខម្ហូបលឹង / បំពង",
+      "price_raw": "១២០០០៛",
+      "price_value": 12000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "chicken"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "បង្គាអាំង",
+      "name_en": "Grilled shrimp",
+      "section_raw": "មុខម្ហូបលឹង / បំពង",
+      "price_raw": "១២០០០៛",
+      "price_value": 12000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "seafood"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "ភ្លាក្តាមសេះពិសេស",
+      "name_en": "Special horse crab salad",
+      "section_raw": "មុខម្ហូបលឹង / បំពង",
+      "price_raw": "១៥០០០៛",
+      "price_value": 15000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "seafood",
+        "salad"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "មាន់ស្ពៃខៀវ",
+      "name_en": "Chicken with kale",
+      "section_raw": "មុខម្ហូបលឹង / បំពង",
+      "price_raw": "១៥០០០៛",
+      "price_value": 15000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "chicken",
+        "vegetable"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    }
+  ],
+  "_source_file": "Screenshot 2026-07-20 at 10.33.07 PM.png",
+  "_model": "google/gemini-2.5-flash"
+}

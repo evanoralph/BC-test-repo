@@ -1,0 +1,299 @@
+{
+  "menu_id": "menu_22",
+  "restaurant_name_raw": null,
+  "restaurant_name_en": null,
+  "currency_notes": "Prices are given in both KHR and USD. KHR prices are indicated by 'រៀល' or 'K' or 'R' or '៛'. USD prices are indicated by '$'. Some prices are handwritten over printed ones.",
+  "items": [
+    {
+      "name_km": "សម្លម្ជូរខ្ទះម្ចាស់សាច់ត្រី (បាយ)",
+      "name_en": "FISH SWEET SOUR PINEAPPLE AND COCONUT (RICE)",
+      "section_raw": "សម្លទឹក / SOUPS SALOR",
+      "price_raw": "រៀល 5.25\nឆ្នាំង $12.50",
+      "price_value": 5250,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "fish",
+        "soup",
+        "rice"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": "Price is for a small portion (រៀល 5.25) and a larger pot (ឆ្នាំង $12.50)."
+    },
+    {
+      "name_km": "សម្លម្ជូរខ្ទះម្ចាស់សាច់ត្រី (បាយ)",
+      "name_en": "FISH SWEET SOUR PINEAPPLE AND COCONUT (RICE)",
+      "section_raw": "សម្លទឹក / SOUPS SALOR",
+      "price_raw": "ឆ្នាំង $12.50",
+      "price_value": 12.5,
+      "currency": "USD",
+      "size_or_unit": "pot",
+      "tags": [
+        "fish",
+        "soup",
+        "rice"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": "Price is for a small portion (រៀល 5.25) and a larger pot (ឆ្នាំង $12.50)."
+    },
+    {
+      "name_km": "ស្ងោរដាំង៉ូវមាន់ (បាយ)",
+      "name_en": "CHICKEN WITH PICKLED LIME SOUP (RICE)",
+      "section_raw": "សម្លទឹក / SOUPS SALOR",
+      "price_raw": "រៀល 5.25\nឆ្នាំង $12.50",
+      "price_value": 5250,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "chicken",
+        "soup",
+        "rice"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": "Price is for a small portion (រៀល 5.25) and a larger pot (ឆ្នាំង $12.50)."
+    },
+    {
+      "name_km": "ស្ងោរដាំង៉ូវមាន់ (បាយ)",
+      "name_en": "CHICKEN WITH PICKLED LIME SOUP (RICE)",
+      "section_raw": "សម្លទឹក / SOUPS SALOR",
+      "price_raw": "ឆ្នាំង $12.50",
+      "price_value": 12.5,
+      "currency": "USD",
+      "size_or_unit": "pot",
+      "tags": [
+        "chicken",
+        "soup",
+        "rice"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": "Price is for a small portion (រៀល 5.25) and a larger pot (ឆ្នាំង $12.50)."
+    },
+    {
+      "name_km": "សង្ឃដេរជង្គា(ស)",
+      "name_en": "Spicy Sour Soup with Prawn (Rice)",
+      "section_raw": "សម្លទឹក / SOUPS SALOR",
+      "price_raw": "រៀល 5.25\nឆ្នាំង $12.50",
+      "price_value": 5250,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "seafood",
+        "soup",
+        "rice"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": "Handwritten price. Price is for a small portion (រៀល 5.25) and a larger pot (ឆ្នាំង $12.50)."
+    },
+    {
+      "name_km": "សង្ឃដេរជង្គា(ស)",
+      "name_en": "Spicy Sour Soup with Prawn (Rice)",
+      "section_raw": "សម្លទឹក / SOUPS SALOR",
+      "price_raw": "ឆ្នាំង $12.50",
+      "price_value": 12.5,
+      "currency": "USD",
+      "size_or_unit": "pot",
+      "tags": [
+        "seafood",
+        "soup",
+        "rice"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": "Handwritten price. Price is for a small portion (រៀល 5.25) and a larger pot (ឆ្នាំង $12.50)."
+    },
+    {
+      "name_km": "ស្ងោរម្ជូរក្រអៅឈូក (បាយ)",
+      "name_en": "LOTUS ROOT SOUR SOUP (RICE)",
+      "section_raw": "សម្លទឹក / SOUPS SALOR",
+      "price_raw": "រៀល 5.25\nឆ្នាំង $12.50",
+      "price_value": 5250,
+      "currency": "KHR",
+      "size_or_or_unit": null,
+      "tags": [
+        "vegetable",
+        "soup",
+        "rice"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": "Price is for a small portion (រៀល 5.25) and a larger pot (ឆ្នាំង $12.50)."
+    },
+    {
+      "name_km": "ស្ងោរម្ជូរក្រអៅឈូក (បាយ)",
+      "name_en": "LOTUS ROOT SOUR SOUP (RICE)",
+      "section_raw": "សម្លទឹក / SOUPS SALOR",
+      "price_raw": "ឆ្នាំង $12.50",
+      "price_value": 12.5,
+      "currency": "USD",
+      "size_or_unit": "pot",
+      "tags": [
+        "vegetable",
+        "soup",
+        "rice"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": "Price is for a small portion (រៀល 5.25) and a larger pot (ឆ្នាំង $12.50)."
+    },
+    {
+      "name_km": "សម្លកកូរ (បាយ)",
+      "name_en": "KAKO-CHICKEN OR FISH, LEMONGRASS, TUMERIC (RICE)",
+      "section_raw": "សម្លទឹក / SOUPS SALOR",
+      "price_raw": "រៀល 5.25\nឆ្នាំង $12.50",
+      "price_value": 5250,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "chicken",
+        "fish",
+        "soup",
+        "rice"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": "Price is for a small portion (រៀល 5.25) and a larger pot (ឆ្នាំង $12.50)."
+    },
+    {
+      "name_km": "សម្លកកូរ (បាយ)",
+      "name_en": "KAKO-CHICKEN OR FISH, LEMONGRASS, TUMERIC (RICE)",
+      "section_raw": "សម្លទឹក / SOUPS SALOR",
+      "price_raw": "ឆ្នាំង $12.50",
+      "price_value": 12.5,
+      "currency": "USD",
+      "size_or_unit": "pot",
+      "tags": [
+        "chicken",
+        "fish",
+        "soup",
+        "rice"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": "Price is for a small portion (រៀល 5.25) and a larger pot (ឆ្នាំង $12.50)."
+    },
+    {
+      "name_km": "សម្លទំពាំង (បាយ)",
+      "name_en": "BAMBOO SHOOT SAMLOR (RICE)",
+      "section_raw": "សម្លទឹក / SOUPS SALOR",
+      "price_raw": "រៀល 5.25\nឆ្នាំង $12.50",
+      "price_value": 5250,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "vegetable",
+        "soup",
+        "rice"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": "Price is for a small portion (រៀល 5.25) and a larger pot (ឆ្នាំង $12.50)."
+    },
+    {
+      "name_km": "សម្លទំពាំង (បាយ)",
+      "name_en": "BAMBOO SHOOT SAMLOR (RICE)",
+      "section_raw": "សម្លទឹក / SOUPS SALOR",
+      "price_raw": "ឆ្នាំង $12.50",
+      "price_value": 12.5,
+      "currency": "USD",
+      "size_or_unit": "pot",
+      "tags": [
+        "vegetable",
+        "soup",
+        "rice"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": "Price is for a small portion (រៀល 5.25) and a larger pot (ឆ្នាំង $12.50)."
+    },
+    {
+      "name_km": "សម្លម្ជូរអ្នកជិតខាង (បាយ)",
+      "name_en": "NEIGHBOR SOUR SOUP (RICE)",
+      "section_raw": "សម្លទឹក / SOUPS SALOR",
+      "price_raw": "រៀល 5.25\nឆ្នាំង $12.50",
+      "price_value": 5250,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "soup",
+        "rice"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": "Price is for a small portion (រៀល 5.25) and a larger pot (ឆ្នាំង $12.50)."
+    },
+    {
+      "name_km": "សម្លម្ជូរអ្នកជិតខាង (បាយ)",
+      "name_en": "NEIGHBOR SOUR SOUP (RICE)",
+      "section_raw": "សម្លទឹក / SOUPS SALOR",
+      "price_raw": "ឆ្នាំង $12.50",
+      "price_value": 12.5,
+      "currency": "USD",
+      "size_or_unit": "pot",
+      "tags": [
+        "soup",
+        "rice"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": "Price is for a small portion (រៀល 5.25) and a larger pot (ឆ្នាំង $12.50)."
+    },
+    {
+      "name_km": "សម្លលោកឪពុក (បាយ)",
+      "name_en": "MY FATHER'S FAVORITE CARAMEL PORK (RICE)",
+      "section_raw": "សម្លទឹក / SOUPS SALOR",
+      "price_raw": "រៀល 6.00",
+      "price_value": 6000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "pork",
+        "other",
+        "rice"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "សម្លម្ជូរគ្រឿងសាច់គោ (បាយ)",
+      "name_en": "BEEF LEMONGRASS SOUR SOUP (RICE)",
+      "section_raw": "សម្លទឹក / SOUPS SALOR",
+      "price_raw": "រៀល 5.25\nឆ្នាំង $12.50",
+      "price_value": 5250,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "beef",
+        "soup",
+        "rice"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": "Price is for a small portion (រៀល 5.25) and a larger pot (ឆ្នាំង $12.50)."
+    },
+    {
+      "name_km": "សម្លម្ជូរគ្រឿងសាច់គោ (បាយ)",
+      "name_en": "BEEF LEMONGRASS SOUR SOUP (RICE)",
+      "section_raw": "សម្លទឹក / SOUPS SALOR",
+      "price_raw": "ឆ្នាំង $12.50",
+      "price_value": 12.5,
+      "currency": "USD",
+      "size_or_unit": "pot",
+      "tags": [
+        "beef",
+        "soup",
+        "rice"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": "Price is for a small portion (រៀល 5.25) and a larger pot (ឆ្នាំង $12.50)."
+    }
+  ],
+  "_source_file": "Screenshot 2026-07-20 at 10.43.25 PM.png",
+  "_model": "google/gemini-2.5-flash"
+}

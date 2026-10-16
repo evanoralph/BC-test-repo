@@ -1,0 +1,32 @@
+[extract] found 3 images in data-sets-sample
+[extract] queue=6 models=['openai/gpt-4o-mini', 'google/gemini-2.0-flash-001'] workers=2
+[extract] resized Screenshot 2026-07-21 at 11.15.35 AM.png -> 551KB jpeg
+[extract] ok sample_01 model=openai/gpt-4o-mini status=200 10.5s
+[extract] wrote /Users/ralphevano/Documents/test/boost-capital/raw/openai__gpt-4o-mini/sample_01.json items=6
+[extract] ok sample_03 model=openai/gpt-4o-mini status=200 32.4s
+[extract] wrote /Users/ralphevano/Documents/test/boost-capital/raw/openai__gpt-4o-mini/sample_03.json items=13
+[extract] resized Screenshot 2026-07-21 at 11.15.35 AM.png -> 551KB jpeg
+[extract] HTTP 404 for sample_01/google/gemini-2.0-flash-001: {"error":{"message":"No endpoints found for google/gemini-2.0-flash-001.","code":404},"user_id":"user_2tewvTDftrTdndrJ1URaQ1Q4Mad"}
+[extract] ERROR sample_01/google/gemini-2.0-flash-001: HTTP Error 404: Not Found
+[extract] ok sample_02 model=openai/gpt-4o-mini status=200 43.2s
+[extract] wrote /Users/ralphevano/Documents/test/boost-capital/raw/openai__gpt-4o-mini/sample_02.json items=9
+[extract] HTTP 404 for sample_02/google/gemini-2.0-flash-001: {"error":{"message":"No endpoints found for google/gemini-2.0-flash-001.","code":404},"user_id":"user_2tewvTDftrTdndrJ1URaQ1Q4Mad"}
+[extract] ERROR sample_02/google/gemini-2.0-flash-001: HTTP Error 404: Not Found
+[extract] HTTP 404 for sample_03/google/gemini-2.0-flash-001: {"error":{"message":"No endpoints found for google/gemini-2.0-flash-001.","code":404},"user_id":"user_2tewvTDftrTdndrJ1URaQ1Q4Mad"}
+[extract] ERROR sample_03/google/gemini-2.0-flash-001: HTTP Error 404: Not Found
+[extract] finished with 3 errors
+FAIL	sample_01	google/gemini-2.0-flash-001	HTTP Error 404: Not Found
+FAIL	sample_02	google/gemini-2.0-flash-001	HTTP Error 404: Not Found
+FAIL	sample_03	google/gemini-2.0-flash-001	HTTP Error 404: Not Found
+[extract] found 3 images in data-sets-sample
+[extract] queue=3 models=['google/gemini-2.5-flash'] workers=2
+[extract] resized Screenshot 2026-07-21 at 11.15.35 AM.png -> 551KB jpeg
+[extract] ok sample_01 model=google/gemini-2.5-flash status=200 7.2s
+[extract] wrote /Users/ralphevano/Documents/test/boost-capital/raw/google__gemini-2.5-flash/sample_01.json items=9
+[extract] ok sample_02 model=google/gemini-2.5-flash status=200 18.3s
+[extract] parse failed for sample_02: Expecting value: line 1 column 1 (char 0); raw saved to /Users/ralphevano/Documents/test/boost-capital/raw/google__gemini-2.5-flash/sample_02.raw_response.json
+[extract] ERROR sample_02/google/gemini-2.5-flash: Expecting value: line 1 column 1 (char 0)
+[extract] ok sample_03 model=google/gemini-2.5-flash status=200 13.2s
+[extract] wrote /Users/ralphevano/Documents/test/boost-capital/raw/google__gemini-2.5-flash/sample_03.json items=20
+[extract] finished with 1 errors
+FAIL	sample_02	google/gemini-2.5-flash	Expecting value: line 1 column 1 (char 0)

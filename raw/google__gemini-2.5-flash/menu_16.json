@@ -1,0 +1,191 @@
+{
+  "menu_id": "menu_16",
+  "restaurant_name_raw": "មុខម្ហូបបងក",
+  "restaurant_name_en": null,
+  "currency_notes": "All prices are in KHR, indicated by ៛.",
+  "items": [
+    {
+      "name_km": "ខ្យងអាំងអំបិលម្ទេស",
+      "name_en": "Grilled snails with salt and chili",
+      "section_raw": null,
+      "price_raw": "10000៛",
+      "price_value": 10000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "seafood"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "ខាត់ណាទឹកភ្នែក",
+      "name_en": "Kale with tears (likely a spicy dish)",
+      "section_raw": null,
+      "price_raw": "15000៛",
+      "price_value": 15000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "vegetable"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": ""
+    },
+    {
+      "name_km": "ក្តាមប្រៃ",
+      "name_en": "Salted crab",
+      "section_raw": null,
+      "price_raw": "12000៛",
+      "price_value": 12000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "seafood"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "បាយក្តាំងពិសេស",
+      "name_en": "Special crispy rice",
+      "section_raw": null,
+      "price_raw": "16000៛",
+      "price_value": 16000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "rice"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "ត្រីអប់អំបិលម្ទេស",
+      "name_en": "Baked fish with salt and chili",
+      "section_raw": null,
+      "price_raw": "20000៛",
+      "price_value": 20000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "fish"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "ជើងមាន់បំពងខ្ទឹមស",
+      "name_en": "Fried chicken feet with garlic",
+      "section_raw": null,
+      "price_raw": "10000៛",
+      "price_value": 10000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "chicken"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "ងាវឆាម្រេច",
+      "name_en": "Stir-fried clams with pepper",
+      "section_raw": null,
+      "price_raw": "12000៛",
+      "price_value": 12000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "seafood"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "ងាវឆាអំបិលទុំ",
+      "name_en": "Stir-fried clams with ripe salt (likely a specific seasoning)",
+      "section_raw": null,
+      "price_raw": "12000៛",
+      "price_value": 12000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "seafood"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": ""
+    },
+    {
+      "name_km": "ងាវស្រះ",
+      "name_en": "Pond clams",
+      "section_raw": null,
+      "price_raw": "12000៛",
+      "price_value": 12000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "seafood"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "ភ្លាបង្គា",
+      "name_en": "Shrimp salad",
+      "section_raw": null,
+      "price_raw": "15000៛",
+      "price_value": 15000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "seafood",
+        "salad"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "ឆ្អឹងជំនីអំបិលម្ទេស",
+      "name_en": "Ribs with salt and chili",
+      "section_raw": null,
+      "price_raw": "12000៛",
+      "price_value": 12000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "pork"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "សាច់គោអាំងអំបិលម្ទេស",
+      "name_en": "Grilled beef with salt and chili",
+      "section_raw": null,
+      "price_raw": "15000៛",
+      "price_value": 15000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "beef"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    }
+  ],
+  "_source_file": "Screenshot 2026-07-20 at 10.33.16 PM.png",
+  "_model": "google/gemini-2.5-flash"
+}

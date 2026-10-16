@@ -1,0 +1,148 @@
+{
+  "menu_id": "menu_29",
+  "restaurant_name_raw": null,
+  "restaurant_name_en": null,
+  "currency_notes": "All prices are in KHR. The 'K' in 10.000K is interpreted as 10,000.",
+  "items": [
+    {
+      "name_km": "សាច់គោឥន្ទធនូ",
+      "name_en": "Rainbow Beef",
+      "section_raw": "BEST SELLER",
+      "price_raw": "16,000៛",
+      "price_value": 16000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "beef"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": ""
+    },
+    {
+      "name_km": "ត្រាវពិសេស",
+      "name_en": "Special Taro",
+      "section_raw": "BEST SELLER",
+      "price_raw": "10,000៛",
+      "price_value": 10000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "vegetable"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": ""
+    },
+    {
+      "name_km": "ភ្លាមឹកកនំចេក",
+      "name_en": "Squid Salad with Banana Blossom",
+      "section_raw": "BEST SELLER",
+      "price_raw": "12,000៛",
+      "price_value": 12000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "seafood",
+        "salad"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": ""
+    },
+    {
+      "name_km": "ងៀតក្របី",
+      "name_en": "Dried Buffalo",
+      "section_raw": "BEST SELLER",
+      "price_raw": "15,000៛",
+      "price_value": 15000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": ""
+    },
+    {
+      "name_km": "បុកសណ្ដែកត្រីឆ្អើរ",
+      "name_en": "Long Bean Salad with Smoked Fish",
+      "section_raw": "BEST SELLER",
+      "price_raw": "10,000៛",
+      "price_value": 10000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "vegetable",
+        "fish",
+        "salad"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": ""
+    },
+    {
+      "name_km": "មឹកឆ្នើម",
+      "name_en": "Grilled Squid",
+      "section_raw": "BEST SELLER",
+      "price_raw": "15,000៛",
+      "price_value": 15000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "seafood"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": ""
+    },
+    {
+      "name_km": "ជើងមាន់ខ្ទឹមសរ",
+      "name_en": "Garlic Chicken Feet",
+      "section_raw": "BEST SELLER",
+      "price_raw": "10,000៛",
+      "price_value": 10000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "chicken"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": ""
+    },
+    {
+      "name_km": "ជំពុះទាបំពងល្ងរ",
+      "name_en": "Fried Duck Beaks with Sesame",
+      "section_raw": "BEST SELLER",
+      "price_raw": "15,000៛",
+      "price_value": 15000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "duck"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": ""
+    },
+    {
+      "name_km": "ប្រហិតសំបុកចាប",
+      "name_en": "Bird's Nest Meatballs",
+      "section_raw": "BEST SELLER",
+      "price_raw": "15,000៛",
+      "price_value": 15000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": ""
+    }
+  ],
+  "_source_file": "Screenshot 2026-07-21 at 11.15.35 AM.png",
+  "_model": "google/gemini-2.5-flash"
+}

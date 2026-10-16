@@ -1,0 +1,6 @@
+[normalize] using winner from /Users/ralphevano/Documents/test/boost-capital/bench/results/winner.txt: google__gemini-2.5-flash
+[normalize] loaded sample_01.json items=9
+[normalize] loaded sample_02.json items=28
+[normalize] loaded sample_03.json items=20
+[normalize] wrote /Users/ralphevano/Documents/test/boost-capital/data/menus.json restaurants=2 items=57
+[normalize] wrote /Users/ralphevano/Documents/test/boost-capital/data/flags.csv flags=8

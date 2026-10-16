@@ -1,0 +1,280 @@
+{
+  "menu_id": "menu_03",
+  "restaurant_name_raw": "The Street",
+  "restaurant_name_en": null,
+  "currency_notes": "All prices are in KHR. The currency symbol ៛ is used consistently. 'K' or 'ពាន់' is not used.",
+  "items": [
+    {
+      "name_km": "ប្រហិតបំពងឆ្នាំងភ្លើង",
+      "name_en": "Fried meatballs in hot pot",
+      "section_raw": null,
+      "price_raw": "2000៛",
+      "price_value": 2000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": "Price is per skewer (1ចង្កាក់)."
+    },
+    {
+      "name_km": "ប្រហិតអប់(អំបិលម្ទេស)",
+      "name_en": "Baked meatballs (salt and chili)",
+      "section_raw": null,
+      "price_raw": "2000៛",
+      "price_value": 2000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": "Price is per skewer (1ចង្កាក់)."
+    },
+    {
+      "name_km": "ប្រហិតត្រីបំពងស្លឹកក្រូចសើច",
+      "name_en": "Fried fish balls with kaffir lime leaves",
+      "section_raw": null,
+      "price_raw": "6000៛",
+      "price_value": 6000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "fish"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": "Price is per plate (1ចាន)."
+    },
+    {
+      "name_km": "ប្រហិតត្រីរុំគល់ស្លឹកគ្រៃ",
+      "name_en": "Fish balls wrapped in lemongrass",
+      "section_raw": null,
+      "price_raw": "6000៛",
+      "price_value": 6000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "fish"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": "Price is per plate (1ចាន)."
+    },
+    {
+      "name_km": "ផ្សិតខ្មៅបំពង The Street",
+      "name_en": "Fried black mushrooms The Street",
+      "section_raw": null,
+      "price_raw": "6000៛",
+      "price_value": 6000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "vegetable"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": "Price is per plate (1ចាន)."
+    },
+    {
+      "name_km": "ជើងមាន់បំពងខ្ទឹមស",
+      "name_en": "Fried chicken feet with garlic",
+      "section_raw": null,
+      "price_raw": "6000៛",
+      "price_value": 6000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "chicken"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": "Price is per plate (1ចាន)."
+    },
+    {
+      "name_km": "ចុងស្លាបមាន់បំពងខ្ទឹមស",
+      "name_en": "Fried chicken wing tips with garlic",
+      "section_raw": null,
+      "price_raw": "6000៛",
+      "price_value": 6000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "chicken"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": "Price is per plate (1ចាន)."
+    },
+    {
+      "name_km": "ឆ្អឹងជំនីជ្រូកបំពងខ្ទឹមស",
+      "name_en": "Fried pork ribs with garlic",
+      "section_raw": null,
+      "price_raw": "8000៛",
+      "price_value": 8000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "pork"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": "Price is per plate (1ចាន)."
+    },
+    {
+      "name_km": "អណ្តាតទាបំពងខ្ទឹមស",
+      "name_en": "Fried duck tongue with garlic",
+      "section_raw": null,
+      "price_raw": "12000៛",
+      "price_value": 12000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "duck"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": "Price is per plate (1ចាន)."
+    },
+    {
+      "name_km": "ព្រុយត្រីសាម៉ុងបំពង",
+      "name_en": "Fried salmon fins",
+      "section_raw": null,
+      "price_raw": "6000៛",
+      "price_value": 6000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "fish"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": "Price is per plate (1ចាន)."
+    },
+    {
+      "name_km": "កោះមាន់ក្រឡុកផ្អែមប្រៃ",
+      "name_en": "Sweet and savory chicken gizzards",
+      "section_raw": null,
+      "price_raw": "7000៛",
+      "price_value": 7000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "chicken"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": "Price is per plate (1ចាន)."
+    },
+    {
+      "name_km": "កង្កែបបំពង",
+      "name_en": "Fried frog",
+      "section_raw": null,
+      "price_raw": "3500៛",
+      "price_value": 3500,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": "Price is per frog (1ក្បាល)."
+    },
+    {
+      "name_km": "ពោតបារាំងអាំង",
+      "name_en": "Grilled baby corn",
+      "section_raw": null,
+      "price_raw": "4500៛",
+      "price_value": 4500,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "vegetable"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": "Price is per plate (1ចាន)."
+    },
+    {
+      "name_km": "ផ្សិតភ្លៅមាន់អាំង",
+      "name_en": "Grilled king oyster mushrooms",
+      "section_raw": null,
+      "price_raw": "4500៛",
+      "price_value": 4500,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "vegetable"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": "Price is per plate (1ចាន)."
+    },
+    {
+      "name_km": "ជើងមាន់អាំង",
+      "name_en": "Grilled chicken feet",
+      "section_raw": null,
+      "price_raw": "4500៛",
+      "price_value": 4500,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "chicken"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": "Price is per plate (1ចាន)."
+    },
+    {
+      "name_km": "សាច់ជ្រូកអាំង The Street",
+      "name_en": "Grilled pork The Street",
+      "section_raw": null,
+      "price_raw": "2500៛",
+      "price_value": 2500,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "pork"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": "Price is per skewer (1ចង្កាក់)."
+    },
+    {
+      "name_km": "ប្រហិតអាំង The Street",
+      "name_en": "Grilled meatballs The Street",
+      "section_raw": null,
+      "price_raw": "2000",
+      "price_value": 2000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.7,
+      "notes": "Price is per skewer (1ចង្កាក់). Currency symbol is missing but inferred from other items."
+    },
+    {
+      "name_km": "កង្កែបអាំង",
+      "name_en": "Grilled frog",
+      "section_raw": null,
+      "price_raw": "3500៛",
+      "price_value": 3500,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": "Price is per frog (1ក្បាល)."
+    }
+  ],
+  "_source_file": "Screenshot 2026-07-20 at 10.24.43 PM.png",
+  "_model": "google/gemini-2.5-flash"
+}

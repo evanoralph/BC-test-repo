@@ -1,0 +1,184 @@
+{
+  "menu_id": "menu_18",
+  "restaurant_name_raw": null,
+  "restaurant_name_en": null,
+  "currency_notes": "Prices are listed with a '$' symbol, but given the context of Cambodia, these are interpreted as KHR. The price for item 39 is partially obscured, but inferred from the pattern.",
+  "items": [
+    {
+      "name_km": "29.ឆាផ្សិតភ្លៅមាន់ប្រេងខ្យង",
+      "name_en": "Stir-fried chicken thigh mushroom with oyster sauce",
+      "section_raw": "មុខម្ហូបឆា",
+      "price_raw": "10000$",
+      "price_value": 10000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "chicken",
+        "vegetable"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9
+    },
+    {
+      "name_km": "30.ឆាកាឆែតប្រេងខ្យង",
+      "name_en": "Stir-fried water spinach with oyster sauce",
+      "section_raw": "មុខម្ហូបឆា",
+      "price_raw": "10000$",
+      "price_value": 10000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "vegetable"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9
+    },
+    {
+      "name_km": "31.ឆាកាឆែតសាច់គោ",
+      "name_en": "Stir-fried water spinach with beef",
+      "section_raw": "មុខម្ហូបឆា",
+      "price_raw": "15000$",
+      "price_value": 15000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "beef",
+        "vegetable"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9
+    },
+    {
+      "name_km": "32.ឆាក្រសាំងទៀបសាច់គោ",
+      "name_en": "Stir-fried krusang tiep with beef",
+      "section_raw": "មុខម្ហូបឆា",
+      "price_raw": "15000$",
+      "price_value": 15000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "beef",
+        "vegetable"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9
+    },
+    {
+      "name_km": "33.ឆាត្រកួនប្រេងខ្យង",
+      "name_en": "Stir-fried morning glory with oyster sauce",
+      "section_raw": "មុខម្ហូបឆា",
+      "price_raw": "10000$",
+      "price_value": 10000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "vegetable"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9
+    },
+    {
+      "name_km": "34.ឆាត្រកួនសាច់គោ",
+      "name_en": "Stir-fried morning glory with beef",
+      "section_raw": "មុខម្ហូបឆា",
+      "price_raw": "15000$",
+      "price_value": 15000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "beef",
+        "vegetable"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9
+    },
+    {
+      "name_km": "35.ឆាខាត់ណាប្រេងខ្យង",
+      "name_en": "Stir-fried kale with oyster sauce",
+      "section_raw": "មុខម្ហូបឆា",
+      "price_raw": "10000$",
+      "price_value": 10000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "vegetable"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9
+    },
+    {
+      "name_km": "36.ឆាខាត់ណាសាច់គោ",
+      "name_en": "Stir-fried kale with beef",
+      "section_raw": "មុខម្ហូបឆា",
+      "price_raw": "15000$",
+      "price_value": 15000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "beef",
+        "vegetable"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9
+    },
+    {
+      "name_km": "37.ឆាផ្សិតម្ជុលប្រេងខ្យង",
+      "name_en": "Stir-fried enoki mushrooms with oyster sauce",
+      "section_raw": "មុខម្ហូបឆា",
+      "price_raw": "10000$",
+      "price_value": 10000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "vegetable"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9
+    },
+    {
+      "name_km": "38.ឆាពោតបារាំងប្រេងខ្យង",
+      "name_en": "Stir-fried baby corn with oyster sauce",
+      "section_raw": "មុខម្ហូបឆា",
+      "price_raw": "10000$",
+      "price_value": 10000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "vegetable"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9
+    },
+    {
+      "name_km": "39.ឆាស្ពៃតឿប្រេងខ្យង",
+      "name_en": "Stir-fried bok choy with oyster sauce",
+      "section_raw": "មុខម្ហូបឆា",
+      "price_raw": "10000$",
+      "price_value": 10000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "vegetable"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": "Price inferred from pattern, partially obscured in image."
+    },
+    {
+      "name_km": "40.ឆាស្ពៃបូកគោប្រេងខ្យង",
+      "name_en": "Stir-fried cabbage with oyster sauce",
+      "section_raw": "មុខម្ហូបឆា",
+      "price_raw": "10000",
+      "price_value": 10000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "vegetable"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9
+    }
+  ],
+  "_source_file": "Screenshot 2026-07-20 at 10.33.49 PM.png",
+  "_model": "google/gemini-2.5-flash"
+}

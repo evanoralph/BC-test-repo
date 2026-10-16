@@ -1,0 +1,310 @@
+{
+  "menu_id": "menu_31",
+  "restaurant_name_raw": "អាសយដ្ឋាន រាត្រីបាត់ដំបង Reatry Battambong Restaurant",
+  "restaurant_name_en": "Reatry Battambong Restaurant",
+  "currency_notes": "Prices are in USD. The two columns seem to indicate different sizes or portions, 'ចានតូច' (small plate) and 'ចានធំ' (large plate).",
+  "items": [
+    {
+      "name_km": "ព្រុយត្រីសាម៉ុង អាំងអំបិលម្ទេស",
+      "name_en": "Grilled salmon dorsal fin with salt",
+      "section_raw": "8. ប្រភេទ អាំង",
+      "price_raw": "4.00$",
+      "price_value": 4.0,
+      "currency": "USD",
+      "size_or_unit": "small",
+      "tags": [
+        "fish"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "ព្រុយត្រីសាម៉ុង អាំងអំបិលម្ទេស",
+      "name_en": "Grilled salmon dorsal fin with salt",
+      "section_raw": "8. ប្រភេទ អាំង",
+      "price_raw": "6.50$",
+      "price_value": 6.5,
+      "currency": "USD",
+      "size_or_unit": "large",
+      "tags": [
+        "fish"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "កន្ទាទូកអាំង, អំបិលម្ទេស, រ៉តឌី",
+      "name_en": "Kan Teatauk grilled with salt",
+      "section_raw": "8. ប្រភេទ អាំង",
+      "price_raw": "5.00$",
+      "price_value": 5.0,
+      "currency": "USD",
+      "size_or_unit": "small",
+      "tags": [
+        "seafood"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": ""
+    },
+    {
+      "name_km": "កន្ទាទូកអាំង, អំបិលម្ទេស, រ៉តឌី",
+      "name_en": "Kan Teatauk grilled with salt",
+      "section_raw": "8. ប្រភេទ អាំង",
+      "price_raw": "10.0$",
+      "price_value": 10.0,
+      "currency": "USD",
+      "size_or_unit": "large",
+      "tags": [
+        "seafood"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": ""
+    },
+    {
+      "name_km": "ងាវឆាំង អំបិលម្ទេស",
+      "name_en": "Grilled Bivalve with chili salt",
+      "section_raw": "8. ប្រភេទ អាំង",
+      "price_raw": "4.00$",
+      "price_value": 4.0,
+      "currency": "USD",
+      "size_or_unit": "small",
+      "tags": [
+        "seafood"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "ងាវឆាំង អំបិលម្ទេស",
+      "name_en": "Grilled Bivalve with chili salt",
+      "section_raw": "8. ប្រភេទ អាំង",
+      "price_raw": "7.00$",
+      "price_value": 7.0,
+      "currency": "USD",
+      "size_or_unit": "large",
+      "tags": [
+        "seafood"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "មឹក បង្គា, អាំង, អំបិលម្ទេស",
+      "name_en": "Grilled squid with salt Chili",
+      "section_raw": "8. ប្រភេទ អាំង",
+      "price_raw": "4.00$",
+      "price_value": 4.0,
+      "currency": "USD",
+      "size_or_unit": "small",
+      "tags": [
+        "seafood"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "មឹក បង្គា, អាំង, អំបិលម្ទេស",
+      "name_en": "Grilled squid with salt Chili",
+      "section_raw": "8. ប្រភេទ អាំង",
+      "price_raw": "7.00$",
+      "price_value": 7.0,
+      "currency": "USD",
+      "size_or_unit": "large",
+      "tags": [
+        "seafood"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "សាច់គោ អាំង",
+      "name_en": "Beef Grilled",
+      "section_raw": "8. ប្រភេទ អាំង",
+      "price_raw": "4.00$",
+      "price_value": 4.0,
+      "currency": "USD",
+      "size_or_unit": "small",
+      "tags": [
+        "beef"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "សាច់គោ អាំង",
+      "name_en": "Beef Grilled",
+      "section_raw": "8. ប្រភេទ អាំង",
+      "price_raw": "6.00$",
+      "price_value": 6.0,
+      "currency": "USD",
+      "size_or_unit": "large",
+      "tags": [
+        "beef"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "ឆ្អឹងជំនីជ្រូកអាំងអំបិលម្ទេស",
+      "name_en": "Pork rips grilled with salt chili",
+      "section_raw": "8. ប្រភេទ អាំង",
+      "price_raw": "6.00$",
+      "price_value": 6.0,
+      "currency": "USD",
+      "size_or_unit": null,
+      "tags": [
+        "pork"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": "Only one price listed, likely for a standard portion."
+    },
+    {
+      "name_km": "យីហីអាំង",
+      "name_en": "Grilled squid with salt chili",
+      "section_raw": "8. ប្រភេទ អាំង",
+      "price_raw": "5.00$",
+      "price_value": 5.0,
+      "currency": "USD",
+      "size_or_unit": "small",
+      "tags": [
+        "seafood"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "យីហីអាំង",
+      "name_en": "Grilled squid with salt chili",
+      "section_raw": "8. ប្រភេទ អាំង",
+      "price_raw": "7.50$",
+      "price_value": 7.5,
+      "currency": "USD",
+      "size_or_unit": "large",
+      "tags": [
+        "seafood"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "កង្កែបអាំង អំបិលម្ទេស",
+      "name_en": "Grilled frog with salt chili",
+      "section_raw": "8. ប្រភេទ អាំង",
+      "price_raw": "6.00$",
+      "price_value": 6.0,
+      "currency": "USD",
+      "size_or_unit": null,
+      "tags": [
+        "other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": "Only one price listed, likely for a standard portion."
+    },
+    {
+      "name_km": "ផ្សិតចំបើងអាំងអំបិលម្ទេស",
+      "name_en": "Grilled Mushroom with salt chili",
+      "section_raw": "8. ប្រភេទ អាំង",
+      "price_raw": "4.00$",
+      "price_value": 4.0,
+      "currency": "USD",
+      "size_or_unit": "small",
+      "tags": [
+        "vegetable"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "ផ្សិតចំបើងអាំងអំបិលម្ទេស",
+      "name_en": "Grilled Mushroom with salt chili",
+      "section_raw": "8. ប្រភេទ អាំង",
+      "price_raw": "6.00$",
+      "price_value": 6.0,
+      "currency": "USD",
+      "size_or_unit": "large",
+      "tags": [
+        "vegetable"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "អណ្តាតគោអាំង",
+      "name_en": "Tonge Grilled",
+      "section_raw": "8. ប្រភេទ អាំង",
+      "price_raw": "4-6$",
+      "price_value": null,
+      "currency": "USD",
+      "size_or_unit": null,
+      "tags": [
+        "beef"
+      ],
+      "multi_unit": false,
+      "confidence": 0.5,
+      "notes": "Price is a range, cannot determine a single value."
+    },
+    {
+      "name_km": "លិង្គគោអាំង",
+      "name_en": "Bull Penis Grilled",
+      "section_raw": "8. ប្រភេទ អាំង",
+      "price_raw": "7.00$",
+      "price_value": 7.0,
+      "currency": "USD",
+      "size_or_unit": null,
+      "tags": [
+        "beef"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": "Only one price listed, likely for a standard portion."
+    },
+    {
+      "name_km": "មាន់អាំងអំបិលម្ទេស",
+      "name_en": "Grilled chicken with Chili salt",
+      "section_raw": "8. ប្រភេទ អាំង",
+      "price_raw": "10.00$",
+      "price_value": 10.0,
+      "currency": "USD",
+      "size_or_unit": null,
+      "tags": [
+        "chicken"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": "Only one price listed, likely for a standard portion."
+    },
+    {
+      "name_km": "ក្រហមដុតអំបិល",
+      "name_en": "Grilled red fish chili salt",
+      "section_raw": "8. ប្រភេទ អាំង",
+      "price_raw": "7.50$",
+      "price_value": 7.5,
+      "currency": "USD",
+      "size_or_unit": null,
+      "tags": [
+        "fish"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": "Only one price listed, likely for a standard portion."
+    }
+  ],
+  "_source_file": "Screenshot 2026-07-21 at 11.16.46 AM.png",
+  "_model": "google/gemini-2.5-flash"
+}

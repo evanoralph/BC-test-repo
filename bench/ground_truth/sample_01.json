@@ -1,0 +1,80 @@
+{
+  "menu_id": "sample_01",
+  "restaurant_name_raw": "ម្ហូបប្រចាំហាង",
+  "restaurant_name_en": "House Specials",
+  "notes": "KHR photo grid; BEST SELLER page. Prices from image labels.",
+  "items": [
+    {
+      "name_km": "សាច់គោភីកូនទូ",
+      "name_en": "Beef dish",
+      "price_raw": "16,000៛",
+      "price_value": 16000,
+      "currency": "KHR",
+      "tags": ["beef"]
+    },
+    {
+      "name_km": "ជើងមាន់ខ្ទឹមស",
+      "name_en": "Garlic chicken feet",
+      "price_raw": "10,000៛",
+      "price_value": 10000,
+      "currency": "KHR",
+      "tags": ["chicken"]
+    },
+    {
+      "name_km": "ងៀតក្របី",
+      "name_en": "Dried buffalo meat",
+      "price_raw": "15,000៛",
+      "price_value": 15000,
+      "currency": "KHR",
+      "tags": ["beef", "other"]
+    },
+    {
+      "name_km": "ត្រីកោន",
+      "name_en": "Fish dish",
+      "price_raw": "10,000៛",
+      "price_value": 10000,
+      "currency": "KHR",
+      "tags": ["fish"]
+    },
+    {
+      "name_km": "ចំពុះទាបំផុស",
+      "name_en": "Duck bills",
+      "price_raw": "15,000៛",
+      "price_value": 15000,
+      "currency": "KHR",
+      "tags": ["duck"]
+    },
+    {
+      "name_km": "ក្ដាមកកន្តិច",
+      "name_en": "Crab dish",
+      "price_raw": "12,000៛",
+      "price_value": 12000,
+      "currency": "KHR",
+      "tags": ["seafood"]
+    },
+    {
+      "name_km": "បុកសណ្តែកបារាំង",
+      "name_en": "French bean salad",
+      "price_raw": "10,000៛",
+      "price_value": 10000,
+      "currency": "KHR",
+      "tags": ["vegetable", "salad"]
+    },
+    {
+      "name_km": "មឹកឆីម",
+      "name_en": "Squid dish",
+      "price_raw": "15,000៛",
+      "price_value": 15000,
+      "currency": "KHR",
+      "tags": ["seafood"]
+    },
+    {
+      "name_km": "ប្រហិតសំបុកចាប",
+      "name_en": "Bird nest meatballs",
+      "price_raw": "15,000៛",
+      "price_value": 15000,
+      "currency": "KHR",
+      "tags": ["other"]
+    }
+  ]
+}

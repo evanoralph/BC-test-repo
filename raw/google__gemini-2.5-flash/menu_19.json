@@ -1,0 +1,256 @@
+{
+  "menu_id": "menu_19",
+  "restaurant_name_raw": "រចនា បុកល្ហុង",
+  "restaurant_name_en": "Rachana Papaya Salad",
+  "currency_notes": "Some prices are handwritten over printed ones. The last item's price is partially cut off.",
+  "items": [
+    {
+      "name_km": "បុកនំបញ្ចុក",
+      "name_en": "Hit the noodles",
+      "section_raw": "បុកល្ហុង",
+      "price_raw": "(7000R)",
+      "price_value": 7000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "noodle",
+        "salad"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "បុកស្វាយ",
+      "name_en": "Bok Svay",
+      "section_raw": "បុកល្ហុង",
+      "price_raw": "(7000R)",
+      "price_value": 7000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "salad",
+        "vegetable"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "បុកកំពីងរាជ",
+      "name_en": "Hit Kamping Reach",
+      "section_raw": "បុកល្ហុង",
+      "price_raw": "10000",
+      "price_value": 10000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "seafood",
+        "salad"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": "Price is handwritten."
+    },
+    {
+      "name_km": "បុកកន្ទួត",
+      "name_en": "Hit the bundle",
+      "section_raw": "បុកល្ហុង",
+      "price_raw": "(8000R)",
+      "price_value": 8000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "salad",
+        "vegetable"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "បុកល្ហុងខ្យង",
+      "name_en": "Hit the snail papaya",
+      "section_raw": "បុកល្ហុង",
+      "price_raw": "(8000R)",
+      "price_value": 8000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "seafood",
+        "salad",
+        "vegetable"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "បុកល្ហុងជើងមាន់",
+      "name_en": "Hit the chicken leg papaya",
+      "section_raw": "បុកល្ហុង",
+      "price_raw": "(8000R)",
+      "price_value": 8000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "chicken",
+        "salad",
+        "vegetable"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "បុកល្ហុងបំពង",
+      "name_en": "Hit the fried papaya",
+      "section_raw": "បុកល្ហុង",
+      "price_raw": "(12000R)",
+      "price_value": 12000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "salad",
+        "vegetable"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "បុកល្ហុងត្រីសាម៉ុន",
+      "name_en": "Beat the salmon papaya",
+      "section_raw": "បុកល្ហុង",
+      "price_raw": "(18000R)",
+      "price_value": 18000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "fish",
+        "salad",
+        "vegetable"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "បុកល្ហុងត្រីចូណា",
+      "name_en": "Hit the Tuna",
+      "section_raw": "បុកល្ហុង",
+      "price_raw": "(18000R)",
+      "price_value": 18000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "fish",
+        "salad",
+        "vegetable"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "បុកសណ្តែកគួរ",
+      "name_en": "Beat the beans Should",
+      "section_raw": "បុកល្ហុង",
+      "price_raw": "(7000R)",
+      "price_value": 7000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "vegetable",
+        "salad"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "បុកពោត",
+      "name_en": "Hit the Corn",
+      "section_raw": "បុកល្ហុង",
+      "price_raw": "Unreadable",
+      "price_value": null,
+      "currency": "unknown",
+      "size_or_unit": null,
+      "tags": [
+        "vegetable",
+        "salad"
+      ],
+      "multi_unit": false,
+      "confidence": 0.5,
+      "notes": "Price is unreadable."
+    },
+    {
+      "name_km": "បុកពោតបង្គាស្រស់",
+      "name_en": "Beat Fresh corn & Shrimp",
+      "section_raw": "បុកល្ហុង",
+      "price_raw": "42000R)",
+      "price_value": 12000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "seafood",
+        "vegetable",
+        "salad"
+      ],
+      "multi_unit": false,
+      "confidence": 0.7,
+      "notes": "Price is handwritten, the '4' is likely a '1'."
+    },
+    {
+      "name_km": "បុកពោតក្តាមសេះ",
+      "name_en": "Hit the horse crab corn",
+      "section_raw": "បុកល្ហុង",
+      "price_raw": "(13000R)",
+      "price_value": 13000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "seafood",
+        "vegetable",
+        "salad"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "បុកមី",
+      "name_en": "Bok Mi",
+      "section_raw": "បុកល្ហុង",
+      "price_raw": "(8000R)",
+      "price_value": 8000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "noodle",
+        "salad"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "បុកល្ហុងណែម",
+      "name_en": "Hit the Nam papaya",
+      "section_raw": "បុកល្ហុង",
+      "price_raw": "(3000D",
+      "price_value": 3000,
+      "currency": "unknown",
+      "size_or_unit": null,
+      "tags": [
+        "salad",
+        "vegetable"
+      ],
+      "multi_unit": false,
+      "confidence": 0.7,
+      "notes": "Currency 'D' is unclear, price is partially cut off."
+    }
+  ],
+  "_source_file": "Screenshot 2026-07-20 at 10.35.39 PM.png",
+  "_model": "google/gemini-2.5-flash"
+}

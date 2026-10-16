@@ -1,0 +1,71 @@
+{
+  "menu_id": "sample_02",
+  "restaurant_name_raw": "ភោជនីយដ្ឋាន រាត្រីបាត់ដំបង",
+  "restaurant_name_en": "Reatry Battambong Restaurant",
+  "notes": "Bilingual USD table; dual size columns = two rows per dish when both prices present. Spot-check key target rows.",
+  "items": [
+    {
+      "name_km": "",
+      "name_en": "Fried chicken - Fish - Pork - Beef With Ginger (small)",
+      "price_raw": "4.00$",
+      "price_value": 4.0,
+      "currency": "USD",
+      "size_or_unit": "small",
+      "tags": ["chicken"]
+    },
+    {
+      "name_km": "",
+      "name_en": "Fried chicken - Fish - Pork - Beef With Ginger (large)",
+      "price_raw": "6.00$",
+      "price_value": 6.0,
+      "currency": "USD",
+      "size_or_unit": "large",
+      "tags": ["chicken"]
+    },
+    {
+      "name_km": "",
+      "name_en": "Fried Squid With light peppers (small)",
+      "price_raw": "4.50$",
+      "price_value": 4.5,
+      "currency": "USD",
+      "size_or_unit": "small",
+      "tags": ["seafood"]
+    },
+    {
+      "name_km": "",
+      "name_en": "Stir fried beef bull penis with vegetable (small)",
+      "price_raw": "4.00$",
+      "price_value": 4.0,
+      "currency": "USD",
+      "size_or_unit": "small",
+      "tags": ["beef", "vegetable"]
+    },
+    {
+      "name_km": "",
+      "name_en": "Fired Beef pork chicken (small)",
+      "price_raw": "4.5$",
+      "price_value": 4.5,
+      "currency": "USD",
+      "size_or_unit": "small",
+      "tags": ["chicken", "beef", "pork"]
+    },
+    {
+      "name_km": "",
+      "name_en": "Intestines with vegetable (small)",
+      "price_raw": "5.00$",
+      "price_value": 5.0,
+      "currency": "USD",
+      "size_or_unit": "small",
+      "tags": ["vegetable"]
+    },
+    {
+      "name_km": "",
+      "name_en": "Fried special vegetable (large)",
+      "price_raw": "8.00$",
+      "price_value": 8.0,
+      "currency": "USD",
+      "size_or_unit": "large",
+      "tags": ["vegetable"]
+    }
+  ]
+}

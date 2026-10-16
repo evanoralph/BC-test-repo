@@ -1,0 +1,191 @@
+{
+  "menu_id": "menu_14",
+  "restaurant_name_raw": null,
+  "restaurant_name_en": null,
+  "currency_notes": "All prices are in KHR. The heading 'មុខម្ហូបលឹង / បំពង' likely means 'Fried Dishes'.",
+  "items": [
+    {
+      "name_km": "មាន់លីង អំបិល ម្ទេស",
+      "name_en": "Fried chicken with salt and chili",
+      "section_raw": "មុខម្ហូបលឹង / បំពង",
+      "price_raw": "១៥០០០៛",
+      "price_value": 15000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "chicken"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "សាច់ជ្រូក បី ផាន់ លីង អំបិល ម្ទេស",
+      "name_en": "Fried pork belly with salt and chili",
+      "section_raw": "មុខម្ហូបលឹង / បំពង",
+      "price_raw": "១២០០០៛",
+      "price_value": 12000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "pork"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "ឆ្អឹង ជំនីលីង អំបិល ម្ទេស",
+      "name_en": "Fried ribs with salt and chili",
+      "section_raw": "មុខម្ហូបលឹង / បំពង",
+      "price_raw": "១២០០០៛",
+      "price_value": 12000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "pork"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "សាច់ជ្រូក បី ជាន់ បំពង",
+      "name_en": "Fried pork belly",
+      "section_raw": "មុខម្ហូបលឹង / បំពង",
+      "price_raw": "១២០០០៛",
+      "price_value": 12000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "pork"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "ស្លាបមាន់ បំពង",
+      "name_en": "Fried chicken wings",
+      "section_raw": "មុខម្ហូបលឹង / បំពង",
+      "price_raw": "១២០០០៛",
+      "price_value": 12000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "chicken"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "មាន់លីង គល់ ស្លឹក គ្រែ",
+      "name_en": "Fried chicken with lemongrass",
+      "section_raw": "មុខម្ហូបលឹង / បំពង",
+      "price_raw": "១២០០០៛",
+      "price_value": 12000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "chicken"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "ពោះវៀន បំពង",
+      "name_en": "Fried intestines",
+      "section_raw": "មុខម្ហូបលឹង / បំពង",
+      "price_raw": "១៦០០០៛",
+      "price_value": 16000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "pork",
+        "other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "សៃយ៉រ បង្គា បំពង",
+      "name_en": "Fried shrimp spring rolls",
+      "section_raw": "មុខម្ហូបលឹង / បំពង",
+      "price_raw": "១០០០០៛",
+      "price_value": 10000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "seafood"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "ងាវអប់ អំបិល ម្ទេស",
+      "name_en": "Steamed clams with salt and chili",
+      "section_raw": "មុខម្ហូបលឹង / បំពង",
+      "price_raw": "១២០០០៛",
+      "price_value": 12000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "seafood"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "អណ្តាត ទា បំពង ខ្ទឹម ស",
+      "name_en": "Fried duck tongue with garlic",
+      "section_raw": "មុខម្ហូបលឹង / បំពង",
+      "price_raw": "១៥០០០៛",
+      "price_value": 15000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "duck"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "ឆ្អឹង ជំនីបំពង ខ្លឹម ស",
+      "name_en": "Fried ribs with garlic",
+      "section_raw": "មុខម្ហូបលឹង / បំពង",
+      "price_raw": "១២០០០៛",
+      "price_value": 12000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "pork"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "កង្កែប បំពង ខ្លឹម ស",
+      "name_en": "Fried frog with garlic",
+      "section_raw": "មុខម្ហូបលឹង / បំពង",
+      "price_raw": "១២០០០៛",
+      "price_value": 12000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    }
+  ],
+  "_source_file": "Screenshot 2026-07-20 at 10.32.57 PM.png",
+  "_model": "google/gemini-2.5-flash"
+}

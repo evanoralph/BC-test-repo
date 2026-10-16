@@ -1,0 +1,107 @@
+{
+  "menu_id": "menu_11",
+  "restaurant_name_raw": null,
+  "restaurant_name_en": null,
+  "currency_notes": "Some prices are given in both USD and KHR. The KHR symbol is sometimes a dollar sign, but the value clearly indicates KHR.",
+  "items": [
+    {
+      "name_km": "គុយទាវគោកទឹកសស ឆ្នាំ",
+      "name_en": "Dry noodle with sauce",
+      "section_raw": null,
+      "price_raw": "2.5$",
+      "price_value": 2.5,
+      "currency": "USD",
+      "size_or_unit": null,
+      "tags": [
+        "noodle"
+      ],
+      "multi_unit": false,
+      "confidence": 0.7,
+      "notes": "The last word 'ឆ្នាំ' (year) seems out of place and might be a transcription error or part of a longer, cut-off name."
+    },
+    {
+      "name_km": "មីគីឡូគោកទឹកសសាច់ជ្រូក",
+      "name_en": "Dry noodle with pork sauce",
+      "section_raw": null,
+      "price_raw": "2.5$",
+      "price_value": 2.5,
+      "currency": "USD",
+      "size_or_unit": null,
+      "tags": [
+        "noodle",
+        "pork"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": ""
+    },
+    {
+      "name_km": "នុយទឹកសសាច់ជ្រូក",
+      "name_en": "Noodle soup with pork",
+      "section_raw": null,
+      "price_raw": "2.5$ (10000៛)",
+      "price_value": 2.5,
+      "currency": "USD",
+      "size_or_unit": null,
+      "tags": [
+        "noodle",
+        "pork",
+        "soup"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": "KHR price is 10000៛"
+    },
+    {
+      "name_km": "ស៊ុបគាវ",
+      "name_en": "Wonton soup",
+      "section_raw": null,
+      "price_raw": "3.00$ (12000$)",
+      "price_value": 3.0,
+      "currency": "USD",
+      "size_or_unit": null,
+      "tags": [
+        "soup"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": "The KHR price is written with a dollar sign, but the value 12000 indicates KHR."
+    },
+    {
+      "name_km": "លតទឹកសសាច់ជ្រូក",
+      "name_en": "Short noodle soup with pork",
+      "section_raw": null,
+      "price_raw": "2.50$ (10000s",
+      "price_value": 2.5,
+      "currency": "USD",
+      "size_or_unit": null,
+      "tags": [
+        "noodle",
+        "pork",
+        "soup"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": "The KHR price is written as '10000s', likely meaning 10000៛. The OCR cut off the end of the price."
+    },
+    {
+      "name_km": "បទាវទឹកសភ្លៅមាន់",
+      "name_en": "Noodle soup with chicken thigh",
+      "section_raw": null,
+      "price_raw": "3.00$ (12000$)",
+      "price_value": 3.0,
+      "currency": "USD",
+      "size_or_unit": null,
+      "tags": [
+        "noodle",
+        "chicken",
+        "soup"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": "The KHR price is written with a dollar sign, but the value 12000 indicates KHR."
+    }
+  ],
+  "_source_file": "Screenshot 2026-07-20 at 10.31.36 PM.png",
+  "_model": "google/gemini-2.5-flash"
+}

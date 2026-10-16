@@ -1,0 +1,8 @@
+menu,item_id,field,old_value,new_value,reason
+sample_01,*,restaurant,sample_01,House Specials (BEST SELLER),model left restaurant null; use section title
+sample_01,sample_01_002_special_taro,tags,"[""vegetable""]","[""fish""]",image review: not vegetable; treat as fish dish
+sample_01,sample_01_002_special_taro,name_en,Special Taro,Fish triangles (hand-corrected),image review vs Khmer photo label
+sample_01,sample_01_002_special_taro,flags,"[""tag_disagree""]",[],cleared after tag correction
+sample_02,sample_02_009_fried_beef_pork_chicken,price_value,4.55,4.5,menu print ~4.5$; model wrote 4.55
+sample_02,sample_02_009_fried_beef_pork_chicken,price_usd,4.55,4.5,menu print ~4.5$; model wrote 4.55
+sample_02,sample_02_009_fried_beef_pork_chicken,price_raw,4.55,4.5$,normalize price_raw to printed form

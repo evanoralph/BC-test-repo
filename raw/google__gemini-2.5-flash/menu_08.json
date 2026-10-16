@@ -1,0 +1,108 @@
+{
+  "menu_id": "menu_08",
+  "restaurant_name_raw": null,
+  "restaurant_name_en": null,
+  "currency_notes": "Prices are given in USD with KHR equivalents in parentheses.",
+  "items": [
+    {
+      "name_km": "បាយភ្លៅមាន់ចៀន",
+      "name_en": "Fried chicken thigh with rice",
+      "section_raw": null,
+      "price_raw": "3$",
+      "price_value": 3,
+      "currency": "USD",
+      "size_or_unit": null,
+      "tags": [
+        "chicken",
+        "rice"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "ស្ងោរស្ពៃចង្កឹះសាច់ជ្រូក",
+      "name_en": "Pork soup with Chinese cabbage",
+      "section_raw": null,
+      "price_raw": "2 $ (8000៛)",
+      "price_value": 2,
+      "currency": "USD",
+      "size_or_unit": null,
+      "tags": [
+        "pork",
+        "soup",
+        "vegetable"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "ស្ងោរស្ពៃបូកគោសាច់ចិញ្ច្រាំ",
+      "name_en": "Minced meat soup with bok choy",
+      "section_raw": null,
+      "price_raw": "2$ (8000៛)",
+      "price_value": 2,
+      "currency": "USD",
+      "size_or_unit": null,
+      "tags": [
+        "pork",
+        "soup",
+        "vegetable"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": "Assuming minced meat is pork based on common Cambodian cuisine."
+    },
+    {
+      "name_km": "ឆាក្រអៅឈូកសាច់ជ្រូក",
+      "name_en": "Stir-fried lotus root with pork",
+      "section_raw": null,
+      "price_raw": "2 $ (8000$)",
+      "price_value": 2,
+      "currency": "USD",
+      "size_or_unit": null,
+      "tags": [
+        "pork",
+        "vegetable"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": "KHR symbol is '$' in the raw price, but value is consistent with 8000 KHR."
+    },
+    {
+      "name_km": "ស្ងោរជ្រក់សាច់មាន់",
+      "name_en": "Sour chicken soup",
+      "section_raw": null,
+      "price_raw": "2.50$ (10000៛)",
+      "price_value": 2.5,
+      "currency": "USD",
+      "size_or_unit": null,
+      "tags": [
+        "chicken",
+        "soup"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "ឆាម្ទេសប្លោកសាច់គោ",
+      "name_en": "Stir-fried bell pepper with beef",
+      "section_raw": null,
+      "price_raw": "2 $ (8000$)",
+      "price_value": 2,
+      "currency": "USD",
+      "size_or_unit": null,
+      "tags": [
+        "beef",
+        "vegetable"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": "KHR symbol is '$' in the raw price, but value is consistent with 8000 KHR."
+    }
+  ],
+  "_source_file": "Screenshot 2026-07-20 at 10.31.05 PM.png",
+  "_model": "google/gemini-2.5-flash"
+}

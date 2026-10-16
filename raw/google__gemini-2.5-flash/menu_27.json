@@ -1,0 +1,985 @@
+{
+  "menu_id": "menu_27",
+  "restaurant_name_raw": null,
+  "restaurant_name_en": null,
+  "currency_notes": "Some prices are in USD ($), some in KHR (៛). KHR prices are sometimes denoted with ៛, sometimes with nothing. USD prices are sometimes denoted with $, sometimes with nothing. The currency for some items is ambiguous.",
+  "items": [
+    {
+      "name_km": "យូហ្គីតរស់ជាតិទឹកឃ្មុំក្រឡុក",
+      "name_en": "Honey Yogurt Frappe",
+      "section_raw": "Special Yogurt Frappe",
+      "price_raw": "5500៛",
+      "price_value": 5500,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "យូហ្គីតរស់ជាតិគូលែនក្រឡុក",
+      "name_en": "Litchi Yogurt Frappe",
+      "section_raw": "Special Yogurt Frappe",
+      "price_raw": "5500",
+      "price_value": 5500,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "យូហ្គីតរស់ជាតិស្ត្របឺរីក្រឡុក",
+      "name_en": "Strawberry Yogurt Frappe",
+      "section_raw": "Special Yogurt Frappe",
+      "price_raw": "5500",
+      "price_value": 5500,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "យូហ្គីតរស់ជាតិត្របែកក្រឡុក",
+      "name_en": "Guava Yogurt Frappe",
+      "section_raw": "Special Yogurt Frappe",
+      "price_raw": "5500",
+      "price_value": 5500,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "យូហ្គីតរស់ជាតិទំពាំងបាយជូក្រឡុក",
+      "name_en": "Grape Yogurt Frappe",
+      "section_raw": "Special Yogurt Frappe",
+      "price_raw": "5500",
+      "price_value": 5500,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "យូហ្គីតរស់ជាតិក្រូចល្បិចក្រឡុក",
+      "name_en": "Orange Yogurt Frappe",
+      "section_raw": "Special Yogurt Frappe",
+      "price_raw": "5500៛",
+      "price_value": 5500,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "យូហ្គីតរស់ជាតិម្នាស់ក្រឡុក",
+      "name_en": "Pineapple Yogurt Frappe",
+      "section_raw": "Special Yogurt Frappe",
+      "price_raw": "5500",
+      "price_value": 5500,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "យូហ្គីតរស់ជាតិផ្លែប៉ោមក្រឡុក",
+      "name_en": "Apple Yogurt Frappe",
+      "section_raw": "Special Yogurt Frappe",
+      "price_raw": "5500៛",
+      "price_value": 5500,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "យូហ្គីតរស់ជាតិក្រូចឆ្មាក្រឡុក",
+      "name_en": "Lemon Yogurt Frappe",
+      "section_raw": "Special Yogurt Frappe",
+      "price_raw": "5500៛",
+      "price_value": 5500,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "Lamborghini (ដុតកែវ)",
+      "name_en": "Lamborghini (flaming glass)",
+      "section_raw": "ស្រាក្រឡុក កែវ",
+      "price_raw": "9$",
+      "price_value": 9,
+      "currency": "USD",
+      "size_or_unit": null,
+      "tags": [
+        "alcohol_other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "Blue Magarita",
+      "name_en": "Blue Margarita",
+      "section_raw": "ស្រាក្រឡុក កែវ",
+      "price_raw": "2.5$",
+      "price_value": 2.5,
+      "currency": "USD",
+      "size_or_unit": null,
+      "tags": [
+        "alcohol_other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "Margiita",
+      "name_en": "Margarita",
+      "section_raw": "ស្រាក្រឡុក កែវ",
+      "price_raw": "2.5$",
+      "price_value": 2.5,
+      "currency": "USD",
+      "size_or_unit": null,
+      "tags": [
+        "alcohol_other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "Maithai",
+      "name_en": "Mai Tai",
+      "section_raw": "ស្រាក្រឡុក កែវ",
+      "price_raw": "2.5$",
+      "price_value": 2.5,
+      "currency": "USD",
+      "size_or_unit": null,
+      "tags": [
+        "alcohol_other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "Pine Colada",
+      "name_en": "Pina Colada",
+      "section_raw": "ស្រាក្រឡុក កែវ",
+      "price_raw": "2.5$",
+      "price_value": 2.5,
+      "currency": "USD",
+      "size_or_unit": null,
+      "tags": [
+        "alcohol_other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "Tiguila Sunrise",
+      "name_en": "Tequila Sunrise",
+      "section_raw": "ស្រាក្រឡុក កែវ",
+      "price_raw": "2.5$",
+      "price_value": 2.5,
+      "currency": "USD",
+      "size_or_unit": null,
+      "tags": [
+        "alcohol_other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "Long Island Ice Tea",
+      "name_en": "Long Island Iced Tea",
+      "section_raw": "ស្រាក្រឡុក កែវ",
+      "price_raw": "3$",
+      "price_value": 3,
+      "currency": "USD",
+      "size_or_unit": null,
+      "tags": [
+        "alcohol_other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "Mojito",
+      "name_en": "Mojito",
+      "section_raw": "ស្រាក្រឡុក កែវ",
+      "price_raw": "2.5$",
+      "price_value": 2.5,
+      "currency": "USD",
+      "size_or_unit": null,
+      "tags": [
+        "alcohol_other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "Singapour Sling",
+      "name_en": "Singapore Sling",
+      "section_raw": "ស្រាក្រឡុក កែវ",
+      "price_raw": "2.5$",
+      "price_value": 2.5,
+      "currency": "USD",
+      "size_or_unit": null,
+      "tags": [
+        "alcohol_other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "852",
+      "name_en": "852",
+      "section_raw": "ស្រាក្រឡុក កែវ",
+      "price_raw": "2.5$",
+      "price_value": 2.5,
+      "currency": "USD",
+      "size_or_unit": null,
+      "tags": [
+        "alcohol_other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "Corona Sunrise",
+      "name_en": "Corona Sunrise",
+      "section_raw": "ស្រាក្រឡុក & BEER",
+      "price_raw": "16$",
+      "price_value": 16,
+      "currency": "USD",
+      "size_or_unit": null,
+      "tags": [
+        "alcohol_other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "Heineken Sunrise",
+      "name_en": "Heineken Sunrise",
+      "section_raw": "ស្រាក្រឡុក & BEER",
+      "price_raw": "15$",
+      "price_value": 15,
+      "currency": "USD",
+      "size_or_unit": null,
+      "tags": [
+        "alcohol_other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "Tiger Sunrise",
+      "name_en": "Tiger Sunrise",
+      "section_raw": "ស្រាក្រឡុក & BEER",
+      "price_raw": "15$",
+      "price_value": 15,
+      "currency": "USD",
+      "size_or_unit": null,
+      "tags": [
+        "alcohol_other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "«Rainbow Mix មាន២រសជាតិ)",
+      "name_en": "Rainbow Mix (2 flavors)",
+      "section_raw": "ស្រាក្រឡុក Cocktail",
+      "price_raw": "18$",
+      "price_value": 18,
+      "currency": "USD",
+      "size_or_unit": null,
+      "tags": [
+        "alcohol_other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "Orange Wine (Red Wine 1 bottle)",
+      "name_en": "Orange Wine (Red Wine 1 bottle)",
+      "section_raw": "ស្រាក្រឡុក Cocktail",
+      "price_raw": "20$",
+      "price_value": 20,
+      "currency": "USD",
+      "size_or_unit": "bottle",
+      "tags": [
+        "alcohol_other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "Red Bull Rainbow",
+      "name_en": "Red Bull Rainbow",
+      "section_raw": "ស្រាក្រឡុក Cocktail",
+      "price_raw": "14$",
+      "price_value": 14,
+      "currency": "USD",
+      "size_or_unit": null,
+      "tags": [
+        "alcohol_other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "Bahama",
+      "name_en": "Bahama",
+      "section_raw": "ស្រាក្រឡុក Cocktail",
+      "price_raw": "7$",
+      "price_value": 7,
+      "currency": "USD",
+      "size_or_unit": null,
+      "tags": [
+        "alcohol_other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "Bahama",
+      "name_en": "Bahama",
+      "section_raw": "ស្រាក្រឡុក Cocktail",
+      "price_raw": "14$",
+      "price_value": 14,
+      "currency": "USD",
+      "size_or_unit": null,
+      "tags": [
+        "alcohol_other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "Capital Win",
+      "name_en": "Capital Win",
+      "section_raw": "ស្រាក្រឡុក Cocktail",
+      "price_raw": "7$",
+      "price_value": 7,
+      "currency": "USD",
+      "size_or_unit": null,
+      "tags": [
+        "alcohol_other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "Capital Win",
+      "name_en": "Capital Win",
+      "section_raw": "ស្រាក្រឡុក Cocktail",
+      "price_raw": "14$",
+      "price_value": 14,
+      "currency": "USD",
+      "size_or_unit": null,
+      "tags": [
+        "alcohol_other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "R.I",
+      "name_en": "R.I.",
+      "section_raw": "ស្រាក្រឡុក Cocktail",
+      "price_raw": "7$",
+      "price_value": 7,
+      "currency": "USD",
+      "size_or_unit": null,
+      "tags": [
+        "alcohol_other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "R.I",
+      "name_en": "R.I.",
+      "section_raw": "ស្រាក្រឡុក Cocktail",
+      "price_raw": "14$",
+      "price_value": 14,
+      "currency": "USD",
+      "size_or_unit": null,
+      "tags": [
+        "alcohol_other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "R.II",
+      "name_en": "R.II",
+      "section_raw": "ស្រាក្រឡុក Cocktail",
+      "price_raw": "7$",
+      "price_value": 7,
+      "currency": "USD",
+      "size_or_unit": null,
+      "tags": [
+        "alcohol_other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "R.II",
+      "name_en": "R.II",
+      "section_raw": "ស្រាក្រឡុក Cocktail",
+      "price_raw": "14$",
+      "price_value": 14,
+      "currency": "USD",
+      "size_or_unit": null,
+      "tags": [
+        "alcohol_other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "Blue Hawaii",
+      "name_en": "Blue Hawaii",
+      "section_raw": "ស្រាក្រឡុក Cocktail",
+      "price_raw": "7$",
+      "price_value": 7,
+      "currency": "USD",
+      "size_or_unit": null,
+      "tags": [
+        "alcohol_other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "Blue Hawaii",
+      "name_en": "Blue Hawaii",
+      "section_raw": "ស្រាក្រឡុក Cocktail",
+      "price_raw": "14$",
+      "price_value": 14,
+      "currency": "USD",
+      "size_or_unit": null,
+      "tags": [
+        "alcohol_other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "Pinacolada",
+      "name_en": "Pina Colada",
+      "section_raw": "ស្រាក្រឡុក Cocktail",
+      "price_raw": "6$",
+      "price_value": 6,
+      "currency": "USD",
+      "size_or_unit": null,
+      "tags": [
+        "alcohol_other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "Pinacolada",
+      "name_en": "Pina Colada",
+      "section_raw": "ស្រាក្រឡុក Cocktail",
+      "price_raw": "12$",
+      "price_value": 12,
+      "currency": "USD",
+      "size_or_unit": null,
+      "tags": [
+        "alcohol_other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "Blue Magarita",
+      "name_en": "Blue Margarita",
+      "section_raw": "ស្រាក្រឡុក Cocktail",
+      "price_raw": "6$",
+      "price_value": 6,
+      "currency": "USD",
+      "size_or_unit": null,
+      "tags": [
+        "alcohol_other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "Blue Magarita",
+      "name_en": "Blue Margarita",
+      "section_raw": "ស្រាក្រឡុក Cocktail",
+      "price_raw": "12$",
+      "price_value": 12,
+      "currency": "USD",
+      "size_or_unit": null,
+      "tags": [
+        "alcohol_other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "Sex on the beach",
+      "name_en": "Sex on the Beach",
+      "section_raw": "ស្រាក្រឡុក Cocktail",
+      "price_raw": "6$",
+      "price_value": 6,
+      "currency": "USD",
+      "size_or_unit": null,
+      "tags": [
+        "alcohol_other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "Sex on the beach",
+      "name_en": "Sex on the Beach",
+      "section_raw": "ស្រាក្រឡុក Cocktail",
+      "price_raw": "12$",
+      "price_value": 12,
+      "currency": "USD",
+      "size_or_unit": null,
+      "tags": [
+        "alcohol_other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "Green blander",
+      "name_en": "Green Blender",
+      "section_raw": "ស្រាក្រឡុក Cocktail",
+      "price_raw": "6$",
+      "price_value": 6,
+      "currency": "USD",
+      "size_or_unit": null,
+      "tags": [
+        "alcohol_other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "Green blander",
+      "name_en": "Green Blender",
+      "section_raw": "ស្រាក្រឡុក Cocktail",
+      "price_raw": "12$",
+      "price_value": 12,
+      "currency": "USD",
+      "size_or_unit": null,
+      "tags": [
+        "alcohol_other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "Singapour Sling",
+      "name_en": "Singapore Sling",
+      "section_raw": "ស្រាក្រឡុក Cocktail",
+      "price_raw": "7$",
+      "price_value": 7,
+      "currency": "USD",
+      "size_or_unit": null,
+      "tags": [
+        "alcohol_other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "Singapour Sling",
+      "name_en": "Singapore Sling",
+      "section_raw": "ស្រាក្រឡុក Cocktail",
+      "price_raw": "13$",
+      "price_value": 13,
+      "currency": "USD",
+      "size_or_unit": null,
+      "tags": [
+        "alcohol_other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "Long Island",
+      "name_en": "Long Island",
+      "section_raw": "ស្រាក្រឡុក Cocktail",
+      "price_raw": "7$",
+      "price_value": 7,
+      "currency": "USD",
+      "size_or_unit": null,
+      "tags": [
+        "alcohol_other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "Long Island",
+      "name_en": "Long Island",
+      "section_raw": "ស្រាក្រឡុក Cocktail",
+      "price_raw": "13$",
+      "price_value": 13,
+      "currency": "USD",
+      "size_or_unit": null,
+      "tags": [
+        "alcohol_other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "Pink Lady",
+      "name_en": "Pink Lady",
+      "section_raw": "ស្រាក្រឡុក Cocktail",
+      "price_raw": "7$",
+      "price_value": 7,
+      "currency": "USD",
+      "size_or_unit": null,
+      "tags": [
+        "alcohol_other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "Pink Lady",
+      "name_en": "Pink Lady",
+      "section_raw": "ស្រាក្រឡុក Cocktail",
+      "price_raw": "13$",
+      "price_value": 13,
+      "currency": "USD",
+      "size_or_unit": null,
+      "tags": [
+        "alcohol_other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "Kiwi (គីរី)",
+      "name_en": "Kiwi",
+      "section_raw": "ស្រាក្រឡុក Cocktail",
+      "price_raw": "6$",
+      "price_value": 6,
+      "currency": "USD",
+      "size_or_unit": null,
+      "tags": [
+        "alcohol_other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "Kiwi (គីរី)",
+      "name_en": "Kiwi",
+      "section_raw": "ស្រាក្រឡុក Cocktail",
+      "price_raw": "12$",
+      "price_value": 12,
+      "currency": "USD",
+      "size_or_unit": null,
+      "tags": [
+        "alcohol_other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "Passion (ជាសិន)",
+      "name_en": "Passion",
+      "section_raw": "ស្រាក្រឡុក Cocktail",
+      "price_raw": "6$",
+      "price_value": 6,
+      "currency": "USD",
+      "size_or_unit": null,
+      "tags": [
+        "alcohol_other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "Passion (ជាសិន)",
+      "name_en": "Passion",
+      "section_raw": "ស្រាក្រឡុក Cocktail",
+      "price_raw": "12$",
+      "price_value": 12,
+      "currency": "USD",
+      "size_or_unit": null,
+      "tags": [
+        "alcohol_other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "Methe (ជីអង្គាម)",
+      "name_en": "Mint",
+      "section_raw": "ស្រាក្រឡុក Cocktail",
+      "price_raw": "6$",
+      "price_value": 6,
+      "currency": "USD",
+      "size_or_unit": null,
+      "tags": [
+        "alcohol_other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "Methe (ជីអង្គាម)",
+      "name_en": "Mint",
+      "section_raw": "ស្រាក្រឡុក Cocktail",
+      "price_raw": "12$",
+      "price_value": 12,
+      "currency": "USD",
+      "size_or_unit": null,
+      "tags": [
+        "alcohol_other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "Orange (ក្រូច)",
+      "name_en": "Orange",
+      "section_raw": "ស្រាក្រឡុក Cocktail",
+      "price_raw": "6$",
+      "price_value": 6,
+      "currency": "USD",
+      "size_or_unit": null,
+      "tags": [
+        "alcohol_other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "Orange (ក្រូច)",
+      "name_en": "Orange",
+      "section_raw": "ស្រាក្រឡុក Cocktail",
+      "price_raw": "12$",
+      "price_value": 12,
+      "currency": "USD",
+      "size_or_unit": null,
+      "tags": [
+        "alcohol_other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "Grape (ទំពាំងបាយជូ)",
+      "name_en": "Grape",
+      "section_raw": "ស្រាក្រឡុក Cocktail",
+      "price_raw": "6$",
+      "price_value": 6,
+      "currency": "USD",
+      "size_or_unit": null,
+      "tags": [
+        "alcohol_other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "Grape (ទំពាំងបាយជូ)",
+      "name_en": "Grape",
+      "section_raw": "ស្រាក្រឡុក Cocktail",
+      "price_raw": "12$",
+      "price_value": 12,
+      "currency": "USD",
+      "size_or_unit": null,
+      "tags": [
+        "alcohol_other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "Strawberry (ស្ត្របឺរី)",
+      "name_en": "Strawberry",
+      "section_raw": "ស្រាក្រឡុក Cocktail",
+      "price_raw": "6$",
+      "price_value": 6,
+      "currency": "USD",
+      "size_or_unit": null,
+      "tags": [
+        "alcohol_other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "Strawberry (ស្ត្របឺរី)",
+      "name_en": "Strawberry",
+      "section_raw": "ស្រាក្រឡុក Cocktail",
+      "price_raw": "12$",
+      "price_value": 12,
+      "currency": "USD",
+      "size_or_unit": null,
+      "tags": [
+        "alcohol_other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "Pineapple (ម្នាស់)",
+      "name_en": "Pineapple",
+      "section_raw": "ស្រាក្រឡុក Cocktail",
+      "price_raw": "6$",
+      "price_value": 6,
+      "currency": "USD",
+      "size_or_unit": null,
+      "tags": [
+        "alcohol_other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "Pineapple (ម្នាស់)",
+      "name_en": "Pineapple",
+      "section_raw": "ស្រាក្រឡុក Cocktail",
+      "price_raw": "12$",
+      "price_value": 12,
+      "currency": "USD",
+      "size_or_unit": null,
+      "tags": [
+        "alcohol_other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "Litchi (គូលេន)",
+      "name_en": "Litchi",
+      "section_raw": "ស្រាក្រឡុក Cocktail",
+      "price_raw": "6$",
+      "price_value": 6,
+      "currency": "USD",
+      "size_or_unit": null,
+      "tags": [
+        "alcohol_other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "Litchi (គូលេន)",
+      "name_en": "Litchi",
+      "section_raw": "ស្រាក្រឡុក Cocktail",
+      "price_raw": "12$",
+      "price_value": 12,
+      "currency": "USD",
+      "size_or_unit": null,
+      "tags": [
+        "alcohol_other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    }
+  ],
+  "_source_file": "Screenshot 2026-07-21 at 11.15.15 AM.png",
+  "_model": "google/gemini-2.5-flash"
+}

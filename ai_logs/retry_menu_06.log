@@ -1,0 +1,8 @@
+[extract] found 31 images in data-sets
+[extract] --only filter ['menu_06'] -> 1 jobs
+[extract] queue=1 models=['google/gemini-2.5-flash'] workers=1
+[extract] resized Screenshot 2026-07-20 at 10.30.11 PM.png -> 425KB jpeg
+[extract] ok menu_06 model=google/gemini-2.5-flash status=200 36.7s
+[extract] salvaged truncated JSON
+[extract] wrote /Users/ralphevano/Documents/test/boost-capital/raw/google__gemini-2.5-flash/menu_06.json items=59
+[extract] done

@@ -1,0 +1,246 @@
+{
+  "menu_id": "menu_24",
+  "restaurant_name_raw": null,
+  "restaurant_name_en": null,
+  "currency_notes": "The currency symbol ៛ is only explicitly used for one item, but the prices are consistent with KHR. The symbol for KHR is often represented as a superscript 'r' or '៛' in Cambodia. The prices are assumed to be in KHR.",
+  "items": [
+    {
+      "name_km": "ហ្វីពិសេសគ្រឿងក្នុងគោ",
+      "name_en": "Special beef offal soup",
+      "section_raw": "អាហារពេលរសៀល (2:00PM - 9:00PM)",
+      "price_raw": "15.000",
+      "price_value": 15000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "beef",
+        "soup"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": ""
+    },
+    {
+      "name_km": "ហ៊ូ",
+      "name_en": "Hu (type of noodle soup)",
+      "section_raw": "អាហារពេលរសៀល (2:00PM - 9:00PM)",
+      "price_raw": "10.000",
+      "price_value": 10000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "noodle",
+        "soup"
+      ],
+      "multi_unit": false,
+      "confidence": 0.7,
+      "notes": ""
+    },
+    {
+      "name_km": "ស៊ុបក្ដាម",
+      "name_en": "Crab soup",
+      "section_raw": "អាហារពេលរសៀល (2:00PM - 9:00PM)",
+      "price_raw": "10.000",
+      "price_value": 10000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "seafood",
+        "soup"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "ស៊ុបពងទាកូនពុះ (អាចរើសប្រភេទមីបាន)",
+      "name_en": "Boiled fertilized duck egg soup (can choose noodle type)",
+      "section_raw": "អាហារពេលរសៀល (2:00PM - 9:00PM)",
+      "price_raw": "9.000",
+      "price_value": 9000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "egg",
+        "soup",
+        "noodle"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": ""
+    },
+    {
+      "name_km": "ស៊ុបពងទាកូនពុះសាច់ក្តាមម្ទេស",
+      "name_en": "Boiled fertilized duck egg soup with spicy crab meat",
+      "section_raw": "អាហារពេលរសៀល (2:00PM - 9:00PM)",
+      "price_raw": "15.000",
+      "price_value": 15000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "egg",
+        "seafood",
+        "soup"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": ""
+    },
+    {
+      "name_km": "ស៊ុបពងទាកូនពុះសាច់ក្តាមម្ទេស (បង្កង)",
+      "name_en": "Boiled fertilized duck egg soup with spicy crab meat (prawn)",
+      "section_raw": "អាហារពេលរសៀល (2:00PM - 9:00PM)",
+      "price_raw": "2.0000",
+      "price_value": 20000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "egg",
+        "seafood",
+        "soup"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": ""
+    },
+    {
+      "name_km": "ពងទាកូន",
+      "name_en": "Fertilized duck egg",
+      "section_raw": "អាហារពេលរសៀល (2:00PM - 9:00PM)",
+      "price_raw": "1.500",
+      "price_value": 1500,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "egg"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "មីស៊ុបពោះគោគ្រឿងក្នុងចម្រុះ",
+      "name_en": "Noodle soup with mixed beef offal",
+      "section_raw": "អាហារពេលរសៀល (2:00PM - 9:00PM)",
+      "price_raw": "9.000",
+      "price_value": 9000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "beef",
+        "noodle",
+        "soup"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "ពង់ក្រចកូនដុត ឬបំពងម្សៅ",
+      "name_en": "Grilled or fried baby snails",
+      "section_raw": "អាហារពេលរសៀល (2:00PM - 9:00PM)",
+      "price_raw": "5.000",
+      "price_value": 5000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "seafood"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": ""
+    },
+    {
+      "name_km": "ខ្យង ខ្ចៅ ចំហុយ ឬបុត",
+      "name_en": "Steamed or boiled snails",
+      "section_raw": "អាហារពេលរសៀល (2:00PM - 9:00PM)",
+      "price_raw": "5.000",
+      "price_value": 5000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "seafood"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": ""
+    },
+    {
+      "name_km": "ងាវស្រះ 1ចាន",
+      "name_en": "Pond clams, 1 plate",
+      "section_raw": "អាហារពេលរសៀល (2:00PM - 9:00PM)",
+      "price_raw": "8.000",
+      "price_value": 8000,
+      "currency": "KHR",
+      "size_or_unit": "plate",
+      "tags": [
+        "seafood"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "លៀសដុត អំពិលទុំ",
+      "name_en": "Grilled mussels with tamarind",
+      "section_raw": "អាហារពេលរសៀល (2:00PM - 9:00PM)",
+      "price_raw": "5.000៛",
+      "price_value": 5000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "seafood"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "ប្រហិតឆឹង (១ឈុត)",
+      "name_en": "Stir-fried meatballs (1 set)",
+      "section_raw": "អាហារពេលរសៀល (2:00PM - 9:00PM)",
+      "price_raw": "12.000៛",
+      "price_value": 12000,
+      "currency": "KHR",
+      "size_or_unit": "set",
+      "tags": [
+        "other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "កាហ្វេបូង",
+      "name_en": "Coconut coffee",
+      "section_raw": "មានលក់ទឹកក្រឡុក និងភេសជ្ជៈគ្រប់មុខ",
+      "price_raw": "4.500៛",
+      "price_value": 4500,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "coffee_tea"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "ទឹកក្រឡុក",
+      "name_en": "Smoothie/Shake",
+      "section_raw": "មានលក់ទឹកក្រឡុក និងភេសជ្ជៈគ្រប់មុខ",
+      "price_raw": "4.000៛",
+      "price_value": 4000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "soft_drink"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    }
+  ],
+  "_source_file": "Screenshot 2026-07-20 at 10.47.26 PM.png",
+  "_model": "google/gemini-2.5-flash"
+}

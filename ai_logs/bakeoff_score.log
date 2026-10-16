@@ -1,0 +1,11 @@
+[score] openai/gpt-4o-mini sample_01 composite=0.762 recall=0.67
+[score] google/gemini-2.5-flash sample_01 composite=1.143 recall=1.00
+[score] openai/gpt-4o-mini sample_02 composite=0.000 recall=0.00
+[score] google/gemini-2.5-flash sample_02 composite=0.878 recall=0.57
+[score] openai/gpt-4o-mini sample_03 composite=0.821 recall=0.88
+[score] google/gemini-2.5-flash sample_03 composite=0.857 recall=1.00
+[score] wrote /Users/ralphevano/Documents/test/boost-capital/bench/results/bakeoff.csv
+[score] avg composite openai/gpt-4o-mini = 0.5278 n=3
+[score] avg composite google/gemini-2.5-flash = 0.9592 n=3
+[score] winner=google/gemini-2.5-flash -> /Users/ralphevano/Documents/test/boost-capital/bench/results/winner.txt
+google/gemini-2.5-flash

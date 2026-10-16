@@ -1,0 +1,18 @@
+[verify] restaurant rename sample_01 -> House Specials (BEST SELLER)
+[verify] correct sample_01_002_special_taro.tags: ['vegetable'] -> ['fish'] (image review: not vegetable; treat as fish dish)
+[verify] correct sample_01_002_special_taro.name_en: 'Special Taro' -> 'Fish triangles (hand-corrected)' (image review vs Khmer photo label)
+[verify] correct sample_01_002_special_taro.flags: ['tag_disagree'] -> [] (cleared after tag correction)
+[verify] correct sample_02_009_fried_beef_pork_chicken.price_value: 4.55 -> 4.5 (menu print ~4.5$; model wrote 4.55)
+[verify] correct sample_02_009_fried_beef_pork_chicken.price_usd: 4.55 -> 4.5 (menu print ~4.5$; model wrote 4.55)
+[verify] correct sample_02_009_fried_beef_pork_chicken.price_raw: '4.55' -> '4.5$' (normalize price_raw to printed form)
+[verify] verified sample_01_007_garlic_chicken_feet
+[verify] verified sample_01_005_pounded_long_beans_with_smoked_fish
+[verify] verified sample_02_001_fried_chicken_fish_pork_beef_with_ginger
+[verify] verified sample_02_002_fried_chicken_fish_pork_beef_with_ginger
+[verify] verified sample_02_021_intestines_with_vegetable
+[verify] verified sample_03_015_grilled_mushroom_with_salt_chili
+[verify] verified sample_03_016_grilled_mushroom_with_salt_chili
+[verify] verified sample_03_019_grilled_chicken_with_chili_salt
+[verify] wrote /Users/ralphevano/Documents/test/boost-capital/data/menus.json
+[verify] wrote /Users/ralphevano/Documents/test/boost-capital/data/corrections.csv n=7
+[verify] copied to /Users/ralphevano/Documents/test/boost-capital/site/menus.json

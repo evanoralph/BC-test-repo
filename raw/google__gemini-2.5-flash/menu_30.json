@@ -1,0 +1,291 @@
+{
+  "menu_id": "menu_30",
+  "restaurant_name_raw": "ភោជនីយដ្ឋាន កាត្រីបាត់ដំបង",
+  "restaurant_name_en": "Reatry Battambong Restaurant",
+  "currency_notes": "Prices are in USD. Some prices are handwritten over printed prices. Some Khmer text is unreadable.",
+  "items": [
+    {
+      "name_km": "សាច់មាន់ សាច់ត្រី សាច់ជ្រូក, សាច់គោធាថ្មី",
+      "name_en": "Fried chicken - Fish - Pork - Beef With Ginger",
+      "section_raw": null,
+      "price_raw": "4.00$",
+      "price_value": 4.0,
+      "currency": "USD",
+      "size_or_unit": null,
+      "tags": [
+        "chicken",
+        "fish",
+        "pork",
+        "beef"
+      ],
+      "multi_unit": false,
+      "confidence": 0.7,
+      "notes": "Handwritten price over printed price."
+    },
+    {
+      "name_km": "អណ្តាសនា, លិទ្ធទៅនាងអក្នុងក្រសាំងទាប",
+      "name_en": "Fried Squid With light peppers",
+      "section_raw": null,
+      "price_raw": "4.00$",
+      "price_value": 4.0,
+      "currency": "USD",
+      "size_or_unit": null,
+      "tags": [
+        "seafood"
+      ],
+      "multi_unit": false,
+      "confidence": 0.7,
+      "notes": "Handwritten price over printed price."
+    },
+    {
+      "name_km": "ឡុកឡាក់សាច់គោ សាច់ជ្រូក សាច់មាន់",
+      "name_en": "Stir fried beef bull penis with vegetable",
+      "section_raw": null,
+      "price_raw": "4.00$",
+      "price_value": 4.0,
+      "currency": "USD",
+      "size_or_unit": null,
+      "tags": [
+        "beef",
+        "vegetable"
+      ],
+      "multi_unit": false,
+      "confidence": 0.7,
+      "notes": ""
+    },
+    {
+      "name_km": "ចានតូច ចានធំ",
+      "name_en": "Fried lok lak beef pork chicken fish",
+      "section_raw": null,
+      "price_raw": "4.00$",
+      "price_value": 4.0,
+      "currency": "USD",
+      "size_or_unit": "small",
+      "tags": [
+        "beef",
+        "pork",
+        "chicken",
+        "fish"
+      ],
+      "multi_unit": false,
+      "confidence": 0.7,
+      "notes": "Handwritten price over printed price."
+    },
+    {
+      "name_km": "ចានតូច ចានធំ",
+      "name_en": "Fried lok lak beef pork chicken fish",
+      "section_raw": null,
+      "price_raw": "6.00$",
+      "price_value": 6.0,
+      "currency": "USD",
+      "size_or_unit": "large",
+      "tags": [
+        "beef",
+        "pork",
+        "chicken",
+        "fish"
+      ],
+      "multi_unit": false,
+      "confidence": 0.7,
+      "notes": "Handwritten price over printed price."
+    },
+    {
+      "name_km": "ឆាក្តៅ ពារគ្រឿង នាព្រៃ សាច់គោ សាច់ជ្រូក, សាច់មាន់, សាច់ទា, អន្លà niệu",
+      "name_en": "Fired Beef pork chicken",
+      "section_raw": null,
+      "price_raw": "4.55",
+      "price_value": 4.55,
+      "currency": "USD",
+      "size_or_unit": null,
+      "tags": [
+        "beef",
+        "pork",
+        "chicken"
+      ],
+      "multi_unit": false,
+      "confidence": 0.7,
+      "notes": ""
+    },
+    {
+      "name_km": "ងាវឆាអំពិល",
+      "name_en": null,
+      "section_raw": null,
+      "price_raw": "4.00$",
+      "price_value": 4.0,
+      "currency": "USD",
+      "size_or_unit": null,
+      "tags": [
+        "seafood"
+      ],
+      "multi_unit": false,
+      "confidence": 0.6,
+      "notes": ""
+    },
+    {
+      "name_km": "ឆាកែងសាច់គោ, សាច់ជ្រូក, សាច់មាន់",
+      "name_en": null,
+      "section_raw": null,
+      "price_raw": "5.00$",
+      "price_value": 5.0,
+      "currency": "USD",
+      "size_or_unit": null,
+      "tags": [
+        "beef",
+        "pork",
+        "chicken"
+      ],
+      "multi_unit": false,
+      "confidence": 0.6,
+      "notes": ""
+    },
+    {
+      "name_km": "ឆាឆ្អឹងជំនីជ្រូកជូអែម",
+      "name_en": "Beef pork fried tomatoes",
+      "section_raw": null,
+      "price_raw": "4.00$",
+      "price_value": 4.0,
+      "currency": "USD",
+      "size_or_unit": null,
+      "tags": [
+        "beef",
+        "pork",
+        "vegetable"
+      ],
+      "multi_unit": false,
+      "confidence": 0.7,
+      "notes": "Handwritten price over printed price."
+    },
+    {
+      "name_km": "ជាក្រវ៉ាញសាច់គោ, សាច់ជ្រូក សាច់ត្រី អន្ទង់",
+      "name_en": "Beef pork fried cauliflower chili",
+      "section_raw": null,
+      "price_raw": "4.00$",
+      "price_value": 4.0,
+      "currency": "USD",
+      "size_or_unit": null,
+      "tags": [
+        "beef",
+        "pork",
+        "vegetable"
+      ],
+      "multi_unit": false,
+      "confidence": 0.7,
+      "notes": "Handwritten price over printed price."
+    },
+    {
+      "name_km": "សាច់គោ, សាច់ជ្រូកឆាប៉េងប៉ោះ",
+      "name_en": null,
+      "section_raw": null,
+      "price_raw": "4.00$",
+      "price_value": 4.0,
+      "currency": "USD",
+      "size_or_unit": null,
+      "tags": [
+        "beef",
+        "pork",
+        "vegetable"
+      ],
+      "multi_unit": false,
+      "confidence": 0.6,
+      "notes": ""
+    },
+    {
+      "name_km": "សាច់គោ, សាច់ជ្រូក, ឆារម្ទេសហាជី",
+      "name_en": "Intestines with vegetable",
+      "section_raw": null,
+      "price_raw": "5.00$",
+      "price_value": 5.0,
+      "currency": "USD",
+      "size_or_unit": null,
+      "tags": [
+        "other",
+        "vegetable"
+      ],
+      "multi_unit": false,
+      "confidence": 0.7,
+      "notes": ""
+    },
+    {
+      "name_km": "ផ្សិតចំប៉ើងឆាសាច់គោ, សាច់មាន់, សាច់ជ្រូក, សាច់ត្រី",
+      "name_en": null,
+      "section_raw": null,
+      "price_raw": "5.00$",
+      "price_value": 5.0,
+      "currency": "USD",
+      "size_or_unit": null,
+      "tags": [
+        "beef",
+        "chicken",
+        "pork",
+        "fish",
+        "vegetable"
+      ],
+      "multi_unit": false,
+      "confidence": 0.6,
+      "notes": ""
+    },
+    {
+      "name_km": "ពោះតាន់ឆាស្ពៃជូ",
+      "name_en": null,
+      "section_raw": null,
+      "price_raw": "5.00$",
+      "price_value": 5.0,
+      "currency": "USD",
+      "size_or_unit": null,
+      "tags": [
+        "other",
+        "vegetable"
+      ],
+      "multi_unit": false,
+      "confidence": 0.6,
+      "notes": ""
+    },
+    {
+      "name_km": "ជាថ្នាំពោះតាន់",
+      "name_en": null,
+      "section_raw": null,
+      "price_raw": "5.00$",
+      "price_value": 5.0,
+      "currency": "USD",
+      "size_or_unit": null,
+      "tags": [
+        "other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.6,
+      "notes": ""
+    },
+    {
+      "name_km": "ពោះតាន់ឆាម្រេចខ្ចី",
+      "name_en": null,
+      "section_raw": null,
+      "price_raw": "5.00$",
+      "price_value": 5.0,
+      "currency": "USD",
+      "size_or_unit": null,
+      "tags": [
+        "other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.6,
+      "notes": ""
+    },
+    {
+      "name_km": "បន្លែពិសេស",
+      "name_en": "Fried special vegetable",
+      "section_raw": null,
+      "price_raw": "8.00$",
+      "price_value": 8.0,
+      "currency": "USD",
+      "size_or_unit": null,
+      "tags": [
+        "vegetable"
+      ],
+      "multi_unit": false,
+      "confidence": 0.7,
+      "notes": ""
+    }
+  ],
+  "_source_file": "Screenshot 2026-07-21 at 11.16.25 AM.png",
+  "_model": "google/gemini-2.5-flash"
+}

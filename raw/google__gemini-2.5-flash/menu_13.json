@@ -1,0 +1,195 @@
+{
+  "menu_id": "menu_13",
+  "restaurant_name_raw": null,
+  "restaurant_name_en": null,
+  "currency_notes": "All prices are in KHR, indicated by ៛.",
+  "items": [
+    {
+      "name_km": "31.ឆាផ្សិតភ្លៅមាន់ប្រេងខ្យង",
+      "name_en": "Stir-fried chicken thigh mushroom with oyster sauce",
+      "section_raw": null,
+      "price_raw": "10000៛",
+      "price_value": 10000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "chicken",
+        "vegetable"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": ""
+    },
+    {
+      "name_km": "32.ឆាកាឆែតប្រេងខ្យង",
+      "name_en": "Stir-fried water mimosa with oyster sauce",
+      "section_raw": null,
+      "price_raw": "10000៛",
+      "price_value": 10000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "vegetable"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": ""
+    },
+    {
+      "name_km": "33.ឆាកាឆែតសាច់គោ",
+      "name_en": "Stir-fried water mimosa with beef",
+      "section_raw": null,
+      "price_raw": "15000៛",
+      "price_value": 15000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "beef",
+        "vegetable"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": ""
+    },
+    {
+      "name_km": "34.ឆាក្រសាំងទៀបសាច់គោ",
+      "name_en": "Stir-fried star gooseberry with beef",
+      "section_raw": null,
+      "price_raw": "15000៛",
+      "price_value": 15000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "beef",
+        "vegetable"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": ""
+    },
+    {
+      "name_km": "35.ឆាត្រកួនប្រេងខ្យង",
+      "name_en": "Stir-fried morning glory with oyster sauce",
+      "section_raw": null,
+      "price_raw": "10000៛",
+      "price_value": 10000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "vegetable"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": ""
+    },
+    {
+      "name_km": "36.ឆាត្រកួនសាច់គោ",
+      "name_en": "Stir-fried morning glory with beef",
+      "section_raw": null,
+      "price_raw": "15000៛",
+      "price_value": 15000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "beef",
+        "vegetable"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": ""
+    },
+    {
+      "name_km": "37.ឆាខាត់ណាប្រេងខ្យង",
+      "name_en": "Stir-fried kale with oyster sauce",
+      "section_raw": null,
+      "price_raw": "10000៛",
+      "price_value": 10000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "vegetable"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": ""
+    },
+    {
+      "name_km": "38.ឆាខាត់ណាសាច់គោ",
+      "name_en": "Stir-fried kale with beef",
+      "section_raw": null,
+      "price_raw": "15000៛",
+      "price_value": 15000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "beef",
+        "vegetable"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": ""
+    },
+    {
+      "name_km": "39.ឆាផ្សិតម្ជុលប្រេងខ្យង",
+      "name_en": "Stir-fried enoki mushrooms with oyster sauce",
+      "section_raw": null,
+      "price_raw": "10000៛",
+      "price_value": 10000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "vegetable"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": ""
+    },
+    {
+      "name_km": "40.ឆាពោតបារាំងប្រេងខ្យង",
+      "name_en": "Stir-fried baby corn with oyster sauce",
+      "section_raw": null,
+      "price_raw": "10000៛",
+      "price_value": 10000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "vegetable"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": ""
+    },
+    {
+      "name_km": "41.ឆាស្ពៃតឿឡេងខ្យង",
+      "name_en": "Stir-fried bok choy with oyster sauce",
+      "section_raw": null,
+      "price_raw": "10000៛",
+      "price_value": 10000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "vegetable"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": ""
+    },
+    {
+      "name_km": "42.ឆាស្ពៃបូកគោប្រេងខ្យង",
+      "name_en": "Stir-fried napa cabbage with oyster sauce",
+      "section_raw": null,
+      "price_raw": "10000៛",
+      "price_value": 10000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "vegetable"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": ""
+    }
+  ],
+  "_source_file": "Screenshot 2026-07-20 at 10.32.49 PM.png",
+  "_model": "google/gemini-2.5-flash"
+}

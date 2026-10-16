@@ -1,0 +1,150 @@
+{
+  "menu_id": "menu_01",
+  "restaurant_name_raw": "ហាងបាយ វិមានឯករាជ្យ",
+  "restaurant_name_en": "Independence Monument Restaurant",
+  "currency_notes": "No prices are visible on the menu. Prices are inferred as unknown.",
+  "items": [
+    {
+      "name_km": "បាយឆ្អឹងជំនីជ្រូក",
+      "name_en": "Pork Rib Rice",
+      "section_raw": null,
+      "price_raw": null,
+      "price_value": null,
+      "currency": "unknown",
+      "size_or_unit": null,
+      "tags": [
+        "pork",
+        "rice"
+      ],
+      "multi_unit": false,
+      "confidence": 0.6,
+      "notes": "Price not visible."
+    },
+    {
+      "name_km": "បាយផាក់ឡូវ",
+      "name_en": "Pak Lov Rice",
+      "section_raw": null,
+      "price_raw": null,
+      "price_value": null,
+      "currency": "unknown",
+      "size_or_unit": null,
+      "tags": [
+        "pork",
+        "rice"
+      ],
+      "multi_unit": false,
+      "confidence": 0.6,
+      "notes": "Price not visible."
+    },
+    {
+      "name_km": "បាយស្លាបមាន់",
+      "name_en": "Chicken Wing Rice",
+      "section_raw": null,
+      "price_raw": null,
+      "price_value": null,
+      "currency": "unknown",
+      "size_or_unit": null,
+      "tags": [
+        "chicken",
+        "rice"
+      ],
+      "multi_unit": false,
+      "confidence": 0.6,
+      "notes": "Price not visible."
+    },
+    {
+      "name_km": "បាយសាច់ជ្រូក",
+      "name_en": "Pork Rice",
+      "section_raw": null,
+      "price_raw": null,
+      "price_value": null,
+      "currency": "unknown",
+      "size_or_unit": null,
+      "tags": [
+        "pork",
+        "rice"
+      ],
+      "multi_unit": false,
+      "confidence": 0.6,
+      "notes": "Price not visible."
+    },
+    {
+      "name_km": "បាយភ្លៅមាន់",
+      "name_en": "Chicken Thigh Rice",
+      "section_raw": null,
+      "price_raw": null,
+      "price_value": null,
+      "currency": "unknown",
+      "size_or_unit": null,
+      "tags": [
+        "chicken",
+        "rice"
+      ],
+      "multi_unit": false,
+      "confidence": 0.6,
+      "notes": "Price not visible."
+    },
+    {
+      "name_km": "ពងទាក្រឡុក",
+      "name_en": "Scrambled Egg",
+      "section_raw": null,
+      "price_raw": null,
+      "price_value": null,
+      "currency": "unknown",
+      "size_or_unit": null,
+      "tags": [
+        "egg"
+      ],
+      "multi_unit": false,
+      "confidence": 0.6,
+      "notes": "Price not visible."
+    },
+    {
+      "name_km": "ពងទាចៀន",
+      "name_en": "Fried Egg",
+      "section_raw": null,
+      "price_raw": null,
+      "price_value": null,
+      "currency": "unknown",
+      "size_or_unit": null,
+      "tags": [
+        "egg"
+      ],
+      "multi_unit": false,
+      "confidence": 0.6,
+      "notes": "Price not visible."
+    },
+    {
+      "name_km": "ពងទាខ",
+      "name_en": "Boiled Egg",
+      "section_raw": null,
+      "price_raw": null,
+      "price_value": null,
+      "currency": "unknown",
+      "size_or_unit": null,
+      "tags": [
+        "egg"
+      ],
+      "multi_unit": false,
+      "confidence": 0.6,
+      "notes": "Price not visible."
+    },
+    {
+      "name_km": "ទឹកអំពៅ",
+      "name_en": "Sugarcane Juice",
+      "section_raw": null,
+      "price_raw": null,
+      "price_value": null,
+      "currency": "unknown",
+      "size_or_unit": null,
+      "tags": [
+        "soft_drink"
+      ],
+      "multi_unit": false,
+      "confidence": 0.6,
+      "notes": "Price not visible."
+    }
+  ],
+  "_source_file": "Screenshot 2026-07-20 at 10.23.50 PM.png",
+  "_model": "google/gemini-2.5-flash"
+}

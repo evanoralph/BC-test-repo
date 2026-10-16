@@ -1,0 +1,110 @@
+{
+  "menu_id": "menu_12",
+  "restaurant_name_raw": null,
+  "restaurant_name_en": null,
+  "currency_notes": "Prices are given in USD and KHR. The KHR price is consistently 4000 KHR per 1 USD.",
+  "items": [
+    {
+      "name_km": "មីគាវគ្រឿងសមុទ្រ",
+      "name_en": "Noodle soup with wonton and seafood",
+      "section_raw": null,
+      "price_raw": "3$ (12000៛)",
+      "price_value": 3,
+      "currency": "USD",
+      "size_or_unit": null,
+      "tags": [
+        "noodle",
+        "soup",
+        "seafood"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "គុយទាវគាវគ្រឿងក្នុងជ្រូក",
+      "name_en": "Noodle soup with wonton and pork offal",
+      "section_raw": null,
+      "price_raw": "3$ (12000៛)",
+      "price_value": 3,
+      "currency": "USD",
+      "size_or_unit": null,
+      "tags": [
+        "noodle",
+        "soup",
+        "pork"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "មីគាវបាក់សៀប",
+      "name_en": "Noodle soup with wonton and Bak Sieb",
+      "section_raw": null,
+      "price_raw": "3$ (12000៛)",
+      "price_value": 3,
+      "currency": "USD",
+      "size_or_unit": null,
+      "tags": [
+        "noodle",
+        "soup",
+        "pork"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": "Bak Sieb is a type of pork sausage or meatball."
+    },
+    {
+      "name_km": "គុយទាវបាក់សៀបសុទ្ធ",
+      "name_en": "Noodle soup with Bak Sieb only",
+      "section_raw": null,
+      "price_raw": "3 $ (12000៛)",
+      "price_value": 3,
+      "currency": "USD",
+      "size_or_unit": null,
+      "tags": [
+        "noodle",
+        "soup",
+        "pork"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": "Bak Sieb is a type of pork sausage or meatball."
+    },
+    {
+      "name_km": "គុយទាវគាវសាច់គោ",
+      "name_en": "Noodle soup with wonton and beef",
+      "section_raw": null,
+      "price_raw": "3$ (12000៛)",
+      "price_value": 3,
+      "currency": "USD",
+      "size_or_unit": null,
+      "tags": [
+        "noodle",
+        "soup",
+        "beef"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "ត្រីចៀនជូអែម",
+      "name_en": "Sweet and sour fried fish",
+      "section_raw": null,
+      "price_raw": "2.50$ (10000$)",
+      "price_value": 2.5,
+      "currency": "USD",
+      "size_or_unit": null,
+      "tags": [
+        "fish"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": "The KHR price is written with a dollar sign instead of riel symbol."
+    }
+  ],
+  "_source_file": "Screenshot 2026-07-20 at 10.32.14 PM.png",
+  "_model": "google/gemini-2.5-flash"
+}

@@ -1,0 +1,104 @@
+{
+  "menu_id": "menu_09",
+  "restaurant_name_raw": null,
+  "restaurant_name_en": null,
+  "currency_notes": "Prices are listed in USD with an equivalent KHR price in parentheses.",
+  "items": [
+    {
+      "name_km": "ឆាខ្ញីសាច់ជ្រូក",
+      "name_en": "Stir-fried ginger with pork",
+      "section_raw": null,
+      "price_raw": "2$ (8000$)",
+      "price_value": 2,
+      "currency": "USD",
+      "size_or_unit": null,
+      "tags": [
+        "pork"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": "KHR equivalent is 8000 KHR."
+    },
+    {
+      "name_km": "ឆាផ្កាខាត់ណាសាច់គោ",
+      "name_en": "Stir-fried cauliflower with beef",
+      "section_raw": null,
+      "price_raw": "2 $ (8000៛)",
+      "price_value": 2,
+      "currency": "USD",
+      "size_or_unit": null,
+      "tags": [
+        "beef",
+        "vegetable"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": "KHR equivalent is 8000 KHR."
+    },
+    {
+      "name_km": "ឆាត្រកួនប្រេងខ្យង",
+      "name_en": "Stir-fried morning glory with oyster sauce",
+      "section_raw": null,
+      "price_raw": "2.00$ (8000$)",
+      "price_value": 2,
+      "currency": "USD",
+      "size_or_unit": null,
+      "tags": [
+        "vegetable"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": "KHR equivalent is 8000 KHR."
+    },
+    {
+      "name_km": "ម្ជូរស្រែត្រី",
+      "name_en": "Sour soup with fish",
+      "section_raw": null,
+      "price_raw": "2$ (8000៛)",
+      "price_value": 2,
+      "currency": "USD",
+      "size_or_unit": null,
+      "tags": [
+        "fish",
+        "soup"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": "KHR equivalent is 8000 KHR."
+    },
+    {
+      "name_km": "នាត្រសក់+ប៉េងប៉ោះគ្រឿងសមុទ្រ",
+      "name_en": "Cucumber + tomato with seafood",
+      "section_raw": null,
+      "price_raw": "3$ (12000)",
+      "price_value": 3,
+      "currency": "USD",
+      "size_or_unit": null,
+      "tags": [
+        "seafood",
+        "vegetable",
+        "salad"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": "KHR equivalent is 12000 KHR."
+    },
+    {
+      "name_km": "កាមេសស្រស់សាច់គោ",
+      "name_en": "Fresh beef with chili",
+      "section_raw": null,
+      "price_raw": "2$ (8000$)",
+      "price_value": 2,
+      "currency": "USD",
+      "size_or_unit": null,
+      "tags": [
+        "beef"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": "KHR equivalent is 8000 KHR."
+    }
+  ],
+  "_source_file": "Screenshot 2026-07-20 at 10.31.15 PM.png",
+  "_model": "google/gemini-2.5-flash"
+}

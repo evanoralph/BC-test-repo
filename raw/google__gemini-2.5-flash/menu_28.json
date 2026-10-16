@@ -1,0 +1,123 @@
+{
+  "menu_id": "menu_28",
+  "restaurant_name_raw": "ឥន្ធធនូ",
+  "restaurant_name_en": "Rainbow",
+  "currency_notes": "All prices are in KHR. The currency symbol is not explicitly stated but 40,000 is a common price point for KHR in Cambodia.",
+  "items": [
+    {
+      "name_km": "ស៊ុបត្រីក្រហម",
+      "name_en": "Red Fish Soup",
+      "section_raw": null,
+      "price_raw": "40,000",
+      "price_value": 40000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "fish",
+        "soup"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "ម៉ូយ៉ាង",
+      "name_en": "Moo Yang",
+      "section_raw": null,
+      "price_raw": "40,000",
+      "price_value": 40000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "pork",
+        "beef"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": "Assumed to be a grilled meat dish, likely pork or beef based on typical 'Moo Yang' dishes."
+    },
+    {
+      "name_km": "ស៊ុបសាច់អាំង",
+      "name_en": "Grilled Meat Soup",
+      "section_raw": null,
+      "price_raw": "55,000",
+      "price_value": 55000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "beef",
+        "pork",
+        "soup"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "ស៊ុបមាន់ខ្មៅ",
+      "name_en": "Black Chicken Soup",
+      "section_raw": null,
+      "price_raw": "45,000",
+      "price_value": 45000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "chicken",
+        "soup"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "សាច់អាំង",
+      "name_en": "Grilled Meat",
+      "section_raw": null,
+      "price_raw": "40,000",
+      "price_value": 40000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "beef",
+        "pork"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "name_km": "ស៊ុបឥន្ទធនូ",
+      "name_en": "Rainbow Soup",
+      "section_raw": null,
+      "price_raw": "45,000",
+      "price_value": 45000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "soup",
+        "other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": "Likely a mixed soup with various ingredients, hence 'Rainbow'."
+    },
+    {
+      "name_km": "ស៊ុបប្រហិតត្រី",
+      "name_en": "Fish Ball Soup",
+      "section_raw": null,
+      "price_raw": "40,000",
+      "price_value": 40000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "fish",
+        "soup"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": ""
+    }
+  ],
+  "_source_file": "Screenshot 2026-07-21 at 11.15.26 AM.png",
+  "_model": "google/gemini-2.5-flash"
+}

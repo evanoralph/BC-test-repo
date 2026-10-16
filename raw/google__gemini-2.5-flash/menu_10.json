@@ -1,0 +1,103 @@
+{
+  "menu_id": "menu_10",
+  "restaurant_name_raw": null,
+  "restaurant_name_en": null,
+  "currency_notes": "Some prices are given in both USD and KHR, with the KHR value in parentheses. The KHR symbol is sometimes '៛' and sometimes '5'.",
+  "items": [
+    {
+      "name_km": "ឆាប៉េងបោះសាច់ជ្រូក",
+      "name_en": "Stir-fried tomato with pork",
+      "section_raw": null,
+      "price_raw": "2$ (8000$)",
+      "price_value": 2,
+      "currency": "USD",
+      "size_or_unit": null,
+      "tags": [
+        "pork"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": "KHR price 8000 is also given, but USD is primary."
+    },
+    {
+      "name_km": "ឆាខាត់ណាសាច់គោ",
+      "name_en": "Stir-fried kale with beef",
+      "section_raw": null,
+      "price_raw": "2.25$ $ (9000៛)",
+      "price_value": 2.25,
+      "currency": "USD",
+      "size_or_unit": null,
+      "tags": [
+        "beef",
+        "vegetable"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": "KHR price 9000 is also given, but USD is primary."
+    },
+    {
+      "name_km": "ឆាសណ្តែកគួរសាច់ចិញ្ច្រាំ",
+      "name_en": "Stir-fried long beans with minced meat",
+      "section_raw": null,
+      "price_raw": "2 $ (8000៛)",
+      "price_value": 2,
+      "currency": "USD",
+      "size_or_unit": null,
+      "tags": [
+        "vegetable",
+        "pork"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": "KHR price 8000 is also given, but USD is primary."
+    },
+    {
+      "name_km": "ម្ជូរខ្លះសាច់គោ",
+      "name_en": "Sour soup with beef",
+      "section_raw": null,
+      "price_raw": "2 $ (8000៛)",
+      "price_value": 2,
+      "currency": "USD",
+      "size_or_unit": null,
+      "tags": [
+        "beef",
+        "soup"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": "KHR price 8000 is also given, but USD is primary."
+    },
+    {
+      "name_km": "ត្រីចៀនជូន",
+      "name_en": "Fried fish",
+      "section_raw": null,
+      "price_raw": "2.25 $ (9000៛)",
+      "price_value": 2.25,
+      "currency": "USD",
+      "size_or_unit": null,
+      "tags": [
+        "fish"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": "KHR price 9000 is also given, but USD is primary."
+    },
+    {
+      "name_km": "កង្កែបបំពង",
+      "name_en": "Fried frog",
+      "section_raw": null,
+      "price_raw": "2.50 $ (100005)",
+      "price_value": 2.5,
+      "currency": "USD",
+      "size_or_unit": null,
+      "tags": [
+        "other"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": "KHR price 10000 is also given, but USD is primary. The KHR symbol is '5'."
+    }
+  ],
+  "_source_file": "Screenshot 2026-07-20 at 10.31.25 PM.png",
+  "_model": "google/gemini-2.5-flash"
+}

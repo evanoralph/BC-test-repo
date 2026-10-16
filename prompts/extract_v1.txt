@@ -1,0 +1,41 @@
+You are extracting a restaurant menu photographed in Cambodia. Text is mostly Khmer.
+Return ONLY JSON matching this schema (no markdown fences):
+
+{
+  "menu_id": "<filename or id>",
+  "restaurant_name_raw": "string|null",
+  "restaurant_name_en": "string|null",
+  "currency_notes": "string",
+  "items": [{
+    "name_km": "verbatim Khmer",
+    "name_en": "translation",
+    "section_raw": "heading it sits under, verbatim",
+    "price_raw": "exactly as printed, incl. symbols / Khmer digits",
+    "price_value": 12000,
+    "currency": "USD|KHR|unknown",
+    "size_or_unit": "can/bottle/glass/small/large/bucket/null",
+    "tags": ["chicken","vegetable"],
+    "multi_unit": false,
+    "confidence": 0.8,
+    "notes": ""
+  }]
+}
+
+Rules:
+- One row per priced item. If an item has several sizes/prices, emit one row per price.
+- name_km: copy the Khmer exactly as written. Do not translate or "fix" it.
+- price_raw: copy the price exactly as printed, including $, ៛, រៀល, K, Khmer digits (០-៩), commas.
+- price_value: the number only; convert Khmer digits; expand "K"/ពាន់ to ×1000. If unreadable, null.
+- currency: USD only if $ / ដុល្លារ / an explicit USD column; KHR only if ៛ / រៀល / R / KHR or an
+  explicit riel column; otherwise "unknown". Never guess silently; explain in notes.
+- If a price is printed once for a whole section, apply it to each item and say so in notes.
+- If handwritten prices cross out printed ones, use the handwritten value and note it.
+- tags: from this list only: chicken, pork, beef, fish, seafood, duck, egg, tofu, vegetable, salad, rice, noodle, soup, beer, soft_drink, water, coffee_tea, alcohol_other, dessert, other
+  "chicken" means the dish's main protein is chicken (NOT chicken egg ស៊ុតមាន់). A stir-fry of chicken with vegetables gets both tags.
+- multi_unit: true for buckets, towers, jugs, sets, "x6", cases, or anything clearly >1 serving of a drink.
+- confidence: your honest 0–1 confidence that name, price and currency are all correct.
+- Do not invent items. If part of the menu is unreadable, say so in currency_notes.
+- currency_notes: ONE short sentence only (max ~20 words). Never repeat the same phrase.
+- Prefer writing the items array early. Do not pad or loop on notes.
+- Set menu_id to the value provided in the user message.
+- Return raw JSON only — no markdown fences.

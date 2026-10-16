@@ -1,0 +1,105 @@
+{
+  "menu_id": "menu_07",
+  "restaurant_name_raw": null,
+  "restaurant_name_en": null,
+  "currency_notes": "Some prices are given in USD with a KHR equivalent in parentheses. One item has a KHR price with a % symbol instead of ៛.",
+  "items": [
+    {
+      "name_km": "មីគាវគ្រឿងសមុទ្រ",
+      "name_en": "Noodle soup with wonton and seafood",
+      "section_raw": null,
+      "price_raw": "3$ (12000$)",
+      "price_value": 3,
+      "currency": "USD",
+      "size_or_unit": null,
+      "tags": [
+        "noodle",
+        "seafood"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": "KHR equivalent is 12000 KHR."
+    },
+    {
+      "name_km": "គុយទាវគាវគ្រឿងក្នុងជ្រូក",
+      "name_en": "Noodle soup with wonton and pork offal",
+      "section_raw": null,
+      "price_raw": "3$ (12000៛)",
+      "price_value": 3,
+      "currency": "USD",
+      "size_or_unit": null,
+      "tags": [
+        "noodle",
+        "pork"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": "KHR equivalent is 12000 KHR."
+    },
+    {
+      "name_km": "មីគាវបាក់សៀប",
+      "name_en": "Noodle soup with wonton and fish balls",
+      "section_raw": null,
+      "price_raw": "3$ (12000៛)",
+      "price_value": 3,
+      "currency": "USD",
+      "size_or_unit": null,
+      "tags": [
+        "noodle",
+        "fish"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": "KHR equivalent is 12000 KHR."
+    },
+    {
+      "name_km": "គុយទាវបាក់សៀបសុទ្ធ",
+      "name_en": "Noodle soup with fish balls only",
+      "section_raw": null,
+      "price_raw": "3 $ (12000៛)",
+      "price_value": 3,
+      "currency": "USD",
+      "size_or_unit": null,
+      "tags": [
+        "noodle",
+        "fish"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": "KHR equivalent is 12000 KHR."
+    },
+    {
+      "name_km": "គុយទាវគាវសាច់គោ",
+      "name_en": "Noodle soup with wonton and beef",
+      "section_raw": null,
+      "price_raw": "3$ (12000៛)",
+      "price_value": 3,
+      "currency": "USD",
+      "size_or_unit": null,
+      "tags": [
+        "noodle",
+        "beef"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": "KHR equivalent is 12000 KHR."
+    },
+    {
+      "name_km": "ត្រីចៀនជូអែម",
+      "name_en": "Sweet and sour fried fish",
+      "section_raw": null,
+      "price_raw": "2.50$ (10000%)",
+      "price_value": 2.5,
+      "currency": "USD",
+      "size_or_unit": null,
+      "tags": [
+        "fish"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": "KHR equivalent is 10000 KHR, but the symbol is a percentage sign instead of KHR or ៛."
+    }
+  ],
+  "_source_file": "Screenshot 2026-07-20 at 10.30.44 PM.png",
+  "_model": "google/gemini-2.5-flash"
+}

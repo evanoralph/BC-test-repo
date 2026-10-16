@@ -1,0 +1,257 @@
+{
+  "menu_id": "menu_20",
+  "restaurant_name_raw": "រចនាបុកល្ហុង",
+  "restaurant_name_en": "Rachana Papaya Salad",
+  "currency_notes": "Prices are in KHR, indicated by R or ៛, or inferred from typical Cambodian pricing. Some prices are handwritten.",
+  "items": [
+    {
+      "name_km": "បុកល្ហុង១២ប្រ",
+      "name_en": "Thai Papaya Salad",
+      "section_raw": "បុកល្ហុង",
+      "price_raw": "7500",
+      "price_value": 7500,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "vegetable",
+        "salad"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": "Price is handwritten."
+    },
+    {
+      "name_km": "បុកល្ហុងឥសាន្ត",
+      "name_en": "Northeast green papaya salad",
+      "section_raw": "បុកល្ហុង",
+      "price_raw": "8000",
+      "price_value": 8000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "vegetable",
+        "salad"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": "Price is handwritten."
+    },
+    {
+      "name_km": "បុកល្ហុងឡាវ",
+      "name_en": "Hit the Lav papaya",
+      "section_raw": "បុកល្ហុង",
+      "price_raw": "8500",
+      "price_value": 8500,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "vegetable",
+        "salad"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": "Price is handwritten."
+    },
+    {
+      "name_km": "បុកល្ហុងពងទាប្រៃ",
+      "name_en": "Beat the papaya with salted duck egg",
+      "section_raw": "បុកល្ហុង",
+      "price_raw": "7500",
+      "price_value": 7500,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "vegetable",
+        "salad",
+        "egg"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": "Price is handwritten."
+    },
+    {
+      "name_km": "បុកល្ហុងពងទាកូន",
+      "name_en": "Beat the papaya duck eggs",
+      "section_raw": "បុកល្ហុង",
+      "price_raw": "8000R",
+      "price_value": 8000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "vegetable",
+        "salad",
+        "egg"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": null
+    },
+    {
+      "name_km": "បុកល្ហុងបាត់តេ",
+      "name_en": "Pate Green papaya salad",
+      "section_raw": "បុកល្ហុង",
+      "price_raw": "8500",
+      "price_value": 8500,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "vegetable",
+        "salad"
+      ],
+      "multi_unit": false,
+      "confidence": 0.8,
+      "notes": "Price is handwritten."
+    },
+    {
+      "name_km": "បុកល្ហុងងាវ",
+      "name_en": "Cockle Green papaya salad",
+      "section_raw": "បុកល្ហុង",
+      "price_raw": "12000R",
+      "price_value": 12000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "vegetable",
+        "salad",
+        "seafood"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": null
+    },
+    {
+      "name_km": "បុកល្ហុងបង្គាស្រស់",
+      "name_en": "Fresh shrimp Green papaya salad",
+      "section_raw": "បុកល្ហុង",
+      "price_raw": "12000R",
+      "price_value": 12000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "vegetable",
+        "salad",
+        "seafood"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": null
+    },
+    {
+      "name_km": "បុកល្ហុងក្តាមសេះ",
+      "name_en": "Green papaya salad mix with Blue sea crab",
+      "section_raw": "បុកល្ហុង",
+      "price_raw": "12000R",
+      "price_value": 12000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "vegetable",
+        "salad",
+        "seafood"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": null
+    },
+    {
+      "name_km": "បុកល្ហុងទឹក",
+      "name_en": "Hit the squid papaya",
+      "section_raw": "បុកល្ហុង",
+      "price_raw": "12000R",
+      "price_value": 12000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "vegetable",
+        "salad",
+        "seafood"
+      ],
+      "multi_unit": false,
+      "confidence": 0.9,
+      "notes": null
+    },
+    {
+      "name_km": "ឈុតបុកល្ហុងគ្រឿងសមុទ្រ",
+      "name_en": "Seafood papaya Set",
+      "section_raw": null,
+      "price_raw": "25000R",
+      "price_value": 25000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "seafood",
+        "salad",
+        "other"
+      ],
+      "multi_unit": true,
+      "confidence": 0.9,
+      "notes": null
+    },
+    {
+      "name_km": "ឈុតបុកល្ហុងស្លាបមាន់",
+      "name_en": "Chicken papaya Set",
+      "section_raw": null,
+      "price_raw": "26000",
+      "price_value": 26000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "chicken",
+        "salad",
+        "other"
+      ],
+      "multi_unit": true,
+      "confidence": 0.8,
+      "notes": "Price is handwritten."
+    },
+    {
+      "name_km": "ឈុតត្រីសាម៉ុន",
+      "name_en": "Salmon Set",
+      "section_raw": null,
+      "price_raw": "42000",
+      "price_value": 42000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "fish",
+        "salad",
+        "other"
+      ],
+      "multi_unit": true,
+      "confidence": 0.8,
+      "notes": null
+    },
+    {
+      "name_km": "ឈុតហតដក",
+      "name_en": "Hot dogs Set",
+      "section_raw": null,
+      "price_raw": "2000R",
+      "price_value": 2000,
+      "currency": "KHR",
+      "size_or_unit": null,
+      "tags": [
+        "other"
+      ],
+      "multi_unit": true,
+      "confidence": 0.8,
+      "notes": null
+    },
+    {
+      "name_km": "ឈុតប៉ាត់តេ",
+      "name_en": "Patte Set",
+      "section_raw": null,
+      "price_raw": null,
+      "price_value": null,
+      "currency": "unknown",
+      "size_or_unit": null,
+      "tags": [
+        "other"
+      ],
+      "multi_unit": true,
+      "confidence": 0.5,
+      "notes": "Price is unreadable."
+    }
+  ],
+  "_source_file": "Screenshot 2026-07-20 at 10.35.49 PM.png",
+  "_model": "google/gemini-2.5-flash"
+}
